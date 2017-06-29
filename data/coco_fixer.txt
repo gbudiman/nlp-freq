@@ -1,0 +1,14243 @@
+'s: 4
+-pie: 1
+-platform: 1
+.with: 1
+10cc: 1
+10th: 1
+11th: 1
+130th: 1
+13th: 3
+14th: 1
+16th: 1
+17th: 1
+18-wheeler: 1
+1800: 1
+1900: 1
+1930: 1
+1940: 2
+1950: 1
+1960: 3
+1970: 1
+1990: 1
+1st: 2
+2-bedroom: 1
+20: 1
+21st: 1
+23rd: 1
+2nd: 3
+2x4: 1
+30th: 2
+31st: 1
+33piece: 1
+33rd: 1
+34th: 2
+3d: 5
+3rd: 5
+3th: 1
+4-way: 1
+40-wheel: 1
+42nd: 1
+44th: 1
+4d: 1
+4th: 1
+5th: 1
+60th: 1
+68th: 1
+6pm9pm: 1
+6th: 3
+747: 1
+760th: 1
+7am: 1
+7up: 1
+86: 1
+8th: 1
+9th: 1
+@me: 1
+a: 347
+a.: 1
+a.m.: 1
+a350: 1
+a380: 1
+a4tech: 1
+a;row: 1
+aa: 6
+aan: 2
+aardvark: 1
+aaron: 3
+abacus: 1
+aball: 1 a ball
+abandon: 4
+abaseball: 1 a baseball
+abasket: 1 a basket
+abat: 1 a bat
+abbetved: 1
+abbott: 1
+abc: 1
+abckground: 1 a background
+abd: 1 and
+abdoman: 1 abdomen
+abed: 3
+abike: 1 a bike
+ability: 8
+abiut: 1
+ablack: 1 a black
+aboard: 1
+aboarding: 1
+abot: 2 about
+about: 2
+above: 6
+abowl: 1 a bowl
+aboy: 1 a boy
+abraham: 4
+absorber: 1
+abstract: 3
+abstractness: 1
+abundance: 21
+abus: 1 a bus
+abut: 1
+abutment: 1
+abyss: 1
+ac: 1
+acacia: 2
+academy: 1
+acat: 2 a cat
+accent: 77
+access: 11
+accessibility: 1
+accessory: 181
+accident: 41
+accolade: 1
+accommodation: 2
+accompaniment: 1
+accompany: 1
+accomplishment: 1
+accord: 2
+accordian: 1 accordion
+accordion: 12
+account: 1
+accouterment: 1
+accoutrement: 2
+ace: 2
+aceite: 1
+acer: 2
+achair: 1 a chair
+achievement: 2
+acid: 1
+acne: 2
+acouple: 1 a couple
+acqua: 2
+acrobat: 6
+acrobatic: 3
+across: 2
+acrylic: 3
+act: 16
+acting: 2
+action: 359
+action.shot: 1
+activia: 1
+activite: 1 activity
+activity: 59
+acto: 1 actor
+actor: 14
+actress: 3
+actually: 1
+ad: 60
+adam: 1
+adams: 1
+adapter: 5
+addicott: 1
+addition: 4
+address: 14
+addressing: 1
+adelina: 1
+adidas: 6
+adirondack: 2
+adjacent: 5
+adjoin: 1
+adjudicate: 1
+admiring: 1
+admittance: 1
+adn: 3 and
+adobe: 9
+adog: 1 a dog
+adolescent: 3
+adornment: 1
+adult: 1607
+adults: 4
+advance: 1
+advanced: 1
+advancement: 1
+advantage: 9
+adventure: 10
+adventurer: 1
+advert: 3
+advertise: 1
+advertisement: 207
+advertiser: 1
+advertising: 128
+advertisment: 4 advertisement
+advertizement: 1 advertisement
+advice: 2
+advising: 1
+advisory: 1
+advocacy: 2
+aeg: 1
+aegean: 1
+aer: 2
+aerial: 6
+aerialist: 1
+aerobatic: 1
+aerodynamic: 1
+aeroflot: 3
+aeromexico: 2
+aeroplane: 18
+aeropostale: 1
+af: 3
+afence: 1 a fence
+affair: 3
+affect: 1
+affection: 11
+afganistan: 1 afghanistan
+afghan: 8
+afghanis: 1
+afield: 2
+aflac: 1
+africa: 20
+african: 12
+afro: 8
+after: 1
+aftermath: 2
+afternoon: 66
+afteroon: 1 afternoon
+ag: 1
+against: 5
+agate: 1
+age: 41
+aged: 1
+ageism: 1
+agency: 1
+agenda: 1
+agent: 3
+agility: 2
+agnes: 2
+agreement: 1
+agroup: 1 a group
+ahead: 6
+ahnd: 1 and
+ahome: 1 a home
+ahomemaker: 1 a homemaker
+ahopping: 1 shopping
+ahouse: 1 a house
+ahuman: 1 a human
+aia: 1 asia
+aid: 20
+aim: 5
+aiplane: 1 airplane
+aiprlane: 1 airplane
+air: 5480
+airbase: 1
+airbone: 1 airborne
+airborn: 1 airborne
+airborne: 8
+airbus: 4
+aircraft: 281
+airfield: 65
+airforce: 2
+airfrance: 10
+airiel: 1
+airier: 1
+airl: 1
+airline: 106
+airliner: 295
+airlines: 83
+airlot: 1
+airlplane: 2 airplane
+airmail: 1
+airman: 1
+airpane: 1 airplane
+airplae: 1 airplane
+airplain: 1 airplane
+airplaine: 2 airplane
+airplane: 4437
+airplanes: 3
+airpline: 1 airplane
+airplnae: 1 airplane
+airpoet: 1 airport
+airpoirt: 1 airport
+airport: 2101
+airpost: 1 airport
+airpot: 1 airport
+airshow: 16 
+airspace: 1
+airstream: 1
+airstrip: 33
+airway: 7
+airways: 48
+airy: 1
+aisle: 34
+aisleway: 1
+aith: 1
+akan: 2
+akbank: 1 a bank
+akeyboard: 1 a keyboard
+akieys: 1
+akimbo: 1
+akte: 1
+al: 7
+alarm: 73
+alaska: 14
+alaskan: 1
+albani: 1
+albert: 2
+album: 12
+alcohol: 70
+alcove: 15
+ale: 12
+alert: 27
+alex: 2
+alexandria: 3
+alfalfa: 5
+alfredo: 4
+algae: 11
+alice: 2
+alienware: 3
+alight: 1
+alignment: 2
+aline: 1
+alining: 1
+alitala: 1
+alk: 3
+all: 6
+alla: 2
+alldredge: 1
+allee: 3
+alley: 161
+alleyway: 30
+alliance: 2
+alligator: 12
+allot: 4
+allover: 2
+alluminum: 1 aluminum
+ally: 9
+almanac: 1
+almond: 38
+almost: 1
+alond: 1
+alone: 1
+along: 2
+alongside: 1
+alot: 12 a lot
+alpacas: 2
+alphabet: 5
+alpine: 10
+alps: 2
+alredo: 1 alfredo
+alright: 1 
+alseep: 1 asleep
+alt: 1
+altar: 4
+alter: 10
+alteration: 1
+alternate: 1
+alternative: 1
+altitude: 18
+alto: 5
+aluminium: 4 aluminum
+aluminum: 60
+aluniem: 1 aluminum
+am: 5
+aman: 3 a man
+amarket: 1 a market
+amateur: 8
+amazement: 1
+amazon: 2
+ambarella: 1 umbrella
+ambassador: 1
+ambience: 2 ambiance
+ambiguity: 1
+ambulance: 45
+amd: 1 and
+ameadow: 1 a meadow
+amelie: 1
+amenity: 21
+america: 19
+american: 26
+americans: 3
+amethyst: 2
+amirror: 2
+amish: 1
+amlost: 1
+amodel: 1 a model
+amoire: 1
+among: 1
+amotor: 1 a motor
+amount: 138
+amp: 6
+amphitheater: 2
+amplifier: 1
+amplitude: 1
+amry: 1
+amtrak: 25
+amusement: 31
+an: 17
+ana: 6
+anaglyph: 1
+anaheim: 1
+anaimsl: 1
+analog: 38
+analogue: 1
+anatomy: 1
+ancestor: 1
+anchor: 13
+anchorman: 1
+anchovy: 10
+and: 81
+andorange: 1
+android: 1
+andy: 1
+anemone: 1
+ang: 1
+angel: 31
+angeles: 15
+angels: 11
+anger: 1
+angle: 97
+angles: 1
+angry: 1
+anguish: 1
+anima: 2 animal
+animal: 3475
+animan: 1 animal
+animation: 6
+anime: 5
+animlas: 1 animal
+aniother: 1 another
+ankle: 23
+ann: 4
+annie: 1
+anniversary: 3
+annotation: 1
+announcement: 3
+announcer: 6
+ano: 1
+anotehr: 1 another
+another: 2
+anping: 1
+ans: 1
+ansett: 1
+ant: 4
+antanae: 2 antennae
+anteater: 2
+antelope: 83
+antenna: 19
+antennae: 3
+antennas: 1
+antennea: 1 antennae
+anther: 1
+anthers: 1
+anthill: 1
+anthony: 1
+antic: 1
+anticipation: 11
+antilope: 2 antelope
+antipasta: 1 antipasto
+antipasto: 1
+antiqes: 1 antiques
+antique: 35
+antler: 9
+antonio: 1
+antony: 1
+anus: 1
+anybody: 2
+anyone: 11
+anything: 11
+anza: 1
+anzac: 1
+aol: 1
+aorund: 1 around
+apac: 1
+apan: 1 a pan
+apark: 1 a park
+aparment: 1 apartment
+apartment: 321
+apear: 1 a pear
+aper: 1
+apex: 3
+aphone: 1 a phone
+apiece: 3
+apier: 1
+aplane: 1 a plane
+aplate: 3 a plate
+apost: 1
+app: 6
+apparatus: 13
+apparel: 14
+appeal: 3
+appear: 4
+appearance: 7
+appearing: 2
+appearint: 1 appearing
+appears: 2
+appetite: 1
+appetizer: 45
+appetizing: 1
+applaince: 1 appliance
+apple: 2002
+applegate: 1
+apples: 47
+applesauce: 2
+appliace: 1 appliance
+appliance: 768
+appliancea: 1 appliance
+appliances: 7
+applianes: 1 appliance
+applicance: 3 applicane
+application: 8
+applie: 2 apple
+applique: 2
+appointment: 2
+appple: 1 apple
+apppliance: 1
+appreciation: 2
+approach: 31
+approached: 1
+approriate: 1 appropriate
+approval: 6
+apps: 1
+apresentation: 1 a presentation
+apricot: 7
+aprk: 1 a park
+aprking: 1 a parking
+apron: 167
+aprtment: 1 apartment
+apt: 1
+aq: 1
+aqua: 1
+aquafina: 1
+aquarium: 23
+aquarius: 1
+ar: 4
+arab: 1
+arabic: 8
+arbor: 5
+arboretum: 1
+arc: 4
+arcade: 10
+arcadia: 1
+arch: 72
+arched: 3
+archeologist: 1 archaeologist
+archer: 1
+archery: 1
+architecture: 43
+archives: 1
+archway: 35
+arctic: 2
+arctitecture: 1 architecture
+ardula: 1
+are: 24
+area: 6144
+areal: 1
+arena: 118
+arge: 1
+argentina: 1
+argo: 1
+argument: 2
+ariadne: 1
+ariel: 1
+arienzo: 1
+aristocrate: 1
+arizona: 3
+ark: 3
+arking: 2 parking
+arm: 1004
+armada: 1
+armavia: 1
+armchair: 15
+armed: 1
+armful: 1
+armoir: 1 armor
+armoire: 15 armor
+armor: 11
+armpit: 2
+armrest: 7
+arms: 1
+army: 125
+aroad: 1 abroad
+aroma: 1
+arond: 1 around
+aroud: 1 around
+around: 13
+arounda: 1 around
+aroung: 1 around
+arpir: 1
+arraingment: 1 arrangement
+arrangement: 207
+arrangemnet: 1 arrangement
+arrangment: 1 arrangement
+array: 82
+arret: 1
+arrett: 1
+arrifve: 1 arrive
+arrival: 6
+arriving: 4
+arrow: 159
+art: 248
+artery: 1
+artesia: 1
+artichoke: 13
+article: 25
+articulo: 1 article
+artifact: 9
+artillery: 1
+artisan: 9
+artist: 23
+artistically: 1
+artistry: 1
+arts: 1
+artwork: 79
+arugula: 9
+as: 2
+asain: 3
+asbestos: 2
+ascending: 1
+ascension: 1
+ascent: 9
+asda: 1
+ash: 5
+ashadow: 1 a shadow
+ashphalt: 1 asphalt
+ashton: 1
+ashtray: 3
+asia: 23
+asian: 16
+asian-: 1
+asians: 1
+asleep: 6
+aslepp: 1
+asmfc: 1
+asparagus: 44
+aspargus: 2 asparagus
+aspen: 1
+asphalt: 84
+asphault: 1 asphalt
+ass: 14
+assemblage: 1
+assembly: 29
+asset: 1
+assignment: 3
+assist: 2
+assistance: 4
+assistant: 1
+associate: 2
+association: 3
+assorment: 1 assortment
+assortment: 473
+assurance: 1
+ast: 1
+aster: 1
+astove: 1 a stove
+astral: 1
+astro: 3
+astrojet: 1
+astronomy: 2
+astros: 3
+astroturf: 4
+asurf: 1
+asus: 1
+at: 107
+at&t: 2
+ata: 1
+atable: 2 a table
+ate: 2
+atendee: 1 attendee
+athlete: 83
+athletics: 2
+athol: 1 
+atire: 1 attire
+atlanta: 5
+atlantic: 6
+atlas: 1
+atlhete: 1 athlete
+atm: 13
+atmosphere: 10
+ato: 1
+atoilet: 2 a toilet
+atop: 3
+atree: 1 a tree
+atria: 1
+atrium: 9
+attach: 1
+attached: 2
+attachment: 27
+attack: 5
+attain: 1
+attempt: 45
+attempting: 1
+attenae: 1
+attendance: 2
+attendant: 34
+attendee: 7
+attention: 41
+attic: 7
+attique: 1
+attire: 169
+attitude: 1
+attraction: 25
+attractions: 1
+attribute: 1
+atuff: 1
+atv: 28
+atvs: 5
+aubaines: 1
+auction: 9
+audi: 1
+audience: 143
+audio: 4
+auditorium: 19
+august: 1
+aumbrella: 1 umbrella
+aura: 1
+aurora: 1
+austral: 2
+australia: 13
+australian: 5
+austrian: 2
+authenticity: 1
+author: 4
+authority: 1
+auto: 25
+autograph: 15
+autographing: 1
+automan: 1
+automat: 1
+automobile: 73
+autopista: 1
+autotune: 1
+autumn: 38
+av: 19
+avacado: 3 avocado
+avase: 1 a vase
+avatar: 4
+ave: 70
+avenue: 73
+average: 1
+avertisement: 1 advertisement
+avery: 2
+averyw: 1
+aviation: 2
+aviator: 4
+avlon: 2
+avocado: 55
+avocadoe: 2
+award: 29
+awards: 2
+awareness: 2
+awas: 1
+away: 2
+awe: 4
+awl: 1
+awning: 40
+awoman: 1 a woman
+awooden: 1
+ax: 2
+axe: 2
+axle: 3
+ay: 1
+ayi: 2
+ayoung: 1 a young
+azn: 1
+b: 14
+b&o: 1
+b.: 2
+b1: 1
+b5: 1
+b52: 1
+b;ack: 1 back
+ba: 2
+baband: 1
+babay: 1 baby
+babe: 5
+babeall: 1
+babes: 1
+babies: 2
+babolat: 1
+baboon: 1
+babseball: 1 baseball
+baby: 3270
+babybreath: 1
+babys: 2 baby
+bac: 2
+bacardi: 1
+bach: 2
+bachelor: 1
+bachelorette: 2
+back: 2887
+back/: 1
+backback: 4 backpack
+backboard: 3
+backcountry: 2
+backdrop: 95
+backflip: 2
+backfor: 1
+backfround: 1 background
+backgorund: 1 background
+backgournd: 1 background
+backgrond: 1 background
+backgroound: 1 background
+backgropund: 1 background
+background: 4000
+background.=: 1
+backgrpound: 1 background
+backgrund: 1 background
+backgruond: 1 background
+backhand: 41
+backhoe: 4
+backing: 3
+backlground: 1 background
+backlit: 1
+backlot: 1 backlit
+backpac: 1 backpack
+backpacj: 1 backpack
+backpack: 584
+backpacker: 2
+backpackers: 1
+backpacking: 1
+backpocker: 1 backpacker
+backrest: 1
+backroad: 1
+backroom: 1
+backround: 2
+backseat: 26
+backside: 35
+backsplash: 15
+backstage: 1
+backstop: 2
+backstroke: 1
+backswing: 1
+backup: 4
+backward: 1
+backwash: 1
+backyard: 141
+baclground: 1 background
+bacon: 287
+bacon,,tomato: 1
+badge: 17
+badger: 3
+badminton: 24
+badmitton: 3 badminton
+baeach: 1 beach
+baeball: 2 baseball
+baf: 1 bag
+bag: 1977
+bagdad: 1
+bagel: 122
+baggage: 148
+baggie: 4
+baggy: 2
+bagle: 3
+bagpipe: 4
+bagpiper: 1
+bags: 1
+baguette: 8
+bahtroom: 1 bathroom
+bail: 10
+baile: 2
+bailey: 1
+bair: 2
+bakcground: 1 background
+bake: 9
+baked: 6
+baker: 34
+bakery: 158
+bakeware: 1
+bakgropund: 1 background
+bakground: 2 background
+baking: 116
+bakset: 1 basket
+bal: 2 ball
+balance: 111
+balancing: 5
+balck: 6 black
+balconu: 1 balcony
+balcony: 152
+bald: 26
+balding: 1
+baldwin: 1
+bale: 30
+balk: 2
+ball: 8244
+ballard: 1
+ballcap: 1
+baller: 1
+ballerina: 3
+ballerinas: 1
+ballet: 3
+ballfield: 2
+ballgame: 5
+balll: 1 ball
+ballon: 6 balloon
+balloon: 198
+ballpark: 5
+ballplayer: 3
+ballroom: 6
+balls: 1
+balm: 3
+balogna: 1
+balone: 1 balloon
+baloon: 1 balloon
+balsa: 1
+baltimore: 13
+balzac: 1
+bamboo: 58
+ban: 9
+banaas: 1 banana
+banan: 5 banana
+banana: 4741
+bananas: 111
+bananasand: 1 bananas and
+bananna: 7 banana
+band: 85
+bandage: 9
+bandaid: 2
+bandana: 32
+bandanna: 20
+bandit: 1
+bandmate: 1
+bandshell: 1
+bang: 10
+bangladesh: 2
+banister: 15
+bank: 225
+banker: 1
+banking: 2
+banks: 1
+banna: 2 banana
+bannan: 2 banana
+bannana: 7 banana
+bannanas: 1 banana
+bannanna: 2 banana
+bannas: 1 banana
+banner: 100
+bannister: 7
+banns: 2
+banquet: 31
+banquette: 1
+baobab: 1
+baord: 11 board
+baot: 1 boat
+baptist: 1
+bar: 760
+baracade: 1 barricade
+barack: 4 barrack
+barak: 2 barrack
+barb: 17
+barbara: 1
+barbecue: 60
+barbed: 86
+barbeque: 24 barbecue
+barber: 41
+barbershop: 5
+barbie: 8
+barbwire: 8
+barcade: 1
+barcardi: 1
+barcelona: 2
+barclay: 1
+barclays: 2
+barcode: 3
+bard: 7
+bardon: 1
+bare: 12
+bareback: 6
+barefoot: 29
+barell: 1
+baren: 1
+bargade: 1
+bargain: 1
+barge: 34
+barhroom: 2 bathroom
+barista: 1
+bark: 18
+barkfast: 1 breakfast
+barking: 1
+barley: 3
+barn: 296
+barnard: 3
+barnum: 1
+barnyard: 5
+barometer: 1
+baron: 6
+barrack: 2
+barrel: 117
+barreling: 1
+barrell: 3
+barren: 6
+barricade: 35
+barricadee: 1 barricade
+barrier: 115
+barrio: 1
+barron: 1 baron
+barrow: 5
+barry: 5
+barstool: 10
+bartender: 11
+barton: 1
+bas: 2
+basah: 1
+basball: 3 baseball
+base: 849
+basebal: 2 baseball
+baseball: 11406
+baseball/: 1
+baseballer: 1
+baseballin: 1
+baseballlayer: 1 baseball player
+basebat: 1
+basebllmound: 1
+basefield: 1
+basekt: 1 basket
+baseline: 8
+baseman: 41
+basement: 21
+basha: 1
+basic: 1
+baside: 1 beside
+basil: 50
+basilica: 1
+basin: 124
+basinette: 1
+bask: 3
+baske: 1 basket
+basket: 1000
+basketball: 198
+baskett: 1 basket
+bass: 7
+basset: 2
+bassett: 1
+bassinet: 5
+bastard: 2
+bat: 4027
+batch: 35
+bate: 2
+bater: 4
+batgirl: 1
+bath: 855
+bathe: 3
+bather: 3
+batheroom: 2 bathroom
+bathing: 61
+bathmat: 4
+bathom: 1 bathroom
+bathoom: 1 bathroom
+bathr: 3 bathroom
+bathrobe: 13
+bathrom: 2 bathroom
+bathrooe: 1 bathrobe
+bathroom: 10128
+bathroom.with: 1
+bathroomw: 1 bathroom
+bathroon: 1 bathroom
+bathrrom: 2 bathroom
+bathtab: 1 bathtub
+bathtub: 697
+bathub: 1 bathtub
+bating: 2
+batman: 14
+baton: 4
+batroom: 2 bathroom
+bats: 1
+batsman: 1
+batt: 1
+battenburg: 3
+batter: 1398
+batterbox: 1
+battering: 1
+battery: 38
+batthroom: 1 bathroom
+batting: 111
+battle: 16
+battleship: 5
+batty: 1
+bauble: 1
+bay: 142
+baynes: 1
+bayou: 2
+bayshore: 1
+bayside: 1
+bazaar: 8
+bbc: 1
+bbca: 1
+bbg: 1
+bbite: 1
+bblack: 1 black
+bbq: 63
+bby: 1
+bckground: 1 background
+bcouch: 1
+bd: 2
+be: 1
+bea: 2
+beaach: 1 beach
+beach: 7960
+beachfront: 3
+beachgoer: 4
+beaching: 1
+beachshore: 1
+beachside: 2
+beachy: 1
+beacon: 8
+bead: 41
+beadh: 1
+beagle: 19
+beak: 121
+beaker: 3
+beam: 46
+beamish: 1
+beams: 1
+bean: 332
+beanbag: 4
+beanch: 2 beach
+beaneath: 1 beneath
+beanie: 33
+beaning: 2
+beans: 2
+beansprout: 1
+bear: 7665
+beard: 196
+bearer: 1
+bearing: 4
+bears: 23
+bearwood: 1
+beast: 10
+beasts: 1
+beat: 20
+beater: 2
+beating: 1
+beatles: 1
+beattie: 1
+beaudry: 2
+beautiful: 6
+beauty: 29
+beaver: 4
+beck: 4
+bed: 8874
+bedae: 1
+beday: 2
+bedcover: 1
+bedder: 2
+bedding: 63
+bedet: 1
+bedford: 1
+bedframe: 1
+bedlamp: 1
+bedpost: 1
+bedrom: 1 bedroom
+bedroom: 1731
+bedroomw: 1 bedroom
+bedrooom: 1 bedroom
+bedrroom: 1 bedroom
+beds: 7
+bedset: 1
+bedsheet: 5
+bedside: 20
+bedskirt: 1
+bedspread: 120
+bedstand: 1
+bedtime: 4
+bee: 30
+beed: 2
+beef: 196
+beek: 1
+beer: 724
+beers: 1
+bees: 1
+beet: 26
+beetle: 7
+beetlejuice: 2
+beetroot: 3
+bef: 1 beef
+beg: 1
+beggar: 1
+begging: 1
+begin: 2
+beginner: 5
+beginning: 17
+beguiling: 1
+behavior: 1
+behind: 18
+behold: 1
+beige: 4
+beign: 1
+beignet: 1
+being: 73
+belfry: 1
+belgium: 2
+believe: 1
+believin: 2
+belivin: 1
+bell: 183
+bellingham: 1
+bellon: 1
+bellowing: 1
+belltower: 1
+bellwether: 1
+belly: 47
+belmont: 1
+belng: 1 belong
+belong: 1
+belonging: 49
+below: 1
+belt: 136
+beltway: 1
+beluga: 1
+ben: 182
+bench: 6782
+benches: 1
+benching: 1
+benchq: 1 bench
+bend: 50
+bender: 1
+bending: 2
+beneath: 11
+benedict: 3
+benefit: 3
+bengal: 1
+bent: 79
+bentley: 2
+bento: 19
+benz: 6
+berdoom: 1 bedroom
+beret: 5
+berlin: 3
+berm: 1
+bernard: 4
+bernie: 1
+berr: 1
+berries: 1
+berry: 159
+berth: 2
+bertie: 1
+bertucci: 1
+besd: 1
+beside: 3
+besides: 2
+best: 4
+bet: 2
+beth: 1
+betting: 1
+bettwen: 1 between
+betty: 2
+between: 2
+beverage: 383
+beverages: 1
+beverly: 2
+bevy: 2
+beware: 5
+bext: 1 next
+beyond: 3
+bge: 1
+bgunch: 1
+bi: 17
+biard: 1
+biathlete: 1
+biathlon: 5
+bib: 31
+bible: 6
+bibs: 3
+biciclist: 1 bicyclist
+bicut: 1
+bicy: 1
+bicycle: 2169
+bicycler: 5
+bicyclist: 149
+bicyclists: 3
+bicylce: 1 bicycle
+bid: 7
+bide: 1
+bidet: 54
+bie: 1
+biege: 1 beige
+biek: 1
+biere: 1
+big: 151
+bigbus: 1
+bighorn: 1
+bight: 1
+bigrig: 1
+biird: 1
+bik: 1
+bike: 3585
+biked: 1
+bikelane: 1
+biker: 218
+bikes: 15
+biking: 11
+bikini: 168
+bikinis: 2
+bile: 3
+bill: 50
+billboard: 75
+billiards: 1
+billow: 1
+billowy: 2
+bills: 2
+billshrink: 2
+billy: 2
+bime: 1
+bin: 159
+binder: 19
+binding: 2
+binocular: 6
+binter: 1 winter
+biohazard: 1
+biome: 1
+biplane: 63
+birch: 7
+bird: 5510
+birdbath: 4
+birdcage: 9
+birdfeeder: 1
+birdge: 2 birdcage
+birdhouse: 20
+birdie: 2
+birdohous: 1
+birds: 9
+birdseed: 1
+birger: 1 burger
+birhday: 1 birthday
+birhtday: 1 birthday
+birmingham: 2
+birth: 15
+birthday: 997
+birthing: 1
+biscuit: 74
+bison: 29
+bistro: 1
+bit: 127
+bitch: 4
+bite: 350
+biter: 1
+biting: 2
+bitter: 2
+bitumen: 1
+biulding: 1 building
+bizarre: 1
+bkue: 1
+blac: 1 black
+black: 396
+black&decker: 1
+blackbear: 1
+blackberry: 26
+blackbird: 4
+blackboard: 4
+blackface: 1
+blacklight: 1
+blackout: 1
+blackpoll: 1
+blacksmith: 1
+blacksplash: 1
+blackstreet: 1
+blacktop: 11
+blade: 55
+blading: 3
+blag: 1
+blakc: 1 black
+blanet: 1
+blank: 2
+blankent: 1 blanket
+blankest: 1 blanket
+blanket: 1150
+blankets: 1
+blanking: 1
+blast: 5
+blat: 2 blast
+blaze: 5
+blazer: 31
+blazing: 2
+blck: 2 black
+bldg: 2
+bleach: 1
+bleacher: 59
+blemish: 2
+blend: 2
+blender: 499
+blending: 3
+bleu: 1 blue
+blie: 1 blue
+blimp: 2
+blind: 71
+blinder: 16
+blindfold: 6
+bliss: 2
+blizzard: 8
+bloat: 1
+blob: 5
+blobs: 1
+bloc.k: 1
+bloccoli: 1 broccoli
+block: 245
+blockade: 1
+blockage: 1
+blocker: 1
+blocking: 2
+blog: 1
+blogger: 1
+bloke: 2
+blond: 12
+blonde: 24
+blonder: 1
+blood: 70
+bloody: 2
+bloom: 20
+bloomer: 1
+blooming: 5
+blossom: 19
+blotter: 1
+blouse: 18
+blow: 100
+blower: 6
+blowfish: 1
+blowing: 1
+blowup: 3
+blt: 8
+blu: 1 blue
+bluberrie: 1 blueberry
+blue: 339
+bluebag: 1 blue bag
+blueberries: 2
+blueberry: 74
+bluebird: 6
+bluegreen: 1 blue green
+bluejacket: 1
+bluejay: 1
+blues: 1
+bluetooth: 4
+bluff: 6
+bluggage: 1 luggage
+blur: 25
+blurry: 20
+blury: 1 blurry
+blush: 1
+blvd: 18
+bmw: 18
+bmx: 1
+bnp: 1
+bnsf: 1
+boa: 4
+boad: 5 board
+boader: 1
+boar: 20
+board: 6246
+boarder: 495
+boarding: 305
+boardroom: 2
+boards: 7
+boardshort: 1
+boardwalk: 93
+boars: 1
+boas: 1
+boast: 1
+boat: 5882
+boate: 1 boat
+boater: 9
+boath: 1 boat
+boathouse: 1
+boating: 17
+boats: 12
+boatyard: 4
+bob: 3
+boba: 1
+bock: 3
+bod: 2
+boddy: 1 body
+bodega: 1
+body: 1876
+bodyboard: 4
+bodyshot: 1
+bodysuit: 11
+boe: 1
+boeing: 5
+boezio: 2
+bog: 4
+boggy: 2
+bohemian: 3
+boil: 2
+boilder: 1
+boiler: 3
+boiling: 4
+boise: 2
+bok: 2
+bolder: 1
+bologna: 1
+bolster: 1
+bolt: 4
+bomb: 11
+bomber: 22
+bond: 5
+bonds: 3
+bone: 31
+boneless: 3
+bonfire: 2
+bong: 2
+bongo: 1
+bonk: 1
+bonnet: 7
+bonnies: 1
+bonsai: 4
+bonzai: 2 bonsai
+boo: 4
+booger: 1
+boogey: 3
+boogie: 99
+boogy: 1
+book: 2385
+bookbag: 6
+bookcase: 111
+bookend: 3
+booklet: 5
+bookplate: 1
+books: 5
+bookshelf: 228
+bookshelve: 1 bookshelf
+bookshop: 1
+bookstore: 11
+boom: 7
+boombox: 2
+boomerang: 1
+boon: 1
+booster: 9
+boot: 154
+booth: 175
+boothe: 1
+bootie: 5
+booty: 7
+booze: 20
+border: 46
+bordering: 1
+bore: 2
+bored: 1
+boredom: 1
+boring: 2
+borne: 1
+borough: 3
+borrom: 1 bottom
+bos: 1
+bosch: 1
+boss: 4
+boston: 25
+bot: 15
+both: 1
+botle: 2 bottle
+botom: 1 bottom
+bottle: 2010
+bottled: 2
+bottom: 336
+bottommost: 1
+boudoir: 1
+bough: 1
+bouguet: 2 bouquet 
+bouitannire: 1
+boul: 1
+boulder: 48
+boulevard: 18
+bounce: 1
+bouncer: 1
+bouncy: 2
+bound: 3
+boundary: 2
+bouque: 1 bouquet
+bouquet: 164
+bourbon: 5
+bout: 4
+boutineer: 1
+boutique: 5
+boutonniere: 5
+bovine: 5
+bow: 298
+bowel: 9
+bowl: 4671
+bowle: 1 bowl
+bowler: 6
+bowling: 60
+bowls: 29
+bown: 1
+bowtie: 15
+box: 2597
+boxcar: 14
+boxed: 1
+boxer: 10
+boxes: 14
+boxing: 25
+boy: 8830
+boyds: 1
+boyfriend: 3
+boyne: 1
+boys: 5
+boyscout: 1
+boysenberry: 1
+boyue: 1
+bp: 3
+bparder: 1
+bra: 21
+brac: 1
+brace: 21
+bracelet: 19
+brach: 2
+bracket: 5
+braclet: 1
+brad: 1
+braddock: 1
+bradley: 3
+bradock: 1
+brahma: 6
+brahman: 1
+braid: 8
+brain: 1
+brake: 19
+brakes: 1
+brance: 2
+branch: 1079
+brand: 42
+brandon: 2
+brandy: 2
+branhce: 1
+brap: 1
+brass: 29
+brat: 3
+bratt: 1
+bratwurst: 6
+braun: 2
+brave: 4
+braves: 3
+bray: 1
+brazil: 1
+brea: 1
+bread: 1182
+breadbasket: 1
+breadbox: 1
+breadcrumb: 2
+breadfast: 1
+breading: 1
+breadstick: 4
+bready: 1 bread
+breafast: 1 breakfast
+break: 126
+breaker: 2
+breakfast: 502
+breakfeast: 1 breakfast
+breakfest: 1 breakfast
+breaking: 2
+breakroom: 1
+breakwater: 1
+breast: 50
+breath: 11
+breathe: 1
+breather: 1
+breathing: 1
+breed: 22
+breeding: 1
+breeze: 13
+breezeway: 1
+brenda: 1
+brew: 1
+brewer: 1
+brewers: 3
+brewery: 2
+brewing: 1
+brger: 1 burger
+brick: 1734
+bricked: 2
+brickl: 1 brick
+bridal: 4
+bride: 228
+bridege: 1 bridge
+bridegroom: 1
+bridge: 1287
+bridges: 1
+bridle: 38
+brie: 1
+brief: 7
+briefcase: 70
+briefing: 1
+briefly: 3
+brigade: 1
+bright: 27
+brightly: 1
+brighton: 2
+brim: 8
+brindle: 2
+bringing: 1
+brink: 1
+brishton: 1
+brisket: 1
+brissle: 1 bristle
+bristle: 7
+bristlecone: 1 
+bristol: 1
+bristrol: 1
+britain: 6
+british: 34
+bro: 2
+broadcast: 2
+broadcaster: 1
+broadway: 29
+broccili: 3 broccoli
+broccilli: 1 broccoli
+brocclie: 3 broccoli
+broccoflower: 1
+broccoili: 1 broccoli
+broccoli: 2438
+broccolini: 1 broccoli
+broccolis: 1
+broccolit: 1 broccoli
+broccolli: 8 broccoli
+broccooli: 1 broccoli
+brocelli: 1 broccoli
+brocery: 1grocery
+brochure: 12
+brocoli: 4 broccoli
+brocolli: 48 broccoli
+broiler: 5
+broke: 2
+broken: 1
+bronc: 1
+bronco: 7
+bronx: 1
+bronze: 44
+brooch: 2
+brook: 5
+brooke: 2
+brooklyn: 3
+broom: 15
+broome: 1 broom
+bros: 2
+broth: 25
+brothe: 1 brother
+brother: 13
+brothers: 3
+brow: 5
+brown: 310
+brownie: 49
+browning: 1
+brownish: 2
+brownstone: 4
+brownsville: 1
+browse: 2
+browser: 2
+brthday: 1 birthday
+bruce: 1
+bruise: 2
+bruit: 1
+brulee: 1
+brunch: 6
+brunette: 17
+brush: 631
+brushel: 1
+brushing: 1
+brusing: 1
+brussel: 17
+brussell: 1
+brussels: 2
+brwon: 1
+bryson: 1
+bs9: 2
+bu: 3
+bubba: 3
+bubble: 53
+bubblegum: 2
+bubbly: 4
+buca: 1
+buck: 7
+bucket: 268
+buckingham: 2
+buckle: 2
+buckling: 1
+bucks: 1
+bucnh: 1
+bud: 37
+budapest: 1
+buddha: 6
+buddhist: 2
+buddy: 9
+budget: 2
+budlight: 1
+budweiser: 5
+bue: 2
+bueaty: 1 beauty
+buff: 2
+buffalo: 55
+buffer: 2
+buffet: 168
+buffett: 1 buffet
+bug: 37
+bugeyed: 1
+buggie: 3
+buggy: 119
+buick: 1
+buiding: 6 building
+buidling: 9 building
+buiilding: 2 building
+build: 6
+buildig: 1 building
+buildiing: 1 building
+building: 10439
+building.l: 1
+buildingl: 1 building
+buildingon: 1 building on
+buildings: 5
+buildinig: 1 building
+buildling: 1 building
+buildng: 1 building
+builiding: 1 building
+builidng: 1 building
+builing: 2 building
+buisiness: 1 business
+buisness: 4 business
+buket: 1 bucket
+bulb: 16
+bulbs: 1
+bulding: 16 building
+bule: 1
+bulger: 1
+buliding: 23 building
+bulit: 1 built
+bulk: 1
+bulkie: 1
+bull: 313
+bullding: 1 building
+bulldog: 33
+bulldozer: 8
+bullet: 57
+bulletin: 11
+bullfight: 1
+bullhead: 1
+bullhorn: 3
+bulling: 1
+bullion: 1
+bullpen: 7
+bullseye: 1
+bullying: 2
+bum: 1
+bumb: 1
+bumber: 1
+bumch: 1
+bump: 20
+bumper: 50
+bumping: 1
+bumps: 1
+bun: 573
+bunch: 4078
+bunching: 1
+bunchs: 1
+bund: 2
+bundle: 71
+bundt: 23
+bungee: 3
+bunk: 141
+bunkbed: 7
+bunker: 1
+bunny: 77
+buns: 1
+bunt: 16
+bunting: 2
+bunyan: 1
+buoy: 19
+buploye: 1
+bur: 2
+burd: 1
+burden: 1
+bureau: 6
+burger: 185
+burgundy: 23
+burka: 1
+burkas: 1
+burlap: 2
+burma: 1
+burn: 2
+burned: 1
+burner: 67
+burning: 1
+burnt: 1
+burrito: 38
+burritos: 1 burrito
+burritoto: 1 burrito
+burro: 1
+burroughs: 1
+burrs: 1
+bursons: 1
+burst: 2
+burton: 2
+burwell: 2
+bus: 10349
+busch: 2
+buscuit: 1 biscuit
+buses: 4
+bush: 841
+bushel: 52
+bushes: 8
+bushy: 2
+business: 533
+businessan: 1 businessman
+businessman: 59
+busing: 1
+busker: 3
+buss: 46
+bussess: 1 busses
+busstop: 1 bus stop
+bust: 17
+buster: 4
+bustop: 1 bus stop
+busy: 4
+but: 1
+butcher: 27
+bute: 1
+butetourt: 1
+butler: 1
+butoniere: 1
+butt: 20
+butter: 179
+butterfly: 60
+buttermilk: 1
+butternut: 4
+butterscotch: 2
+buttery: 4
+buttock: 2
+button: 167
+butts: 6
+buy: 4
+buyer: 1
+buying: 3
+buzz: 4
+buzzard: 4
+buzzards: 1
+bwall: 1 wall
+by: 10 
+bycicle: 1 bicycle
+bycycle: 1 bicycle
+bye: 3
+bypass: 1
+bystander: 17
+byway: 1
+c: 10
+c&a: 1
+c.d: 2
+c.d.: 1
+c3p0: 1
+c3po: 1
+ca: 3
+caat: 1 cat
+cab: 107
+cabana: 1
+cabanas: 3
+cabbage: 69
+cabernet: 1
+cabin: 134
+cabinet: 1724
+cabinetry: 48
+cabinets: 2
+cabinette: 1 cabinet
+cabins: 1
+cabit: 1
+cable: 87
+cables: 1
+caboose: 45
+cabose: 1 caboose
+cacheur: 1
+cacophony: 1
+cacti: 7
+cactu: 1 cactus
+cactus: 29
+caddy: 5
+cadie: 1
+cadillac: 1
+caesar: 1
+cafe: 180
+cafeteraia: 1 cafeteria
+cafeteria: 49
+caffe: 1 cafe
+cage: 424
+caged: 3
+cahin: 1
+cahir: 1
+cajun: 1
+cake: 6327
+cake.slice: 1
+cakes: 2
+cal: 3
+calamari: 1
+calcott: 1
+calculation: 1
+calculator: 41
+calendar: 9
+calender: 3
+calf: 191
+calfs: 4
+calico: 81
+califlower: 1 cauliflower
+california: 28
+calk: 1
+call: 61
+called: 1
+caller: 1
+calligraphy: 3
+calm: 11
+calorie: 6
+caluiflower: 1 cauliflower
+calvert: 3
+calzone: 15
+cam: 5
+camaflouge: 1 camouflage
+camaro: 1
+camcorder: 3
+camden: 1
+camea: 1 camera
+camel: 41
+camelflage: 1 camouflage
+camer: 2 camera
+camera: 2276
+cameral: 1 camera
+cameraman: 15
+cameraperson: 1 
+camerea: 2 camera
+cammies: 1
+camo: 11
+camoflague: 1 camouflage
+camouflage: 42
+camp: 35
+campaign: 13
+campartment: 1 compartment
+campbell: 3
+camper: 65
+camperific: 1
+campfire: 2
+campground: 9
+camping: 44
+campsite: 9
+campus: 20
+camra: 1 camera
+camrea: 1 camera
+can: 424
+canada: 51
+canadian: 2
+canal: 105
+canalope: 1
+cananda: 1 canada
+cancer: 2
+candel: 1 candle
+candelabra: 3
+candid: 1
+candidate: 1
+candle: 951
+candlelight: 8
+candlelit: 1
+candles: 3
+candlestand: 1
+candlestick: 7
+candy: 182
+candycane: 1
+cane: 49
+canine: 2
+canister: 18
+cannabis: 2
+canned: 1
+canning: 3
+cannister: 4
+cannon: 5
+canoe: 162
+canoeist: 1
+canon: 3
+canope: 1 canopy
+canopy: 137
+cant: 2
+cantaloupe: 10
+canteloupe: 1 cantaloupe
+canter: 1
+cantering: 1
+canva: 1 canvas
+canvas: 26
+canvass: 1
+canyon: 19
+cap: 342
+capability: 4
+capartment: 1
+capboard: 1 cupboard
+cape: 16
+caper: 5
+capes: 1
+capinet: 1 cabinet
+capistrano: 1
+capital: 11
+capitalism: 1
+capitol: 21
+cappacino: 1 cappuccino
+capped: 3
+cappuccino: 7
+cappucinoe: 1 cappuccino
+capris: 2
+capsicum: 1
+capsule: 1
+captain: 14
+caption: 72
+captioning: 2
+captive: 1
+captivity: 32
+capture: 10
+capybara: 1
+car: 8174
+car/: 1
+carafe: 6
+carafes: 2
+caramel: 28
+caramell: 1 caramel
+caravan: 7
+carb: 3
+carboard: 1
+carbohydrate: 1
+carbonara: 1
+carcass: 11
+card: 200
+cardboard: 189
+cardiff: 2
+cardigan: 11
+cardinal: 11
+cardinals: 4
+care: 65
+career: 1
+carefully: 1
+caretaker: 1
+cargo: 210
+caricature: 4
+caring: 1
+carload: 1
+carlton: 2
+carmel: 2
+carmet: 1
+carml: 1
+carnation: 15
+carnival: 50
+carolina: 1
+caroling: 1
+carousal: 2
+carouse: 1
+carousel: 85
+carpark: 1
+carpenter: 1
+carpentry: 1
+carper: 1
+carpet: 279
+carpeting: 12
+carpetless: 1
+carport: 2
+carraige: 5 carriage
+carrall: 1
+carriage: 725
+carrier: 73
+carror: 1 carrot
+carrot: 1618
+carrots: 5
+carrots.with: 1
+carrousel: 2 carousel
+carry: 9
+carrying: 11
+carryout: 2
+cars: 14
+carseat: 3
+cart: 963
+cart./: 1
+carton: 41
+cartoon: 93
+carts: 2
+cartwheel: 3
+carver: 1
+carving: 19
+cascade: 3
+case: 937
+caserole: 1 casserole
+cases: 1
+caseymultimedia: 1
+cash: 15
+cashew: 3
+cashews: 2
+cashier: 1
+casing: 9
+casino: 9
+cask: 5
+casket: 2
+casper: 1
+cassarole: 1 casserole
+casserole: 57
+cassette: 5
+cast: 43
+caste: 2
+caster: 2
+casting: 1
+castle: 157
+cat: 12570
+catalina: 1
+catalog: 5
+catalogue: 1
+catamaran: 8
+catbed: 1
+catch: 54
+catchall: 1
+catcher: 918
+catchier: 1
+catching: 1
+cate: 1
+caterer: 1
+catering: 5
+caterpillar: 6
+cathay: 3
+cathedral: 88
+cathode: 1
+catholic: 3
+cathredal: 1 cathedral
+catnip: 1
+caton: 1
+cats: 8
+catseye: 1
+catsup: 10
+cattail: 2
+catting: 1
+cattle: 658
+catwalk: 1
+caught: 1
+cauldren: 1 cauldron
+cauliflour: 1 cauliflower
+cauliflower: 108
+caulking: 1
+cause: 5
+caution: 56
+cavalcade: 1
+cavalry: 2
+cave: 26
+cavern: 2
+cavity: 1
+cay: 10
+cayenne: 1
+cb: 2
+ccomputer: 1 computer
+ccouple: 1 couple
+cd: 42
+cdonut: 1 donut
+cds: 11
+ce: 1
+cecil: 2
+cecilia: 3
+cedar: 4
+cedars: 1
+ceiling: 422
+cel: 20
+celebrating: 3
+celebration: 60
+celebrity: 4
+celeri: 1 celery
+celery: 69
+cell: 3690
+cellar: 18
+celll: 1
+cello: 2
+cellophane: 4
+cellphone: 965
+cellpoen: 1 cellphone
+cellular: 1
+cement: 518
+cemetary: 5 cemetery
+cemetery: 42
+cent: 12
+center: 622
+centergate: 2
+centerpiece: 28
+central: 9
+centre: 7 center
+century: 27
+ceramic: 21
+ceramics: 1
+cereal: 122
+ceremony: 36
+cermony: 1 ceremony
+ceromony: 1 ceremony
+certificate: 4
+certified: 1
+ces: 1
+cesar: 1 
+cesna: 1 cessna
+cespedes: 1
+cessna: 4
+ceviche: 1
+cg: 1
+cgi: 12
+chacarita: 1
+chacho: 2
+chaffer: 1
+chago: 1
+chain: 276
+chained: 1
+chainlink: 1
+chainmail: 1
+chains: 1
+chair: 5872
+chairing: 1
+chairlift: 15
+chairs: 3
+chairseat: 1
+chaise: 12
+chait: 1 chair
+chalet: 3
+chalice: 3
+chalk: 18
+chalkboard: 24
+challenge: 2
+chamber: 4
+chamomile: 1
+champ: 1
+champagne: 51
+champaign: 3
+champion: 2
+champs: 2
+chance: 6
+chandalier: 1 chandelier
+chandelier: 66
+chandler: 2
+chandlier: 1 chandelier
+chanel: 2 
+change: 27
+changebag: 1
+changer: 1
+changing: 2
+channel: 35
+chaos: 4
+chap: 4
+chapel: 2
+chaplain: 2
+chaple: 1 chapel
+chaps: 1
+chapstick: 1
+char: 5
+character: 100
+characteristic: 1
+characters: 1
+charater: 2 character
+charcoal: 6
+charcuterie: 1
+charge: 10
+charger: 40
+charging: 4
+chariot: 6
+charity: 10
+charle: 1
+charleston: 1
+charlevoix: 1
+charlie: 5
+charlottesville: 4
+charm: 14
+charms: 3
+charro: 1
+chart: 5
+charter: 27
+chase: 11
+chasing: 9
+chassis: 1
+chat: 10
+chateau: 3
+chatting: 1
+chcoolate: 1 chocolate
+cheap: 1
+cheapside: 1
+check: 37
+checkbook: 1
+checker: 13
+checkerboard: 4
+checkerd: 1 checkered
+checkered: 2
+checking: 2
+checkout: 7
+checkpoint: 5
+cheddar: 6
+chee: 5
+cheek: 25
+cheekbone: 1
+cheeks: 2
+cheep: 1
+cheer: 8
+cheering: 2
+cheerios: 1
+cheerleader: 7
+cheesburger: 1 cheeseburger
+cheese: 1798
+cheeseburger: 27
+cheesecake: 61
+cheeseless: 1
+cheesesteak: 1
+cheesestick: 1
+cheesey: 2
+cheesie: 1
+cheesy: 7
+cheetah: 7
+cheeto: 1 cheetos
+cheetos: 2
+cheeze: 1
+cheezy: 1
+chef: 393
+chefs: 14
+chemical: 4
+chemtrail: 1
+chene: 1
+cheney: 1
+cherry: 125
+cherub: 5
+cherubs: 1
+chess: 6
+chessboard: 1
+chest: 172
+chesterfield: 1
+chestnut: 9
+chevrolet: 9
+chevron: 1
+chevy: 8
+chew: 9
+chewing: 6
+chews: 2
+chia: 1
+chiar: 2
+chicago: 32
+chick: 34
+chickadee: 1
+chicken: 706
+chicket: 1
+chickpea: 5
+chid: 2
+chief: 4
+chielf: 1
+chiguagua: 1
+chihuahua: 27
+chiild: 1
+chikd: 1
+chilc: 1
+child: 6574
+childhood: 1
+children: 20
+childrens: 1 children
+childs: 8 child
+chile: 1
+chili: 149
+chilie: 4
+chill: 3
+chilli: 9
+chillin: 4
+chime: 2
+chimney: 13
+chimp: 1
+chin: 39
+china: 97
+chinaman: 1
+chinatown: 5
+chinese: 14
+chip: 388
+chipper: 2
+chipping: 3
+chippy: 1
+chips: 3
+chiquita: 5
+chirp: 1
+chive: 4
+chlid: 1
+chocalate: 1
+chocalet: 1
+chock: 1
+choclate: 2
+chocloate: 1
+choco: 4
+chocolate: 1102
+chocolaty: 1
+chocolet: 1 chocolate
+choice: 20
+choir: 7
+choke: 1
+choker: 1
+choloate: 1 chocolate
+choo: 12
+choose: 2
+choosing: 1
+chop: 34
+chopper: 14
+chopping: 15
+chopstick: 85
+chord: 1
+chore: 1
+chow: 7
+chowder: 4
+choy: 2
+christ: 5
+christma: 10
+christmas: 436
+chrome: 89
+chrysler: 1
+chrystal: 1
+chubby: 1
+chuck: 7
+chuckie: 1
+chugging: 2
+chun: 1
+chunk: 37
+church: 566
+churches: 1
+churchyard: 1
+churro: 4
+churros: 1
+chute: 20
+ciabatta: 6
+cider: 19
+cieling: 3
+cigar: 10
+cigaret: 1 cigarette
+cigaretta: 1 cigarette
+cigarette: 140 cigarette
+cigerette: 1 cigarette
+cilantro: 8
+cilikitty: 1
+cinco: 1
+cinder: 3
+cinema: 1
+cinnamon: 30
+circa: 1
+circle: 149
+circles: 1
+circuit: 5
+circular: 76
+circulator: 1
+circumference: 2
+circus: 101
+circuswear: 1
+cistern: 3
+cit: 1
+citation: 1
+citgo: 2
+citi: 1
+citizen: 17
+citizens: 1
+citrus: 40
+city: 7235
+cityjet.com: 1
+cityscape: 32
+civil: 1
+civilian: 7
+ciy: 1 city
+clack: 3
+claim: 63
+claimy: 1
+clair: 1
+clam: 8
+clamor: 1
+clamp: 5
+clap: 1
+clapping: 3
+claremont: 2
+clark: 1
+clasps: 1
+clasroom: 1 classroom
+class: 83
+classic: 4
+classroom: 111
+classy: 1
+claudia: 1
+claus: 31
+clause: 22
+claw: 38
+clawfoot: 3
+claws: 1
+clay: 178
+claycourt: 1
+clean: 23
+cleaner: 21
+cleaning: 38
+cleanser: 2
+cleanup: 1
+clear: 4
+clearance: 3
+clearing: 69
+cleat: 3
+cleats: 1
+cleavage: 3
+cleaver: 5
+clementine: 14
+clergy: 1
+clergyman: 2
+clerk: 2
+cleveland: 3
+clever: 1
+click: 2
+clicker: 3
+clicking: 1
+client: 2
+cliff: 165
+climate: 14
+climb: 4
+climber: 10
+climbing: 18
+climbs: 1
+cling: 1
+clinic: 3
+clink: 1
+clinton: 8
+clip: 33
+clipboard: 8
+clipper: 8
+clippers: 1
+clipping: 7
+clive: 3
+clo0ck: 1 clock
+cloak: 3
+clock: 7343
+clockface: 1
+clocks: 2
+clocktower: 27
+cloe: 1
+clog: 2
+clok: 1 clock
+clone: 1
+clorox: 1
+close: 168
+closeby: 1
+closed: 4
+closet: 136
+closeup: 405
+closeupo: 1 closeup
+closing: 1
+closk: 1 clock
+closthe: 1
+closure: 3
+clot: 2
+cloth: 396
+clothe: 575
+clothes: 3
+clothesline: 10
+clothespin: 1
+clothing: 349
+clothings: 1
+cloud: 514
+clouds/: 1
+cloudy: 6
+clove: 4
+clover: 7
+clowcl: 1
+clown: 65
+clowns: 3
+clpse: 1
+club: 54
+clue: 4
+clump: 21
+cluster: 100
+cluter: 1 clutter
+clutter: 132
+cluttered: 1
+clydedale: 1 clydesdale
+clydesdale: 21
+clydsdales: 1 clydesdale
+clyesdale: 1 clydesdale
+cmapground: 1 campground
+cmera: 1 camera
+cnn: 2
+cnter: 1
+co: 6
+co.: 4
+coach: 190
+coaches: 2
+coal: 30
+coalition: 3
+coarse: 1
+coart: 1
+coast: 71
+coastal: 1
+coaster: 40
+coastline: 18
+coat: 472
+coated: 1
+coating: 5
+cob: 24
+cobalt: 2
+cobb: 1
+cobble: 1
+cobbler: 4
+cobblestone: 84
+cobra: 2
+cobs: 1
+cobwebs: 1
+coca: 66
+cocacola: 1
+cocatoo: 1 cockatoo
+cock: 12
+cockatiel: 2
+cockatoo: 4
+cocker: 4
+cockpit: 28
+cockroach: 2
+cocktail: 22
+coco: 4
+cocoa: 5
+coconut: 23
+code: 7
+coe: 1
+cofee: 1 coffee
+coffe: 6 coffee
+coffee: 1846
+coffeecake: 1
+coffeemaker: 5
+coffeepot: 1
+coffemaker: 1 coffeemaker
+cofidis: 1
+cog: 2
+coil: 4
+coin: 66
+coke: 93
+cola: 94
+colada: 1
+colage: 1 collage
+colander: 4
+colas: 1
+cold: 17
+cole: 23
+colege: 1 college
+coleslaw: 57
+colgate: 7
+colin: 1
+coll: 1
+collaboration: 2
+collage: 135
+collapsable: 1 collapsible
+collapsible: 1
+collar: 162
+collard: 4
+colleague: 9
+collectible: 5
+collection: 251
+collective: 1
+collector: 8
+college: 49
+collie: 22
+collision: 6
+colnett: 1
+colo.rs: 1 colors
+cologne: 5
+colombia: 1 
+colonel: 1
+colonial: 5
+color: 628
+colorado: 3
+coloration: 1
+colord: 1 colored
+colored: 5
+colorful: 19
+colorfully: 5
+coloring: 15
+colors: 1 color
+colour: 2 color
+colt: 21
+colts: 5
+columbia: 3
+columbus: 4
+column: 63
+comb: 43
+combat: 6
+combi: 1
+combination: 57
+combine: 1
+combing: 1
+combo: 25
+combos: 1
+comcast: 1
+comdent: 1
+come: 3
+comedy: 1
+comer: 1
+comfort: 11
+comfortable: 1
+comforter: 185
+comfy: 1
+comic: 5
+coming: 12
+cominmg: 1
+comma: 1
+command: 3
+commander: 4
+commencement: 2
+commercial: 7
+commission: 1
+commitee: 1 committee
+committee: 1
+commode: 89
+communication: 3
+community: 28
+commute: 4
+commuter: 335
+comode: 1 
+compact: 3
+companion: 34
+company: 71
+compaq: 1
+comparison: 3
+compartment: 88
+compass: 6
+compatriot: 1
+compete: 1
+competition: 208
+competitor: 31
+compettion: 1 competition
+compilation: 3
+compiter: 1 computer
+complete: 2
+completeley: 1 completely
+completion: 1
+complex: 29
+complexly: 1
+component: 20
+composite: 2
+composition: 3
+compost: 2
+composting: 2
+compote: 2
+compound: 6
+compouter: 1 computer
+compressor: 1
+compris: 1
+compter: 3 computer
+compuer: 1 computer
+compute: 9
+computer: 6423
+computers: 1
+computing: 4
+computrs: 1 computer
+comrade: 1
+comupter: 1 computer
+comuter: 2 computer
+con: 1
+concave: 2
+concentration: 3
+concept: 23
+concern: 5
+concerned: 1
+concert: 30
+concession: 7
+conch: 1
+conclusion: 2
+concoction: 4
+concord: 1
+concorde: 1
+concourse: 4
+concreat: 1 concrete
+concrete: 164
+condensation: 4
+condiment: 196
+condition: 26
+conditioner: 17
+conditioning: 3
+condo: 8
+condom: 8
+condominium: 1
+condor: 1
+conductor: 35
+cone: 366
+coney: 3
+confection: 7
+confectioner: 1
+confectionery: 1
+confer: 1
+conference: 98
+confetti: 11
+confieserie: 1
+configuration: 2
+confine: 3
+confinement: 9
+confiseri: 1
+confiserie: 1
+conflict: 3
+confront: 1
+confrontation: 1
+confused-: 1
+confusion: 2
+congestion: 2
+conglomerate: 1
+congrat: 1
+congratulation: 20
+congratulations: 1
+congregate: 1
+congress: 5
+conifer: 1
+conition: 1
+connection: 9
+connections: 1
+connector: 3
+conner: 2
+connie: 1
+connsole: 1
+conroller: 1 controller
+consciousness: 1
+conservation: 2
+conservatory: 1
+considering: 1
+consist: 7
+consiste: 1 consist
+consisting: 11
+consistingof: 1 consisting of
+console: 110
+consternation: 1
+constriction: 1
+construcion: 1 construction
+construction: 401
+consumer: 4
+consumption: 32
+contact: 33
+contain: 1
+container: 881
+containing: 1
+containment: 1
+contemplation: 1
+contempo: 2
+content: 154
+contertop: 1 countertop
+contest: 33
+contestant: 6
+continental: 7
+continuum: 3
+contoll: 1
+contrail: 17
+contraption: 32
+contrast: 9
+control: 745
+controler: 2 controller
+controller: 1294
+controlrs: 1 controller
+contruction: 1 construction
+convair: 1
+convection: 2
+convenience: 13
+convention: 52
+conventioneer: 1
+conversation: 117
+converse: 9
+conversing: 4
+convertable: 1 convertible
+convertible: 3
+convery: 1
+convex: 6
+convey: 1
+conveyance: 1
+conveyer: 4
+conveyor: 32
+convieniant: 1 convenient
+convoy: 7
+coo: 12
+coocnut: 1 coconut
+cood: 1
+cooffee: 1 coffee
+cook: 145
+cookbook: 10
+cooked: 3
+cooker: 21
+cookie: 319
+cookies: 1
+cookiewhich: 1 cookie which
+cooking: 216
+cookout: 3
+cooks: 1
+cookstove: 1 cook stove
+cooktop: 10
+cookware: 15
+cool: 2
+cooler: 68
+cooling: 3
+cooly: 1 cool
+coon: 2
+coop: 10
+coor: 1
+coordinating: 1
+coordination: 1
+coors: 2
+cop: 185
+cope: 1
+copier: 1
+copilot: 3
+coping: 1
+cople: 1 couple
+copper: 20
+copse: 3
+copula: 1
+copus: 1
+copy: 11
+corail: 1
+coral: 26
+corale: 1
+corch: 1
+cord: 105
+cordeau: 1
+cordless: 13
+cordoroy: 1
+core: 7
+corel: 1
+corener: 1
+corer: 1
+corgi: 5
+cork: 16
+corkscrew: 4
+cormorant: 1
+corn: 173
+cornbread: 7
+corndog: 1
+corndogs: 1 corndog
+cornel: 1
+corner: 2197
+corner.4: 1
+cornfield: 5
+cornflake: 4
+cornichon: 1
+cornmeal: 1
+cornucopia: 2
+corona: 9
+coronation: 2
+coroner: 1
+corporate: 4
+corporation: 2
+corpse: 3
+corral: 58
+correspondence: 1
+corridor: 15
+corsage: 3
+corset: 2
+cortland: 2
+corvette: 1
+cos: 2
+cosmetic: 10
+cosmic: 2
+cosplay: 2
+cosplayer: 1
+cost: 2
+costa: 3
+costco: 1
+costner: 1
+costume: 368
+costumed: 1
+costumer: 1
+cosutme: 1 costume
+cot: 20
+cotta: 3
+cottage: 29
+cotton: 16
+cottonwood: 1
+cou: 1
+couach: 1 couch
+couch: 4321
+couche: 1 couch
+couchs: 1 couch
+coue: 1
+cough: 6
+couldron: 1 cauldron
+coule: 1 couple
+coumputer: 1 computer
+counch: 1 couch
+council: 1
+counrty: 1 country
+count: 2
+counter: 3365
+counter.top: 1
+counterpart: 1
+counters: 1
+countertop: 167
+countetop: 1 countertop
+country: 851
+countryside: 161
+countrytown: 1
+county: 15
+couole: 2
+coup: 5
+coupe: 24
+coupl: 3 couple
+couple: 7868
+coupme: 1 couple
+coupon: 5
+coupple: 1 couple
+cour: 1
+courch: 5
+course: 277
+courst: 1 course
+court: 4372
+court"/: 1
+courtesy: 2
+courthouse: 10
+courtland: 1
+courtroom: 6
+courts: 1
+courtyard: 127
+couscous: 1
+cout: 2
+couture: 1
+cove: 9
+covent: 1
+cover: 353
+coverage: 1
+coverall: 4
+covere: 1
+covered: 11
+covering: 37
+coverlet: 3
+coversation: 1 conversation
+cow: 4754
+cow/: 1
+cowbell: 2
+cowbird: 1
+cowboy: 151
+cowboys: 3
+cowgirl: 8
+cowi: 1 cowl
+cowl: 1
+coworker: 4
+cows: 8
+cox: 1
+cozy: 4
+cpu: 4
+crab: 41
+crabs: 2
+crack: 17
+cracker: 95
+crackers: 2
+cradle: 6
+craft: 107
+crafted: 1
+crafts: 4
+craftsman: 2
+cram: 1
+crammed: 1
+cranberry: 20
+crane: 140
+cranes: 1
+crap: 2
+crape: 2
+crash: 17
+crashing: 3
+crate: 177
+crater: 6
+crave: 1
+crawfish: 2
+crawl: 1
+crawling: 3
+craws: 1
+crayon: 7
+craze: 1
+cream: 549
+creame: 1 creamer
+creamer: 5
+crean: 1 cream
+create: 1
+creation: 15
+creations: 1
+creativity: 2
+creator: 1
+creature: 27
+credenza: 1
+credit: 17
+creek: 60
+creel: 1
+creepy: 2
+creme: 18
+crepe: 15
+crescent: 8
+crest: 60
+cresting: 1
+crestless: 1
+crevasse: 2
+crevice: 2
+crew: 53
+crewman: 2
+crews: 1
+crh: 1
+crib: 110
+cricket: 10
+crime: 1
+crinkle: 5
+crip: 1 crisp
+crisp: 1
+crispie: 1 crispy
+crisps: 1
+crispy: 8
+criss: 4
+crissant: 1 croissant
+cristo: 2
+critter: 1
+croatia: 1
+croc: 1
+croched: 1
+crochet: 7
+crock: 11
+crockery: 4
+crockett: 1
+crockpot: 3
+crocodile: 2
+crocs: 1
+croisant: 1 croissant
+croissant: 51
+croix: 1
+crone: 1
+cronut: 3
+cronuts: 1
+crook: 6
+crooked: 1
+crooks: 3
+crop: 36
+croquet: 8
+cross: 559
+crossaint: 2 croissant
+crossbar: 2
+crossbone: 6
+crossing: 310
+crossroad: 12
+crosswalk: 255
+crosswalkj: 1 crosswalk
+crossway: 2
+crosswise: 2
+crossword: 6
+crostini: 1
+crotch: 7
+crouch: 10
+crouching: 1
+croup: 2
+crout: 1
+crouton: 5
+crow: 29
+crow\d: 1
+crowbar: 1
+crowd: 2005
+crowded: 3
+crowding: 1
+crowf: 1
+crown: 47
+crowsswalk: 1 crosswalk
+crt: 7
+crub: 1
+crucifix: 4
+crucifixion: 1
+cruddy: 1
+crude: 2
+cruet: 1
+cruise: 78
+cruiseboat: 1
+cruiser: 8
+crumb: 27
+crumble: 3
+crumbling: 1
+crumbly: 2
+crumby: 1
+crunch: 1
+crunchie: 1
+crunchy: 1
+crusader: 1
+crush: 4
+crusier: 1 cruiser
+crust: 157
+crustless: 1
+crutch: 4
+cruz: 2
+cry: 3
+crying: 2
+cryllic: 1 cyrillic
+cryong: 1
+crystal: 37
+csx: 3
+ct: 2
+ctg: 1
+ctrl: 1
+cub: 143
+cuba: 2
+cubbard: 1
+cubby: 11
+cube: 23
+cubed: 5
+cubes: 3
+cubical: 2
+cubicle: 86
+cubs: 8
+cuckoo: 9
+cucumber: 106
+cud: 2
+cuddle: 7
+cuddling: 2
+cue: 2
+cuff: 3
+cufflink: 1
+cuisinart: 1
+cuisine: 21
+cuisineart: 1
+cul: 3
+cult: 1
+culture: 4
+culver: 2
+cumber: 1
+cumfybus: 1
+cumming: 1
+cumpleanos: 1
+cup: 2149
+cupbaord: 1 cupboard
+cupboard: 220
+cupboards: 6
+cupcake: 347
+cupcakes: 4
+cupcate: 2
+cupid: 1
+cupola: 8
+cupp: 1
+cuppard: 1
+cuppbord: 1 cupboard
+cupt: 1
+curb: 660
+curbed: 2
+curbside: 20
+curd: 1
+curditie: 1
+curio: 5
+curiosity: 5
+curiousity: 1 curiosity
+curl: 16
+curling: 1
+curly: 3
+curran: 1
+currency: 4
+current: 10
+curry: 11
+curtain: 643
+curtainless: 1 
+curtian: 1
+curtis: 1
+curve: 99
+curved: 1
+curving: 3
+cushio: 1 cushion
+cushion: 128
+custard: 8
+custom: 41
+custome: 2 customer
+customer: 128
+customs: 1
+cut: 386
+cute: 9
+cuting: 1 cutting
+cutlery: 9
+cutlet: 1
+cutout: 19
+cutter: 72
+cuttign: 2 cutting
+cutting: 551
+cuuntertop: 1 countertop
+cvat: 1
+cyberhouse: 1
+cycle: 215
+cycles: 1
+cycling: 13
+cyclist: 124
+cyclone: 1
+cyco: 1
+cylce: 3
+cylinder: 15
+cyon: 1
+cyprus: 1
+czech: 1
+d: 9
+d'armes: 1
+d'art: 1
+d'oeuvre: 4
+d.c.: 6
+d9ughnut: 1 donut
+dab: 1
+dachshund: 13
+dad: 60
+daddy: 3
+daffodil: 13
+daffodils: 1
+dagger: 1
+dagoba: 1
+dahlia: 2
+daily: 3
+daintily: 2
+dairy: 35
+dais: 2
+daisy: 45
+dalal: 1
+dale: 1
+dali: 3
+dalmatian: 11
+dalmation: 8 dalmatian
+dam: 9
+damage: 18
+damask: 2
+dan: 1
+danair: 1
+dance: 37
+dancer: 15
+dancing: 7
+dandelion: 12
+dane: 1
+danforth: 2
+danger: 13
+dangle: 1
+dangling: 1
+danielle: 2
+daniels: 4
+danish: 9
+danube: 1
+dapper: 1
+dar: 1
+daredevil: 3
+dark: 207
+darkness: 13
+darkroom: 1
+darning: 1
+darnkess: 1 darkness
+dart: 3
+darth: 8
+dash: 20
+dashboard: 48
+data: 1
+date: 22
+datestamp: 1
+datsun: 1
+datum: 9
+dauchsand: 1
+daughter: 110
+daugther: 1 daughter
+davenport: 1
+david: 2
+davidson: 26
+dawg: 1
+dawn: 16
+day: 2951
+daybed: 7
+daybreak: 2
+daylight: 42
+dayligth: 1 daylight
+daytime: 145
+daytona: 1
+dc: 8
+dc-4e: 1
+ddr: 1
+de: 10
+dead: 8
+deadhorse: 1
+deaker: 3
+deal: 7
+dealer: 4
+dealership: 13
+deans: 1
+dear: 5
+death: 8
+debate: 2
+debian: 1
+debra: 1
+debris: 51
+debt: 1
+decade: 5
+decal: 24
+decanter: 3
+decay: 2
+decaying: 1
+december: 3
+decent: 1
+deception: 1
+decision: 1
+deck: 315
+deckard: 1
+decker: 1769
+declaration: 1
+decline: 5
+deco: 8
+decor: 138
+decorate: 1
+decorated: 4
+decoratif: 1 decorative
+decorating: 8
+decoration: 390
+decrepit: 1
+dedication: 1
+deer: 100
+def: 1
+defender: 2
+defense: 5
+definition: 1
+degree: 4
+dei: 2
+deicer: 1
+deign: 1
+deil: 1
+dek: 2
+dekcer: 1
+deks: 1
+del: 5
+delacourte: 1
+delaware: 1
+delectable: 6
+delegate: 1
+delft: 1
+delhi: 1
+deli: 39
+delicacy: 8
+delicatessen: 2
+delicious: 8
+delight: 7
+delineation: 1
+deliteful: 1 delightful
+deliver: 5
+deliverage: 1 delivery
+delivery: 118
+dell: 17
+dellphone: 1
+delta: 80
+demand: 1
+demo: 4
+democracy: 2
+demoed: 1
+demolition: 2
+demon: 7
+demonstration: 30
+demonstrator: 3
+demos: 1
+den: 116
+denim: 24
+denmark: 1
+denny: 1
+density: 1
+dent: 2
+dental: 1
+dentist: 8
+denver: 1
+deocration: 1 decoration
+deoderant: 1 deodorant
+deodorant: 6
+departing: 1
+department: 53
+departure: 7
+depic: 1 depict
+depict: 1
+depicting: 1
+depiction: 5
+deplaning: 1
+deportation: 1
+depot: 103
+depp: 1
+depression: 2
+depressor: 1
+dept: 2
+derailment: 2
+derby: 14
+derek: 2
+derelict: 4
+derrick: 1
+des: 3
+descending: 1
+descent: 5
+descript: 2
+description: 18
+deser: 1
+desert: 468
+deserter: 1
+desgin: 1 design
+design: 297
+designation: 1
+designer: 7
+designing: 1
+desination: 1 designation
+desing: 1 design
+desk: 5233
+desktop: 421
+desl: 1
+despair: 1
+dessert: 735
+dest: 1
+destination: 52
+destroyer: 1
+destruction: 2
+detail: 33
+detailing: 1
+detector: 2
+detergent: 5
+determination: 2
+detour: 11
+detritu: 1
+detroit: 9
+development: 7
+device: 511
+devices: 1
+devices.(remotes: 1
+devie: 2 device
+devil: 7
+devise: 2
+dew: 17
+dexk: 1
+dexter: 1
+deze: 1
+dfood: 1
+dhl: 4
+dia: 1
+diagonal: 2
+diagram: 8
+dial: 18
+dialog: 1
+diamond: 103
+diamond-: 1
+diaper: 45
+diary: 1
+dice: 9
+dick: 6
+dictation: 1
+dictator: 2
+dictionary: 3
+dicussion: 1 discussion
+die: 2
+diego: 1
+diesel: 12
+diet: 24
+diff: 2
+difference: 2
+different: 9
+differnet: 1 different
+differnt: 5 different
+difficulty: 1
+diffrent: 6 different
+diffuse: 1
+diffuser: 1
+difrection: 1 direction
+dig: 3
+digeneres: 1
+digestif: 1
+digger: 1
+digging: 1
+digit: 3
+digital: 2
+digitized: 1
+dignitary: 5
+dill: 4
+dim: 1
+dimly-: 1
+dimmly: 1 dimly
+dimond: 3 diamond
+dinasaur: 1
+dine: 1
+diner: 106
+dinette: 12
+dinghy: 1
+dinging: 4
+dingy: 1
+dining: 1028
+diningt: 1
+dink: 1
+dinking: 1 drinking
+dinner: 771
+dinnerplate: 1 dinner plate
+dinnerware: 8
+dinning: 61
+dinosaur: 22
+diorama: 5
+dip: 80
+diplomat: 1
+dir4ty: 1 dirty
+direct: 1
+direction: 521
+directional: 1
+director: 7
+directory: 2
+directtv: 1
+directv: 1
+dirt: 2877
+dirtbik: 1 dirtbike
+dirtbike: 14
+dirtie: 1
+dirty: 61
+dis: 1
+disagreement: 2
+disappointment: 1
+disarray: 5
+disaster: 3
+disbelief: 1
+disc: 294
+discard: 1
+disco: 6
+discount: 1
+discovery: 2
+discs: 1
+discus: 1
+discussion: 26
+disdain: 2
+disease: 1
+disert: 1 desert
+disgust: 1
+dish: 1445
+dishes: 1
+dishtowel: 1
+dishware: 2
+dishwasher: 144
+disk: 101
+dislplay: 1 display
+disney: 10
+disneyland: 4
+dispaly: 1 display
+dispatch: 1
+dispencer: 1
+dispense: 1
+dispenser: 132
+dispensor: 2 dispenser
+display: 2351
+displayed: 2
+displaying: 2
+displeasure: 1
+disposal: 6
+dispute: 1
+disrepair: 8
+dissolve: 1
+distance: 724
+distatse: 1 distance
+distince: 1 distance
+distnace: 1 distance
+distortion: 1
+distraught: 1
+distress: 1
+distribution: 2
+district: 38
+ditch: 24
+diush: 1
+divder: 1 divider
+dive: 3
+diver: 7
+diverge: 1
+diversion: 4
+divert: 1
+divide: 1
+divided: 1
+divider: 32
+diving: 33
+division: 3
+dixie: 3
+diy: 1
+dj: 12
+django: 1
+dlvd: 1
+dmv: 1
+dnow: 1
+do: 3
+do9: 1
+dob: 2
+doberman: 1
+doc: 2
+dock: 624
+docked: 1
+docket: 2
+docking: 33
+dockside: 1
+doctor: 29
+document: 17
+documentation: 1
+dodge: 8
+dodger: 3
+dodgers: 14
+doe: 1
+doen: 1
+dof: 1
+dog: 14488
+doge: 4
+dogfight: 1
+dogg: 2 dog
+doggy: 4
+doghnut: 1 donut
+doghouse: 3
+dogi: 1 dog
+dogs: 7
+doily: 23
+doing: 9
+dole: 7
+doll: 354
+dollar: 32
+dollhouse: 16
+dollop: 12
+dolly: 18
+dolphin: 18
+dom: 1
+dome: 43
+domed: 8
+domicile: 4
+dominance: 2
+dominate: 1
+dominatrix: 1
+dominion: 2
+domino: 4
+dominoes: 1
+dominos: 1
+don: 2
+don't: 4
+donacy: 1
+donairs: 1
+donald: 1
+donalds: 1
+donation: 10
+donkey: 95
+donnas: 1
+donoguht: 1 donut
+donor: 1
+donought: 2 donut
+dont: 2
+dontop: 1
+donught: 1 donut
+donut: 2150
+donute: 2 donut
+donuts: 14
+doo: 3
+dood: 1
+doodle: 1
+doofus: 1
+doog: 1
+door: 2424
+doorknob: 1
+doorless: 1
+doormat: 1
+doors: 3
+doorstep: 5
+doorwat: 1
+doorway: 363
+doorways: 1
+doot: 1
+dora: 1
+doraemon: 1
+doris: 1
+doritos: 2
+dork: 3
+dorm: 50
+dormer: 3
+dormitory: 3
+dos: 2
+dose: 1
+dostance: 1 distance
+dot: 107
+doube: 1
+double: 85
+doublebdecker: 1 doubledecker
+doubledecker: 17
+doubledoor: 1
+doubles: 1
+doubt: 2
+douevre: 1
+dough: 99
+doughnout: 2 donut
+doughnouts: 1 donut
+doughnut: 1519 donut
+doughnute: 1 donut
+douglas: 2
+dougnut: 4 donut
+dougnuts: 1 donut
+douhnut: 1 donut
+dount: 2 donut
+dounut: 1 donut
+dove: 9
+dowel: 1
+dowl: 1
+down: 26
+downfall: 1
+downhill: 93
+downlight: 1
+downpour: 2
+downspout: 1
+downstair: 1
+downstream: 1
+downstroke: 1
+downtown: 144
+downward: 7
+dowser: 1
+doxes: 1
+doze: 1
+dozen: 144
+dozer: 2
+dr: 6
+dr.: 12
+dracula: 2
+draft: 16
+drafting: 2
+drag: 6
+dragger: 1
+dragon: 48
+dragonair: 1
+dragonfly: 1
+drain: 31
+drainage: 7
+drainer: 1
+drainpipe: 1
+drama: 1
+drank: 3
+drape: 34
+draperies/: 1
+drapery: 3
+drapped: 1
+draught: 4
+draw: 5
+drawbridge: 2
+drawer: 235
+drawing: 102
+dray: 1
+dread: 8
+dreadlock: 7
+dreadlocks: 1
+dream: 1
+dreamliner: 1
+dreams: 1
+dres: 1
+drescher: 1 dresser
+dress: 896
+dressage: 3
+dressed: 3
+dresser: 289
+dresses: 1
+dressing: 29
+dressmaker: 1
+dressor: 1 dresser
+dresswear: 1
+dressy: 1
+drib: 1
+dribble: 1
+dridge: 1
+drift: 13
+driftwood: 6
+drill: 11
+drilling: 4
+drin: 1
+driniking: 1 drinking
+drink: 1446
+drinker: 1
+drinking: 291
+drinks: 7
+drip: 4
+dripping: 2
+drive: 186
+driver: 257
+drivers: 1
+driveway: 163
+drivind: 1 driving
+driving: 123
+drivng: 1 driving
+drizzle: 4
+dromedary: 1
+drool: 1
+droop: 1
+drooping: 1
+drop: 37
+droplet: 4
+droppage: 1
+dropping: 1
+drouilard: 1
+drs: 1
+druck: 1
+drug: 6
+druid: 2
+drum: 40
+drummer: 3
+drumming: 1
+dry: 9
+dryer: 135
+drying: 6
+drys: 1
+drysuit: 1
+drywall: 4
+dsk: 1
+dtand: 1
+dtreet: 2
+dtub: 1
+du: 2
+dual: 1
+dublin: 1
+duboulevard: 1
+ducati: 3
+duck: 450
+duckling: 11
+ducks: 1
+ducky: 11
+duct: 13
+dude: 26
+dudley: 2
+duel: 4
+duffel: 15
+duffle: 7
+dug: 1
+dugout: 72
+duit: 1
+duke: 2
+dult: 1
+dumbass: 1
+dumbbell: 1
+dummy: 11
+dump: 123
+dumpling: 12
+dumpster: 23
+dumptruck: 2
+dumpy: 1
+duncan: 1
+dune: 22
+dung: 1
+dunk: 2
+dunkin: 29
+duo: 7
+duplicate: 4
+dur: 2
+durby: 1
+durfer: 1
+durham: 4
+during: 1
+duringnmatch: 1 during match
+dusct: 1
+dusk: 139
+dusky: 1
+dust: 38
+dustbin: 3
+duster: 10
+dusting: 5
+dusty: 2
+dutch: 2
+dutschke: 1
+duty: 13
+duval: 2
+duvet: 6
+dvd: 46
+dvds: 8
+dwarf: 1
+dweeb: 1
+dwelling: 7
+dye: 17
+dyed: 1
+dyer: 3
+dynamite: 6
+dyrant: 1
+dyrgas: 4
+e: 15
+e.: 3
+e10: 1
+e23: 1
+e34: 1
+each: 14
+eachother: 16 each other
+eagle: 74
+eagles: 1
+ealing: 1
+ear: 508
+earbud: 7
+earing: 1
+earlier: 1
+earmark: 2
+earphone: 12
+earpiece: 1
+earplug: 2
+earring: 14
+ears: 3
+earth: 41
+ease: 6
+easel: 18
+eason: 3
+east: 13
+easter: 7
+eastern: 3
+eastlynn: 1
+easton: 1
+easy: 4
+easyjet: 1
+eat: 27
+eatable: 3
+eaten: 4
+eater: 1
+eaterie: 2
+eatery: 21
+eating: 162
+eatinng: 1
+eatng: 1 eating
+eatong: 1
+eatten: 1 eaten
+eave: 1
+ebelskif: 1
+ebertplatz: 1
+ebony: 1
+ebook: 1
+ecampment: 1 encampment
+ecclectic: 1 eclectic
+echo: 3
+eclair: 7
+eco: 3
+ecology: 1
+economy: 2
+ecozone: 1
+ect: 1 etc
+ed: 7
+edamame: 2
+eden: 1
+edgar: 1
+edge: 898
+edges: 1
+edging: 1
+edible: 1
+edibles: 1
+edic: 1
+edifice: 4
+edinburgh: 1
+edit: 1
+editing: 1
+edmonton: 2
+edna: 1
+education: 1
+edward: 1
+eeg: 1
+eeoyre: 1
+eephant: 1 elephant
+eeyore: 1
+effect: 17
+efferent: 1
+efficiency: 10
+effigy: 2
+effort: 7
+efield: 1
+efloor: 1
+efron: 1
+egg: 674
+eggbeater: 2
+eggcup: 1
+eggplant: 18
+eggs: 5
+egret: 11
+eground: 1
+egss: 1 eggs
+egypt: 3
+eifel: 1 eiffel
+eiffel: 14
+eight: 2
+eighteen: 3
+eighth: 2
+eith: 1 eighth
+el: 2
+elaborate: 1
+elaf: 1
+elate: 1
+elbow: 20
+elder: 3
+elderly: 3
+eldery: 1 elderly
+eleborate: 1 elaborate
+election: 3
+electornic: 1 electronic
+electric: 37
+electrical: 1
+electricians: 1
+electricity: 7
+electrics: 1
+electrode: 1
+electronic: 206
+electronics: 39
+elegance: 3
+element: 10
+elepahnt: 1 elephant
+elepant: 2 elephant
+elephant: 7740
+elephant.at: 1
+elephatns: 1 elephant
+elephnat: 2 elephant
+eletronic: 1 electronic
+elevation: 1
+elevator: 20
+eleven: 1
+elf: 9
+elgin: 1
+eligir: 1
+elise: 1
+elizabeth: 10
+elk: 9
+ellen: 1
+ellitott: 1
+elmo: 1
+elphant: 2
+elvis: 6
+elysees: 1
+email: 7
+embankment: 13
+embellishment: 3
+ember: 2
+emblem: 21
+embrace: 8
+embrella: 1 umbrella
+embroidery: 1
+emcee: 1
+emerald: 3
+emergency: 60
+emerson: 1
+emery: 1
+emiddle: 1
+emile: 1
+emirate: 1
+emirates: 8
+emission: 2
+emo: 16
+emote: 2
+emoticon: 1
+emotion: 2
+emotocn: 1
+emoty: 1
+empanadas: 1
+emperor: 3
+empire: 10
+employ: 1
+employee: 61
+employment: 1
+empty: 4
+ems: 4
+emu: 4
+emurates: 1
+emus: 1
+en: 1
+enactor: 3
+enamel: 1
+encasement: 1
+ence: 1
+enchilada: 3
+enchiladas: 1
+enclose: 6
+enclosed: 1
+enclosement: 2
+encloser: 2 
+enclosure: 1321
+enclusure: 1 encolsure
+encompassing: 3
+encounter: 3
+end: 700
+endeavor: 1
+endtable: 1
+enemy: 1
+energy: 18
+enfield: 1
+enforcement: 13
+engage: 3
+engagement: 3
+engine: 797
+engineer: 16
+engineering: 2
+engines: 1
+enging: 1
+england: 32
+england-: 1
+english: 47
+engraving: 5
+enjoyig: 1
+enjoying: 5
+enjoyment: 5
+enquiry: 1 inquiry
+ensemble: 6
+ensue: 1
+enter: 1
+enterprise: 4
+entertain: 1
+entertainer: 5
+entertainment: 161
+enthusiasm: 3
+enthusiast: 21
+enticing: 1
+entire: 1
+entourage: 3
+entrance: 196
+entrancing: 3
+entre: 4 entree
+entree: 80
+entrnce: 1 entrance
+entry: 39
+entryway: 9
+envelop: 1
+envelope: 20
+enveloping: 1
+enviroment: 1 environment
+environment: 82
+envrioment: 2 environment
+envy: 2
+eof: 1
+eoman: 2 woman
+eople: 1 people
+episcopal: 2
+episode: 3
+epizza: 1 pizza
+epping: 1
+eqiupment: 1 equipment
+equalizer: 1
+equestrian: 10
+equestrians: 1
+equestrienne: 1
+equipement: 1 equipment
+equipment: 578
+equipmment: 1 equipment
+equipmnt: 1
+equipped: 1
+equiptment: 3 equipment
+er: 1
+era: 34
+erase: 7
+eraser: 2
+erect: 2
+erection: 1
+erector: 2
+ereflection: 1 reflection
+ericsson: 2
+errant: 1
+error: 4
+erskine: 1
+erson: 1
+escalator: 46
+escaltor: 1 escalator
+escape: 12
+esclator: 1 escalator
+escort: 4
+esk: 1
+eskimo: 1
+esplanade: 1
+espn: 1
+espresso: 10
+esque: 2
+essen: 1
+essential: 8
+essex: 1
+establishment: 32
+estate: 8
+et: 1
+etc: 1
+etch: 1
+etching: 2
+ethier: 1
+eucalyptus: 2
+eup: 1
+eupiment: 1
+euro: 6
+eurolot: 1
+europe: 21
+european: 1
+eva: 6
+evan: 1
+evans: 1
+eve: 1
+evelop: 1
+evelyn: 1
+evening: 137
+event: 434
+everglades: 1
+evergreen: 23
+every: 1
+everybody: 2
+everyone: 49
+everything: 51
+evidence: 3
+evil: 6
+evolution: 1
+ewe: 15
+ewer: 2
+ewes: 3
+ex: 13
+exact: 2
+exahust: 1 exhaust
+exam: 2
+examination: 1
+example: 11
+excavation: 1
+excel: 1
+except: 1
+exception: 4
+excersise: 1 exercise
+exchange: 8
+excitement: 5
+exclamation: 3
+excursion: 1
+exectutive: 1 executive
+executive: 8
+exercise: 29
+exhaust: 16
+exhaustion: 1
+exhibit: 176
+exhibition: 14
+exhiibit: 1 exhibit
+exibit: 1 exhibit
+exit: 56
+exiting: 2
+expanse: 30
+expase: 1 expanse
+expectation: 1
+expedition: 2
+experience: 6
+experiment: 8
+expert: 7
+expertise: 1
+expired: 1
+explaining: 1
+explore: 1
+explosion: 2
+explosive: 1
+expo: 5
+exposition: 1
+exposure: 21
+express: 13
+expression: 47
+expressionless: 1
+expressway: 4
+ext: 3
+exte: 1
+extend: 1
+extended: 1
+extender: 2
+extension: 10
+extention: 1 extension
+exteriior: 1 exterior
+exterior: 19
+extinguisher: 11
+extra: 4
+extreme: 21
+eye: 639
+eyeball: 8
+eyebrow: 2
+eyeglass: 25
+eyelash: 3
+eyeliner: 1
+f: 2
+f-16: 1
+f.c.: 1
+f5: 1
+faberge: 1
+fabreeze: 1 febreeze
+fabric: 120
+facade: 20
+face: 1678
+facebook: 3
+facemask: 1
+facepaint: 1
+faces: 1
+facet: 6
+facility: 40
+facing: 3
+facsimile: 1
+factor: 2
+factory: 103
+facuet: 1 facet
+faculty: 1
+fad: 1
+fag: 1
+fahrenheit: 1
+failure: 1
+fainting: 1
+fair: 14
+fairground: 4
+fairgrounds: 2
+fairing: 1
+fairy: 14
+faith: 2
+fajita: 1
+fake: 5
+falafel: 3
+falcon: 10
+fall: 74
+fallen: 2
+falls: 7
+fame: 2
+family: 811
+famliy: 1 family
+fan: 320
+fancily: 2
+fancy: 23
+fang: 3
+fanny: 2
+fantasy: 4
+far: 2
+fare: 3
+farm: 308
+farmer: 151
+farmers: 4
+farmhouse: 6
+farming: 5
+farmland: 11
+farms: 2
+farmstead: 1
+farrell: 1
+farside: 1
+fashio: 1 fashion
+fashion: 93
+fast: 2
+fastball: 3
+fastfood: 1
+fat: 12
+fate: 1
+father: 168
+fatigue: 20
+fattening: 1
+faucet: 129
+fault: 2
+faultiness: 1
+faux: 1
+favor: 2
+favorite: 1
+fawked: 1
+fawn: 2
+fax: 3
+fboarder: 1
+fdny: 1
+fdr: 1
+fe: 9
+fear: 2
+feast: 9
+feat: 2
+feather: 74
+feathered: 3
+feature: 60
+featured: 1
+featuring: 1
+fed: 8
+federal: 2
+federer: 2
+fedex: 36
+fedora: 36
+fee: 2
+feed: 40
+feeder: 194
+feedin: 1
+feeding: 55
+feel: 10
+feeling: 3
+feet: 2
+fei: 1
+feild: 22 field
+feline: 1
+feliz: 1
+fell: 1
+fellow: 14
+fellowship: 1
+felt: 6
+femaale: 1 female
+femal: 1 female
+female: 356
+fenc: 1 fence
+fence: 3593
+fenced: 9
+fench: 3
+fencing: 17
+fender: 7
+fene: 1
+fening: 1
+fennel: 3
+ferguson: 1
+fern: 25
+ferny: 1
+ferocity: 2
+ferrari: 2
+ferret: 9
+ferris: 7
+ferry: 75
+ferryboat: 1
+fertilizer: 1
+fervor: 1
+fest: 2
+festival: 85
+festivity: 5
+festoon: 1
+feta: 4
+fetch: 6
+fett: 1
+fetta: 1
+fettuccine: 5
+fettuccini: 1 fettuccine
+few: 1
+fez: 5
+fhe: 1
+fi: 1
+fiat: 1
+fiber: 3
+fiberglass: 2
+fiction: 3
+fidderent: 1
+fiddle: 1
+fied: 1
+fiedld: 1
+fiekd: 1
+field: 14703
+field.next: 1
+fieldd: 1 field
+fielder: 7
+fielding: 1
+fieldl: 1 field
+fiend: 1
+fiesta: 1
+fiestaware: 1
+fifith: 1 fifth
+fifth: 10
+fifty: 7
+fig: 5
+figher: 1 fighter
+fight: 11
+fighter: 376
+fighting: 11
+figure: 178
+figurine: 179
+figuring: 1
+fiield: 1 field
+fiji: 3
+fil: 1
+fila: 1
+filament: 1
+filbert: 1
+fild: 1 field
+file: 65
+fileed: 2 field
+filet: 4 fillet
+filigree: 1
+filing: 13
+fill: 5
+filler: 1
+fillet: 5
+filling: 12
+fillmore: 1
+film: 35
+filming: 4
+filmstrip: 3
+filter: 12
+filth: 16
+fin: 13
+finance: 4
+financial: 1
+finch: 5
+finchingfield: 1
+find: 1
+finder: 2
+finding: 2
+fine: 8
+finery: 1
+finger: 219
+fingerling: 2
+fingernail: 4
+fingertip: 5
+fingertips: 2
+finial: 2
+finish: 38
+finland: 1
+finnair: 2
+fiod: 1 food
+fir: 11
+fire: 4486
+firecracker: 1
+firefighter: 24
+firefly: 2
+firehose: 2
+firehouse: 1
+firehydrant: 5 fire hydrant
+fireless: 1
+fireman: 46
+firemen: 5
+firepit: 3
+fireplace: 627
+fireplug: 4
+firetruck: 82
+firetrucks: 1
+firewood: 3
+firework: 26
+firing: 1
+firl: 1
+firld: 1
+firm: 2
+firn: 1
+firs: 1
+firsbe: 3
+firsbee: 5 frisbee
+first: 3
+fisbee: 1 frisbee
+fisbeegame: 1 frisbee game
+fisby: 1 frisbee
+fish: 430
+fishbowl: 3
+fisher: 1
+fisherman: 11
+fisheye: 18
+fishhook: 1
+fishing: 138
+fishnet: 6
+fishstick: 1
+fishtank: 1
+fiskars: 2
+fist: 33
+fistful: 1
+fit: 14
+fitness: 1
+fitpad: 1
+fitting: 3
+fitzgerald: 1
+five: 7
+fiving: 4
+fix: 3
+fixin: 4
+fixing: 17
+fixture: 148
+fixure: 1 fixture
+fizzibie: 1 frisbee
+fl: 1
+flack: 1
+flad: 1
+flag: 729
+flagger: 1
+flagpole: 4
+flags: 4
+flagstaff: 1
+flagstone: 4
+flair: 4
+flake: 5
+flame: 40
+flameless: 1
+flamingo: 32
+flamingos: 1
+flan: 3
+flanders: 3
+flanel: 1 flannel
+flank: 1
+flannel: 5
+flap: 9
+flaps: 1
+flare: 4
+flash: 23
+flashing: 1
+flashlight: 11
+flashlight.d: 1
+flask: 7
+flat: 5
+flatbed: 26
+flatbread: 22
+flatcar: 1
+flatland: 4
+flatscreen: 13
+flatware: 5
+flavor: 44
+flavoring: 2
+flea: 15
+fleck: 1
+fledgling: 1
+fleece: 2
+fleet: 30
+flesh: 6
+fleur: 1 flour
+flex: 1
+flexfoil: 1
+flexibility: 2
+flickr: 13
+flickr.com: 1
+flier: 14
+flight: 314
+flightline: 1
+flinders: 2
+fling: 3
+flintstone: 1
+flintstones: 1 flintstone
+flip: 181
+flipflop: 1
+flipper: 6
+flirt: 1
+flith: 1
+float: 85
+floatation: 1 flotation
+floatboard: 1
+floater: 7
+floatie: 4
+flock: 417
+flood: 24
+flooding: 3
+floodlight: 2
+floodway: 1
+flookies: 1
+floor: 3704
+flooring: 183
+floorplan: 2
+floors: 5
+floorshow: 1
+flop: 14
+flora: 2
+floral: 10
+florescence: 1
+florescent: 2
+floret: 35
+florida: 11
+florist: 2
+floser: 1
+floss: 9
+flotation: 5
+flour: 26
+flourish: 1
+flow: 15
+floweer: 1 flower
+flower: 4183
+flowerbed: 4
+flowered: 15
+flowering: 18
+flowerpot: 7
+flowers: 2
+flowery: 6
+flowes: 1 flower
+flown: 1
+floyd: 3
+fluff: 1
+fluffed: 4
+fluffly: 1 fluffy
+fluffy: 5
+fluid: 10
+fluorescent: 1
+flurry: 6
+flush: 4
+flushed: 1
+flusher: 3
+flushing: 12
+flute: 10
+fly: 175
+fly2help: 1
+flyer: 19
+flyers: 1
+flying: 136
+flys: 10
+fm: 1
+fnm: 1
+foal: 37
+foam: 36
+foaming: 1
+foamy: 1
+focaccia: 3
+foccia: 1
+focus: 126
+fodd: 1
+fodder: 2
+fog: 78
+foggy: 2
+fogy: 2
+foil: 177
+foilage: 6 foliage
+folage: 1 foliage
+fold: 12
+folded: 1
+folder: 21
+folding: 25
+foliage: 87
+folk: 21
+follow: 7
+follower: 2
+follwong: 1 following
+foloor: 1 floor
+folsom: 1
+fom: 1
+fondant: 6
+font: 13
+fontaine: 1
+foo: 1
+fooball: 1 football
+food: 9939
+foodie: 1
+foods: 4
+foodstuff: 11
+foodstufs: 1 foodstuff
+fool: 2
+foom: 1
+foood: 1 food
+foosball: 2
+foot: 1027
+footage: 2
+football: 139
+footboard: 4
+footbridge: 3
+footer: 1
+foothill: 7
+footie: 2
+footing: 2
+footlong: 6
+footpath: 7
+footprint: 11
+footrest: 2
+footstool: 9
+footwear: 2
+for: 5
+forage: 4
+foraging: 11
+forbearance: 1
+forbidden: 2
+force: 105
+forceps: 1
+forces: 2
+ford: 21
+fore: 2
+forearm: 3
+foreclosure: 4
+forefinger: 2
+forefront: 12
+foregin: 1 foreign
+foreground: 361
+forehand: 23
+forehead: 35
+foreign: 3
+foreigner: 1
+foremost: 1
+forepaw: 1
+forest: 1207
+forestation: 1
+forestry: 1
+foretell: 1
+forground: 1 foreground
+forhead: 1 forehead
+fork: 1158
+fork/: 1
+forkful: 3
+forklift: 10
+forks: 1
+form: 53
+formally: 1
+format: 2
+formation: 261
+formica: 2
+formula: 1
+forrest: 23 forest
+forset: 1 forest
+forst: 1 forest
+forsythia: 1
+fort: 5
+forting: 1
+fortnum: 1
+fortune: 2
+forty: 3
+fortyfive: 1
+foru: 1
+forwar: 1 forward
+forward: 2
+fossil: 1
+foul: 1
+foundation: 5
+founder: 1
+fountain: 193
+fountains: 3
+four: 44
+fours: 1
+foursome: 1
+fourth: 5
+fourwheeler: 1
+fower: 1 tower
+fowhawk: 1
+fowl: 10
+fox: 14
+foyer: 12
+fplate: 1 plate
+fpor: 1 for
+fraction: 1
+frad: 1
+frame: 293
+framed: 1
+framework: 2
+framing: 3
+france: 24
+frances: 1 france
+francisco: 18
+frank: 2
+frankfurter: 1
+franklin: 4
+franscisco: 1 francisco
+fransico: 1 francisco
+fransisco: 1 francisco
+frappe: 1
+fraternity: 2
+freaky: 2
+freckle: 1
+free: 6
+freesbe: 1 frisbee
+freesbee: 1 frisbee
+freesbie: 1 frisbee
+freesby: 2 frisbee
+freestyle: 3
+freeway: 106
+freewway: 1 freeway
+freez: 13 fries
+freezbie: 1 frisbee
+freezby: 1 frisbee
+freeze: 12
+freezer: 220
+freight: 126
+freighter: 3
+freightliner: 1
+freis: 1 fries
+fremont: 3
+french: 19
+frenchman: 1
+fres: 1 fries
+fresh: 10
+freshener: 4
+freshly: 1
+freshness: 2
+friar: 1
+fribe: 1 frisbee
+fribee: 4 frisbee
+friday: 5
+fride: 1 fridge
+fridge: 605
+fridgeand: 1 fridge and
+fridgerator: 2 refrigerator
+frie: 1 fries
+fried: 10
+frieghtt: 1
+friend: 499
+friends: 5
+fries: 5
+frig: 4
+friisbee: 1 frisbee
+frind: 1
+fringe: 2
+friom: 1 from
+frirnd: 1 friend
+frisbbe: 1 frisbee
+frisbe: 67 frisbee
+frisbee: 5676
+frisbeee: 1 frisbee
+frisbeein: 1 frisbee in
+frisbeer: 1
+frisbees: 17 frisbee
+frisbey: 3 frisbee
+frisbie: 10 frisbee
+frisby: 28 frisbee
+frisco: 2 
+frisebee: 1 frisbee
+frisee: 2 frisbee
+frisge: 1 fridge
+frisk: 2
+friskbee: 1 frisbee
+frisky: 2
+frissbee: 2 frisbee
+frist: 1
+fritata: 1
+frito: 3
+fritos: 2
+frittata: 3
+fritter: 6
+frizbe: 4 frisbee
+frizbee: 51 frisbee
+frizzbe: 3 frisbee
+frizzbee: 1 frisbee
+frizzy: 1
+fro: 7
+frock: 3
+frog: 28
+frogmore: 1
+frolf: 2
+fromt: 2 from
+fron: 5 from
+frond: 3
+front: 13174
+frontier: 5
+frontside: 1 
+froot: 1 fruit
+frosbee: 1 frisbee
+frost: 2
+frosted: 1
+frosting: 155
+frosty: 2
+froth: 1
+frown: 8
+frowning: 1
+frozen: 2
+frsibee: 1 frisbee
+fruist: 1 fruit
+fruit: 3329
+fruition: 1
+fruits: 2
+fruiture: 1 furniture
+fruity: 3
+frusbe: 1 frisbee
+frustration: 3
+frutis: 2 fruits
+fry: 1021
+fryer: 26
+frying: 68
+ft: 2
+ftont: 2 front
+fuchsia: 1
+fudge: 13
+fuel: 20
+fueli: 1 fuel
+fueling: 1
+fuji: 3
+ful: 1
+fulfillment: 1
+full: 18
+fulled: 1
+fulton: 2
+fume: 1
+fun: 256
+function: 27
+fund: 1
+funding: 1
+fundraiser: 2
+funeral: 5
+fungus: 1
+funnel: 5
+funny: 4
+fur: 86
+furiniture: 1 furniture
+furinture: 1 furniture
+furnace: 4
+furnari: 1
+furnishing: 73
+furnitre: 1 furniture
+furniture: 1166
+furnuiture: 1 furniture
+furry: 11
+furthest: 1
+fury: 4
+fuschia: 1 fuchsia
+fuselage: 4
+fushia: 1 fuchsia
+futball: 1 football
+futon: 41
+future: 5
+fwc: 1
+fwy: 1
+g: 9
+g.: 1
+ga: 1
+gadet: 1 gadget
+gadget: 46
+gadzooks: 1
+gaffe: 1
+gag: 3
+gage: 4
+gaggle: 1
+gain: 2
+gainz: 1
+gal: 3
+gala: 3
+galaxy: 2
+gallery: 14
+galley: 23
+gallon: 11
+gallop: 5
+galosh: 1
+gam: 1 game
+game: 7303
+gameboard: 1
+gameboy: 4
+gamer: 4
+games: 6
+gamily: 1
+gaminb: 1 gaming
+gaming: 73
+gamme: 1 game
+ganache: 2
+gander: 1
+ganesh: 1
+gang: 33
+gangster: 1
+gangway: 1
+gap: 17
+gape: 1
+gaping: 1
+garaffe: 1 giraffe
+garage: 296
+garb: 38
+garbage: 223
+garbanzo: 1
+garbs: 1
+garda: 1
+garde: 1
+garden: 462
+gardener: 3
+gardening: 8
+gardens: 1
+gargoyle: 3
+gariff: 1
+garland: 9
+garlic: 58
+garment: 9
+garmet: 1 garment
+garnish: 44
+garnishment: 7
+garter: 1
+gas: 279
+gash: 1
+gasmask: 1 gas mask
+gasoline: 3
+gasps: 1
+gasstation: 1 gas station
+gassy: 2
+gate: 483
+gateway: 5
+gather: 5
+gathered: 3
+gathering: 134
+gato: 1
+gatorade: 7
+gaucho: 1
+gauchos: 1
+gaudi: 1
+gauge: 13
+gaurd: 1 guard
+gautor: 1
+gauze: 7
+gavel: 1
+gay: 5
+gaze: 2
+gazebo: 21
+gazebos: 2
+gazed: 1
+gazell: 1 gazelle
+gazelle: 58
+gazette: 2
+gazooks: 1
+ge: 1
+gear: 691
+geberit: 1
+gecko: 1
+gee: 2
+geek: 6
+geeks: 1
+geese: 7
+geisha: 14
+gel: 4
+gelatin: 1
+gelato: 5
+genache: 1
+gender: 1
+gene: 1
+general: 1
+generating: 1
+generation: 4
+generator: 8
+genetalia: 1 genitalia
+genga: 1
+genital: 2
+genius: 3
+gentleman: 203
+gentlemen: 2
+gentlemn: 1 gentleman
+george: 7
+georgetown: 1
+geraffe: 4 giraffe
+geranium: 1
+gerbel: 1
+gerber: 1
+gerbera: 1
+gerbil: 5
+germ: 1
+german: 5
+germanium: 1
+germany: 9
+gery: 2
+gesicht: 1
+gesture: 43
+get: 14
+getitng: 1 getting
+gettign: 2 getting
+getting: 2
+geyser: 3
+gfuit: 1 
+gglass: 1 glass
+ggroup: 1 group
+ghan: 3
+ghetto: 3
+ghost: 10
+ghutra: 1
+giaffe: 1 giraffe
+giancarlo: 1
+giant: 18
+giants: 11
+gibson: 4
+giffara: 1 giraffe
+gift: 63
+giggle: 2
+gil: 1
+gillette: 1
+gimp: 2
+gin: 2
+ginger: 31
+gingerbread: 8
+gingham: 5
+gingivitis: 1
+gino: 2
+ginza: 1
+gir: 3
+girafe: 3 giraffe
+girafee: 12 giraffe
+girafees: 2 giraffe
+girafes: 1 giraffe
+giraff: 7 giraffe
+giraffe: 7587
+giraffee: 10 giraffe
+giraffees: 2 giraffe
+giraffel: 1 giraffe
+giraffes: 1270 giraffe
+giraffesroam: 1 giraffe roam
+giraffestanding: 1 giraffe standing
+giraffew: 1 giraffe
+girafffe: 1 giraffe
+giraffis: 1 giraffe
+giragge: 1 giraffe
+girard: 1 giraffe
+gird: 1
+girder: 2
+girdle: 2
+gireffes: 1 giraffe
+girl: 7715
+girlfriend: 8
+girll: 1 girl
+girls: 12
+girlson: 1 girl on
+girlw: 1 girl
+girly: 2 girl
+giron: 1 girl on
+girrafe: 5 giraffe
+girraff: 1 giraffe
+girraffe: 6 giraffe
+giving: 3
+giza: 1
+glacier: 5
+gladiators: 1
+gladiola: 1
+gladiolus: 1
+glam: 1
+glance: 4
+glare: 16
+glas: 5 glass
+glass: 6058
+glass.etc: 1
+glass;s: 1
+glassdoor: 1
+glasses: 3
+glassware: 19
+glassy: 4
+glaze: 29
+glazed: 2
+glazing: 4
+gleam: 1
+glee: 1
+glenn: 1
+glide: 4
+glider: 43
+gliding: 2
+glimpse: 5
+glisan: 1
+glitch: 2
+gllomy: 1 gloomy
+glob: 5
+global: 1
+globe: 20
+glod: 1
+gloom: 1
+gloomy: 1
+glop: 1
+glory: 6
+glossary: 1
+gloucester: 1
+glove: 590
+gloves: 1
+glow: 22
+glowing: 2
+glowstick: 1
+glue: 16
+gme: 1
+gnar: 17
+gnarr: 1
+gnaw: 1
+gnocchi: 1
+gnome: 15
+gnu: 1
+gnus: 1
+go: 6
+goad: 1
+goal: 84
+goalie: 39
+goalkeeper: 2
+goalpost: 1
+goaltender: 1
+goaly: 1
+goat: 469
+goatee: 18
+goats: 2
+goblet: 35
+god: 14
+goddess: 1
+godzilla: 2
+goer: 36
+goggle: 135
+goggles: 2
+going: 1
+gold: 309
+golden: 19
+goldfish: 7
+golf: 120
+golfer: 6
+golfing: 1
+gomes: 1
+gomez: 1
+gon: 1
+gondala: 3 gondola
+gondola: 10
+gondolier: 1
+gone: 3
+gong: 3
+goo: 7
+good: 134
+goodbye: 7
+goodie: 1
+goodlight: 2
+goodness: 2
+goody: 13
+goofy: 5
+google: 16
+googly: 1
+gook: 1
+goose: 120
+gordon: 4
+gore: 1
+gorge: 1
+gorgeous: 2
+gorilla: 18
+gorup: 2
+gosling: 2
+gossip: 1
+gossops: 1
+gothic: 1
+goti: 2 gothic
+goulash: 1
+gound: 1 ground
+goup: 3
+gourd: 4
+gourmet: 77
+gout: 1
+government: 15
+gown: 42
+goyard: 1
+gp: 1
+gps: 16
+gr$$d: 1
+gra: 6
+graass: 1
+grab: 15
+grabs: 1
+grace: 3
+grad: 1
+gradation: 1
+gradd: 3
+grade: 11
+graduate: 18
+graduation: 31
+grady: 3
+graf: 3
+grafatti: 2 graffiti 
+grafetti: 1 graffiti 
+graffias: 1 graffiti 
+graffit: 3 graffiti 
+graffiti: 491
+graffitii: 1 graffiti 
+graffito: 156
+graffitti: 7 graffiti 
+grafifti: 1 graffiti 
+grafiti: 3 graffiti 
+grafitti: 14 graffiti 
+graham: 5
+grail: 1
+grain: 58
+gran: 1 grain
+grand: 6
+grandchild: 1
+granddaughter: 3
+grandfather: 86
+grandma: 6
+grandmother: 8
+grandpa: 2
+grandpap: 1 grandpa
+grandparent: 4
+grandson: 5
+grandstand: 1
+granite: 99
+granny: 6
+granola: 20
+granville: 2
+grape: 199
+grapefruit: 40
+grapes: 1
+graph: 3
+graphic: 21
+graphics: 1
+graphiti: 1 graffiti 
+graphitti: 1 graffiti 
+graphittie: 1 graffiti 
+grapic: 1 graphic
+gras: 4 grass
+grasp: 1
+grass: 9280
+grass;land: 1
+grasshopper: 3
+grassi: 1 grass
+grassin: 1 grass in
+grassl: 1 grass
+grassland: 70
+grassless: 2
+grassy: 118
+grate: 28
+grater: 11
+grating: 1
+gratiot: 1
+grave: 9
+gravel: 185
+gravestone: 1
+graveyard: 10
+gravity: 4
+gravy: 77
+gray: 19
+grayish: 4
+graz: 21 grass
+graze: 110
+grazed: 1
+grazen: 1
+grazes: 43
+grazing: 660
+gre: 1
+grean: 1
+grease: 11
+greasey: 1 grease
+great: 5
+greay: 1 grey
+gree: 1 greek
+greek: 3
+green: 633
+greenbush: 1
+greenery: 108
+greenfield: 3
+greengrocer: 1
+greenhouse: 10
+greenie: 1
+greens: 1
+greenwald: 1
+greenwave: 1
+greenwich: 3
+greeting: 14
+greetings: 1
+greien: 1
+gren: 3
+grey: 343
+greyhound: 6
+griaffe: 3 giraffe
+griaffes: 1 giraffe
+grid: 9
+griddle: 12
+gridle: 1 griddle
+gridlock: 2
+griffa: 1 giraffe
+griffe: 2 giraffe
+griffin: 1
+gril: 5 girl
+grill: 343
+grille: 8
+grilled: 2
+grilling: 3
+grimace: 3
+grime: 5
+grin: 6
+grind: 20
+grinder: 9
+grinding: 2
+grip: 16
+grit: 12
+grits: 1
+grizzle: 6
+grizzley: 1 grizzly
+grizzly: 69
+grocer: 3
+grocery: 152
+groffetii: 1 graffiti 
+groin: 1
+grontof: 1
+groom: 197
+groomer: 4
+grooming: 6
+groomsman: 2
+groop: 1 group
+grop: 1 group
+gropu: 1 group
+gropup: 1 group
+gros: 2 gross
+gross: 1
+grossing: 1
+grou: 1 ground
+groud: 1 ground
+groun: 1 ground
+ground: 3084
+groundcover: 1
+groundhog: 1
+grounds: 1
+groung: 1 ground
+grouo: 1 group
+group: 15355
+groupd: 3 group
+groupe: 2 group
+groupf: 1 group
+grouping: 48
+grouplab: 2
+groupo: 1 group
+groupof: 2 group of
+grout: 1
+grove: 41
+grow: 1
+grower: 1
+growing: 1
+grown: 4
+grownup: 1
+growth: 12
+grub: 1
+grube: 1
+grupo: 1
+gryffindor: 1
+gthl: 1
+guacamole: 14
+guage: 2 gauge
+guard: 131
+guardhouse: 1
+guardia: 1
+guardrail: 10
+guards: 1
+guardsman: 1
+guatemala: 1
+guest: 76
+guesturing: 1 gesturing
+guidance: 1
+guide: 26
+guinea: 3
+guinness: 6
+guitar: 256
+guitarist: 2
+gulf: 2
+gull: 27
+gulliver: 1
+gum: 19
+gumball: 1
+gumbo: 1
+gumdrop: 2
+gummie: 2
+gummy: 7
+gump: 4
+gumpaste: 1
+gun: 95
+gunman: 1
+gurney: 1
+guru: 1
+gush: 1
+gushing: 2
+gust: 1
+gut: 1
+gutter: 15
+guy: 2509
+guys: 4
+gym: 62
+gymnasium: 19
+gymnastic: 1
+gypsy: 2
+gyro: 5
+h: 3
+h'or: 1
+h.g.: 1
+habanos: 1
+habit: 2
+habitat: 206
+habitation: 2
+hack: 1
+hackney: 1
+hacks: 2
+had: 3
+haight: 1 height
+hair: 1073
+hairbrush: 11
+haircut: 39
+haircutting: 1
+hairdo: 3
+hairdresser: 1
+hairdressing: 1
+hairdryer: 19
+hairless: 1
+hairnet: 2
+hairpiece: 1
+hairstyle: 5
+hairstylist: 2
+hairy: 10
+hale: 1
+half: 1086
+halfpipe: 19
+halfway: 7
+hall: 95
+halloween: 31
+hallway: 175
+halo: 4
+halt: 1
+halter: 13
+halve: 1
+ham: 178
+hamburber: 1 hamburger
+hamburg: 1
+hamburger: 180
+hamlet: 3
+hamma: 1 hammer
+hammer: 34
+hammering: 1
+hammertime: 3
+hammock: 28
+hamoc: 1
+hamper: 6
+hampshire: 3
+hampsire: 1 hampshire
+hampster: 1 hamster
+hamster: 13
+han: 2
+hancock: 1
+hand: 4943
+handbag: 65
+handbrake: 1
+handcart: 1
+handcuff: 3
+handful: 13
+handfuls: 1
+handgun: 1
+handheld: 19
+handicap: 37
+handicapped: 1
+handing: 18
+handkerchief: 2
+handle: 225
+handlebar: 30
+handler: 37
+handling: 2
+handmade: 10
+handome: 1 handsome
+handrail: 27
+hands: 2
+handset: 3
+handshake: 2
+handsome: 1
+handstand: 29
+handwash: 1
+handwriting: 4
+handy: 1
+handyman: 2
+hanf: 1
+hang: 24
+hangar: 120
+hanger: 80
+hanging: 70
+hangout: 3
+hank: 3
+hankerchief: 1 handkerchief
+hanukkah: 1
+hap: 1
+happening: 1
+happiness: 2
+happy: 14
+har: 2 bar
+harald: 3
+harbor: 303
+harbour: 6 harbor
+harcourt: 1
+hard: 5
+hardcase: 1
+hardcover: 2
+hardhat: 3
+hardware: 14
+hardwood: 138
+harley: 32
+harmonica: 2
+harmony: 3
+harness: 85
+harp: 1
+harper: 8
+harrison: 1
+harrods: 3
+harry: 10
+harts: 2
+harvard: 1
+harvest: 2
+harvester: 1
+harvesting: 1
+has: 2
+hasbrown: 1
+hash: 27
+hashbrown: 5
+hasn't: 1
+hat: 2713
+hat.sit: 1
+hatch: 17
+hatchback: 8
+hatcher: 1
+hatchet: 1
+hate: 11
+hating: 3
+hats: 5
+haul: 11
+hauler: 4
+hauling: 10
+haunch: 3
+havana: 1
+have: 2
+haven: 1
+having: 3
+havoc: 1
+haw: 1
+hawaii: 2
+hawaiian: 1
+hawaiianese: 1
+hawk: 45
+hawks: 1
+hay: 530
+haywood: 1
+hazard: 12
+haze: 5
+hazmat: 1
+hazy: 1
+hbf: 1
+hbo: 1
+hd: 5
+he: 8
+hea: 1
+head: 2804
+headband: 27
+headboard: 95
+headdress: 9
+headgear: 5
+heading: 8
+headlamp: 1
+headland: 3
+headless: 1
+headlight: 36
+headline: 1
+headphone: 202
+headphones: 1
+headpiece: 5
+headquarters: 2
+headrest: 2
+headscarf: 6
+headset: 17
+headshot: 3
+headstand: 2
+headstone: 3
+heal: 1
+health: 14
+healthcare: 1
+healthy: 1
+heap: 5
+heaping: 1
+hear: 5
+heard: 72
+heart: 202
+heartbeat: 1
+hearth: 7
+hearts: 1
+heat: 15
+heater: 39
+heathrow: 1
+heating: 13
+heaven: 1
+heavey: 1
+hebrew: 1
+hedboard: 1 headboard
+hedge: 54
+hedgehog: 2
+hedgerow: 1
+heead: 1 head
+heed: 1
+heel: 67
+heels: 2
+heffer: 2
+hefty: 1
+height: 34
+heineken: 1
+heinz: 3
+heioroglyphic: 1
+heir: 2
+heirloom: 1
+helement: 1
+helemet: 1 helmet
+helen: 1
+helicopter: 124
+helium: 1
+hell: 1
+hello: 13
+helm: 2
+helment: 1 helmet
+helmet: 1020
+helmets: 1
+helmit: 1 helmet
+help: 39
+helper: 2
+helping: 5
+hemostats: 1
+hen: 10
+henge: 1
+henry: 4
+her: 16
+her\: 1
+herald: 1
+herb: 76
+herd: 2276
+herder: 16
+herding: 4
+hereon: 1
+heripod: 1
+heritage: 5
+herk: 1
+herman: 1
+hero: 21
+heron: 22
+herons: 1
+herring: 2
+herringbone: 3
+herron: 1
+herself: 3
+herselg: 1
+hershey: 3 
+hertd: 1 hertz
+hertz: 1
+herzog: 1
+hes: 2
+hey: 2
+hgh: 1
+hher: 1
+hhouse: 1 house
+hid: 2
+hide: 8
+hiding: 8
+hidrent: 2 hydrant
+hierry: 1
+high: 87
+highbury: 2
+highchair: 31
+highest: 1
+highland: 4
+highlight: 4
+highlighter: 2
+highrise: 2
+hight: 1
+hightop: 2
+highway: 505
+hiil: 2
+hijab: 3
+hike: 6
+hiker: 21
+hiking: 17
+hil: 5
+hilfiger: 2
+hill: 2999
+hills: 3
+hillside: 466
+hillsit: 1
+hilltop: 23
+hilly: 1
+him: 3
+himalayan: 1
+hime: 1
+himself: 1
+himselg: 1
+hind: 2
+hindquarter: 2
+hings: 1
+hinjwadi: 1
+hint: 1
+hip: 35
+hippie: 4
+hippo: 10
+hippopotamus: 6
+hippos: 3
+hipster: 79
+hire: 1
+hiroshima: 1
+hirse: 1
+his: 27
+hiself: 1
+hissing: 3
+historian: 1
+historic: 6
+history: 1
+hit: 98
+hitachi: 1
+hitch: 6
+hitchhiker: 1
+hite: 1
+hitter: 79
+hitting: 5
+hive: 1
+hll: 1
+hlue: 1
+hlw: 1
+hnadle: 1 handle
+ho: 1
+hoagie: 33
+hoarder: 1
+hobby: 5
+hobo: 3
+hock: 1
+hockey: 30
+hodge: 1
+hodler: 1
+hoe: 5
+hog: 20
+hogwarts: 2
+hoilday: 1
+hoise: 1
+hoist: 1
+holbein: 1
+hold: 30
+holder: 252
+holders: 1
+holdign: 2 holding
+holding: 133
+holdinga: 1 holding
+holdingwith: 1 holding with
+holds: 1 
+hole: 393
+holiday: 62
+holidays: 4
+holidng: 4 holding
+holindg: 1 holding
+holing: 1
+holland: 1
+hollandaise: 2
+hollow: 1
+holly: 1
+hollywood: 13
+holstein: 4
+holster: 2
+holw: 1
+homage: 1
+home: 1647
+homebase: 3
+homelessness: 1
+homemad: 1 homemade
+homemade: 28
+homemaker: 1
+homeowner: 3
+homepage: 1
+homeplate: 5
+homer: 5
+homerun: 1
+homework: 3
+homophobia: 2
+homosexuality: 2
+honda: 15
+honday: 1
+hone: 2
+honesty: 2
+honey: 46
+honeycomb: 2
+honeymooner: 1
+hong: 6
+honking: 3
+honolulu: 1
+hood: 169
+hoodie: 69
+hooding: 4
+hoody: 5
+hoof: 15
+hook: 82
+hookah: 4
+hookup: 2
+hool: 1
+hoola: 3
+hoop: 38
+hooping: 1
+hoover: 1
+hop: 3
+hope: 7
+hor: 6
+horde: 2
+hore: 1 horse
+hores: 1 horse
+horese: 1 horse
+horizon: 38
+horm: 1
+horn: 196
+hornbeam: 1
+hornet: 1
+horror: 1
+horse: 9195
+horseback: 197
+horsedrawn: 2
+horsehead: 1
+horseman: 3
+horses: 6
+horseshoe: 1
+horsse: 1 horse
+horticulture: 1
+horton: 3
+hortons: 2
+hos: 2
+hoscb: 1
+hose: 181
+hospital: 134
+host: 16
+hostage: 1
+hostess: 3
+hosue: 2
+hot: 18
+hotdog: 652
+hotdogg: 1 hotdog
+hotdogs: 25 hotdog
+hotel: 753
+hotplate: 6
+hottie: 1
+hound: 12
+hounds: 1
+hour: 44
+hours: 2
+house: 2065
+houseboat: 9
+housecat: 1
+household: 37
+houseplant: 7
+houses: 3
+housewife: 1
+housing: 36
+houston: 3
+hout: 1
+hover: 9
+hovering: 3
+howdah: 2
+howie: 1
+hoysr: 1
+hp: 5
+hr: 2
+hryden: 1
+hs: 1
+hsbc: 1
+hseet: 1
+hsi: 1
+hsome: 1
+hspital: 1 hospital
+htc: 3
+hte: 1
+huang: 1
+hub: 4
+hubcap: 1
+huddle: 7
+huddles: 1
+hudson: 1
+hue: 1
+hued: 1
+huey: 1
+hufe: 1
+hug: 19
+huge: 6
+huger: 2
+hugging: 13
+hugh: 1
+hula: 18
+hulk: 1
+hull: 7
+human: 61
+humanoid: 1
+humidifier: 1
+hummer: 2
+humming: 2
+hummingbird: 48
+hummingbirds: 1
+hummus: 6
+humor: 2
+hump: 18
+humped: 2
+humps: 1
+humungous: 1 humongous
+hunch: 5
+hunched: 1
+hundred: 41
+hunk: 4
+hunt: 2
+hunter: 8
+hunting: 6
+huntsville: 1
+hurd: 1
+hurdle: 25
+hurl: 1
+hurricane: 2
+hurricanes: 1
+hurry: 3
+hurst: 1
+hurtle: 1
+husaband: 1 husband
+husband: 16
+hush: 2
+hushpuppy: 1
+huskie: 1
+husky: 13
+hut: 93
+hutch: 7
+hwy: 4
+hyacinth: 2
+hyatt: 2
+hybrid: 1
+hydant: 3 hydrant
+hyde: 7
+hydra: 1
+hydrain: 1
+hydrangea: 5
+hydrant: 3678
+hydraon: 1
+hydrat: 1 hydrant
+hydrate: 1
+hydration: 2
+hydrgan: 1 hydrogen
+hydrgen: 1 hydrogen
+hydrgian: 1 hydrogen
+hydrgon: 1 hydrogen
+hydro: 2
+hydrofoil: 1
+hydrogen: 9
+hydrogn: 1 hydrogen
+hydron: 1 
+hydroplane: 1
+hyena: 10
+hygeine: 1 hygiene
+hygiene: 12
+hypnosis: 1
+hypo: 1
+hyrant: 2 hydrant
+hyrdant: 4 hydrant
+hyrdgen: 1 hydrogen
+hyrdgon: 1 hydrogen
+hyrdrant: 5 hydrant
+hysrant: 1 hydrant
+i: 2
+i-5: 1
+i.: 2
+iamge: 3 image
+iar: 1
+iarplane: 1 airplane
+iberia: 1
+ibex: 1
+ibm: 5
+icbox: 1
+ice: 430
+iceberg: 1
+icebox: 23
+icecream: 9
+iced: 4
+icefields: 1
+iceland: 2
+icelandair: 1
+iceream: 1 icecream
+icicle: 7
+icing: 153
+icon: 15
+icture: 1 picture
+icy: 3
+id: 7
+ide: 1 idea
+idea: 9
+identification: 11
+identifier: 1
+identity: 1
+idiot: 5
+idle: 18
+idling: 1
+idol: 1
+idolatry: 1
+idustrial: 1 industrial
+ifc: 1
+ifeld: 1
+ifs: 1
+iga: 1
+ight: 1
+igloo: 3
+ihop: 4
+ii: 12
+iice: 1
+iis: 1
+iit: 1
+ikea: 2
+iker: 1 ikea
+illinois: 1
+illuminate: 1
+illumination: 2
+illusion: 5
+illustration: 17
+im: 2
+imac: 11
+image: 3015
+imagery: 2
+images: 1
+imge: 1 image
+imitation: 2
+immaculate: 1
+immage: 1 image
+immersion: 1
+impact: 3
+impala: 2
+imperfection: 2
+imperial: 1
+impersonator: 2
+implement: 16
+imposter: 1 impostor
+impression: 2
+imprint: 2
+improvement: 1
+in: 24
+ina: 7
+inanimate: 1
+inc.: 1
+inch: 9
+incident: 2
+incision: 2
+inclement: 2
+incline: 41
+inclosue: 1 enclosure
+inclosure: 14 enclosure
+include: 1
+inconvenient: 1
+indent: 1
+index: 4
+india: 27
+indian: 2
+indiana: 4
+indians: 4
+indicating: 3
+indicator: 14
+individual: 208
+individuallity: 1 individuality
+indivual: 1 individual
+indoor: 58
+indow: 1 window
+induction: 1
+industrial: 1
+industry: 3
+indy: 1
+ineptness: 1
+infant: 75
+infield: 17
+infielder: 3
+infinitum: 1
+inflatable: 1
+inflorescence: 1
+info: 3
+inform: 1
+information: 54
+infotech: 1
+infowars.com: 1
+infrared: 1
+infrastructure: 1
+infron: 1 in front
+infront: 19 in front
+ingrediant: 1 ingredient
+ingrediants: 1 ingredient
+ingredient: 234
+ingredients: 1 ingredient
+inhabitant: 1
+inhaler: 1
+init: 1
+initial: 6
+initiate: 1
+injury: 2
+ink: 21
+inlet: 4
+inmate: 2
+inn: 15
+innard: 1
+inner: 1
+innertube: 1
+inning: 7
+innovation: 1
+innovations: 1
+inscription: 6
+insect: 13
+insecticide: 1
+insert: 2
+inset: 3
+insid: 1
+inside: 256
+insignia: 5
+inspect: 1
+inspection: 2
+inspector: 1
+instagram: 2
+installation: 6
+installed: 1
+instance: 1
+instant: 1
+institution: 1
+instruction: 52
+instructor: 29
+instrument: 98
+insturments: 1 instruments
+insulation: 3
+int: 27
+intake: 1
+intel: 4
+intensity: 1
+intent: 10
+inter: 4
+interaction: 3
+interchange: 2
+interest: 13
+interface: 5
+interfacing: 1
+interior: 158
+interjet: 2
+intern: 1
+international: 13
+internet: 15
+interpretation: 1
+interruption: 1
+intersecetion: 1 intersection
+intersecion: 1 intersection
+intersect: 1
+intersection: 1458
+intersecton: 1 intersection
+interssection: 1 intersection
+interstate: 19
+intertube: 1
+interval: 1
+interview: 4
+interviewer: 1
+inthe: 3 in the
+into: 10
+intricacy: 1
+invention: 1
+inventor: 1
+inventory: 2
+investment: 1
+invine: 1 
+invoice: 1
+involvement: 1
+ion: 3
+ip: 1
+ipad: 28
+iphone: 42
+ipod: 56
+ipswich: 1
+ira: 1
+iraq: 1
+ire: 1
+ireland: 1
+iris: 7
+irl: 1
+iron: 172
+ironing: 1
+ironwork: 1
+irritation: 1
+isde: 1
+isi: 1
+island: 311
+isle: 18
+isnide: 2
+isolation: 2
+israel: 2 
+isreal: 1 israel
+issue: 5
+isuzu: 1
+it: 48
+italia: 1
+italian: 1
+italianate: 1
+italy: 11
+itand: 1 it and
+itch: 4
+item: 1800
+item.s: 1
+items: 2
+ith: 5
+ither: 1
+itme: 1
+its: 13
+itsef: 1
+iut: 1
+iv: 1
+iving: 1
+ivory: 8
+ivy: 21
+iwth: 10 with
+izod: 1
+j: 4
+j.: 2
+j.p: 1
+jack: 23
+jacket: 1382
+jackets: 1
+jackson: 8
+jacksonville: 1
+jacuzzi: 20
+jade: 3
+jagermeister: 1
+jaguar: 1
+jail: 19
+jakcet: 1 jacket
+jal: 4
+jalapeno: 3 
+jalapenos: 16 jalapeno
+jalepeno: 1 jalapeno
+jalepenos: 1 jalapeno
+jalopy: 1
+jam: 53
+jamaica: 4
+jamb: 1
+jamba: 1
+james: 4
+jamie: 1
+janitor: 1
+jansport: 1
+japan: 24
+japanese: 4
+jar: 271
+jars: 1
+jaw: 3
+jawed: 1
+jay: 6
+jazz: 2
+jc: 1
+jcdecaux: 1
+jcpenney: 1
+jcpenny: 1
+je: 1
+jean: 228
+jeans: 6
+jeep: 72
+jeepney: 1
+jeet: 1
+jeff: 6
+jefferson: 1
+jekyll: 4
+jello: 7
+jelly: 68
+jellyfish: 2
+jenny: 2
+jersey: 133
+jersie: 2
+jeryll: 1
+jester: 3
+jesus: 24
+jet: 1930
+jetblue: 2
+jeter: 2
+jetfighter: 2
+jetliner: 256
+jets: 3
+jetski: 1
+jetstream: 1
+jettison: 1
+jetty: 12
+jetway: 19
+jew: 1
+jewel: 5
+jewelery: 2
+jewellery: 1 jewelry
+jewelry: 24
+jey: 1 jet
+jeyboard: 1 jetboard
+jie: 1
+jiffy: 1
+jihwan: 1
+jimmy: 4
+jmi: 1
+joan: 1
+job: 38
+jobs: 5
+jock: 2
+jockey: 162
+jockeying: 1
+jockeys: 10
+jockie: 2
+jocky: 1
+joe: 2
+jog: 2
+jogger: 1
+jogging: 4
+john: 14
+johnny: 2
+johns: 6
+joint: 6
+joke: 14
+joker: 9
+jokey: 1
+jolicoeur: 1
+jommu: 1
+jon: 1
+jonas: 2
+jonathan: 1
+jone: 3
+jones: 6
+jordan: 1
+jordanian: 1
+jose: 2
+joshua: 3
+josset: 1
+journal: 4
+journalist: 2
+journey: 9
+jouster: 1
+jousting: 2
+jovial: 1
+joy: 7
+joynt: 1
+joystick: 3
+jr.: 1
+juan: 1
+jubilee: 1
+jubilent: 1
+judah: 1
+judaism: 1
+judge: 24
+judging: 1
+juds: 1
+jug: 46
+juggler: 2
+juggling: 1
+juice: 291
+juicer: 19
+juicerator: 1
+juicy: 3
+jukebox: 1
+julia: 2
+juliana: 1
+july: 6
+jumble: 7
+jumbo: 28
+jumbojet: 1
+jumbotron: 1
+jumo: 1
+jump: 649
+jumper: 17
+jumping: 116
+jumps: 2
+jumpsuit: 5
+junction: 11
+juneau: 1
+jungle: 130
+junior: 1
+junk: 64
+junker: 1
+junkyard: 3
+jus: 1
+just: 4
+jut: 1
+juvenile: 14
+juxtaposition: 1
+k: 3
+k.: 4
+k9: 1
+kabob: 9
+kabobs: 1
+kabul: 1
+kadinkoy: 1
+kaiser: 1
+kal: 1
+kale: 13
+kandos: 1
+kangaroo: 7
+kangeroo: 1 kangaroo
+kanji: 2
+kansa: 1
+kansas: 2
+kanzu: 1
+karaoke: 3
+karl: 1
+karmill: 2
+kart: 8
+katz: 1
+kawaguchiko: 2
+kawasaki: 5
+kayak: 53
+kayaker: 5
+kayaking: 3
+kayaks: 1
+kc: 1
+kcd: 1
+ke: 1
+kearny: 2
+kebab: 3
+keboard: 1
+keel: 1
+keep: 1
+keeper: 18
+keeping: 2
+keg: 6
+keio: 1
+keish: 3
+kempa: 2
+ken: 4
+keniston: 1
+kenmore: 1
+kennedy: 1
+kennel: 8
+kennfland: 1
+kentucky: 4
+kenworth: 1
+kenya: 1
+kept: 4
+kerchief: 1
+kermit: 1
+kern: 1
+kernel: 4
+kerosene: 1
+kerouac: 2
+kerry: 6
+ketcheup: 1
+ketchup: 292
+kettle: 78
+kewboard: 1 keyboard
+key: 165
+keybard: 2 keyboard
+keyboard: 2183
+keyboard.on: 1
+keybooard: 1 keyboard
+keyborard: 1 keyboard
+keybpard: 1 keyboard
+keychain: 9
+keyhole: 1
+keypad: 4
+keys: 5
+kfc: 4
+kg: 2
+khaki: 7
+khakis: 5
+kibble: 1
+kichen: 1 kitchen
+kick: 40
+kickball: 1
+kickdown: 1
+kickflip: 5
+kicking: 3
+kickstand: 7
+kicthen: 1 kitchen
+kid: 2354
+kiddie: 3
+kids: 16
+kielbasa: 2
+kielbasi: 1
+kill: 6
+killer: 1
+kiln: 4
+kilt: 12
+kimono: 13
+kimonos: 1
+kind: 716
+kindergartner: 1 kindergarten
+kindle: 2
+king: 56
+kingdom: 7
+kingfisher: 5
+kings: 3
+kingston: 1
+kinife: 1 knife
+kinnaird: 1
+kiosk: 14
+kipper: 1
+kirk: 1
+kirribilli: 1
+kirschwasser: 1
+kiss: 25
+kissing: 2
+kit: 80
+kitcehn: 6 kitchen
+kitcen: 1 kitchen
+kitch: 2 kitchen
+kitche: 4 kitchen
+kitchen: 9369
+kitchenette: 21
+kitchenware: 4
+kitchenwith: 1 kitchen with
+kitcken: 3 kitchen
+kite: 6423
+kiteboard: 24
+kiteboarder: 1
+kiteboarding: 1
+kiten: 1 kitten
+kitesurfer: 4
+kitesurfing: 1
+kitesurfs: 1
+kithceh: 1 kitchen
+kithen: 1 kitchen
+kitteh: 2 kitchen
+kitten: 450
+kittens: 1
+kittien: 1 kitten
+kitting: 2
+kitty: 136
+kiwi: 54
+kiwifruit: 1
+kiwis: 14
+kleenex: 6
+kling: 1
+klite: 1
+klm: 8
+km: 1
+kmart: 1
+knack: 42
+knapkin: 1 napkin
+knapsack: 3
+knead: 1
+kneading: 1
+kneck: 3
+knect: 1
+knee: 189
+kneel: 2
+kneeling: 7
+kneepad: 8
+knfe: 1 knife
+knick: 35
+knicker: 2
+knickknack: 5
+knicknack: 1
+knif: 1 knife
+knife: 1401
+knifed: 1
+knifes: 6
+knight: 16
+knights: 1
+knit: 12
+knitted: 1
+knitting: 10
+knitwear: 1
+knive: 1 knife
+knives: 1 knife
+knob: 29
+knobs: 1
+knoll: 9
+knot: 25
+know: 2
+koala: 11
+koalas: 1
+kodak: 3
+koffie: 1
+kohl: 1
+kohlrabi: 1
+koi: 1
+koloa: 1
+kondike: 1
+kong: 7
+konnowac: 1
+korea: 2
+kosher: 3
+kraut: 8
+kreme: 42
+kripsy: 2 krispy
+krispee: 2 krispy
+krispey: 1 krispy
+krispi: 1 krispy
+krispie: 3 krispy
+krispies: 1 krispy
+krispy: 44
+krustyo: 2
+ktchen: 1 kitchen
+ktichen: 3 kitchen
+ktie: 1 kite
+kumquat: 1
+kurig: 1
+kwu: 1
+ky: 1
+kyack: 1
+l: 23
+l'heure: 1
+l.a.: 2
+la: 9
+lab: 52
+label: 59
+lable: 1 label
+labor: 1
+laboratory: 3
+labrador: 17
+labtop: 3 laptop
+lace: 32
+lack: 5
+lacoste: 1
+lacquer: 2
+lacrosse: 9
+lacy: 3
+lad: 5
+ladder: 165
+lade: 3
+ladel: 1 ladle
+laden: 7
+ladies: 2
+lading: 1
+ladle: 12
+lady: 2210
+ladybug: 5
+laf: 1
+lafayette: 2
+lag: 1
+lage: 1
+lagoon: 18
+laguna: 1
+laind: 1
+lake: 1219
+lakefront: 1
+laker: 3
+lakers: 1
+lakeshore: 1
+lakeside: 5
+lam: 2
+lama: 4
+lamb: 314
+lame: 1
+laminate: 4
+laml: 1
+lamp: 988
+lampasas: 1
+lampo: 1
+lampost: 1 lamppost
+lamppost: 18
+lamps: 6
+lampshade: 6
+lampstand: 1
+lan: 3
+lanai: 2
+lancashire: 2
+land: 389
+landfill: 1
+landing: 339
+landline: 3
+landmark: 7
+landscape: 229
+landscaping: 16
+landward: 1
+lane: 239
+langerae: 1
+language: 140
+laniard: 1
+lantern: 24
+lanyard: 7
+laop: 1
+laounge: 1 loounge
+lap: 759
+lapdog: 1
+lapel: 22
+lapful: 1
+lapop: 1 laptop
+lapse: 30
+lapt: 6
+laptaop: 1 laptop
+lapton: 1 laptop
+laptoo: 1 laptop
+laptop: 6751
+laptp: 2 laptop
+larch: 2
+lard: 1
+lare: 1 large
+larege: 1 large
+large: 7
+larrge: 1 large
+las: 4
+lasagna: 25
+lasanga: 1 lasagna
+lasangna: 1 lasagna
+laser: 6
+lash: 2
+lassie: 2
+lasso: 7
+lassos: 3
+lassy: 1
+latch: 4
+late: 1
+latex: 1
+lather: 1
+latin: 4
+latina: 1
+latke: 1
+latop: 1 laptop
+latrine: 1
+latte: 7
+latter: 1
+lattice: 8
+laugh: 19
+laughing: 6
+laughlin: 1 laughing
+laughs: 1
+laughter: 2
+launch: 8
+launcher: 1
+laundramat: 1 laundromat
+laundromat: 1
+laundry: 23
+laurel: 1
+lauren: 3
+laurent: 1
+lava: 15
+lavatory: 15
+lave: 1
+lavendar: 1
+lavender: 27
+law: 26
+lawn: 471
+lawnchair: 1
+lawnmower: 2
+laws: 1
+lawton: 1
+laxidaisy: 1
+lay: 96
+layer: 139
+layered: 5
+layind: 1 laying
+laying: 67
+layinig: 1 laying
+layne: 3
+layout: 5
+lazing: 1
+lcd: 8
+le: 2
+leach: 1
+lead: 28
+leader: 5
+leading: 1
+leaf: 962
+leafed: 2
+leafless: 22
+leafs: 12
+leafy: 7
+league: 180
+leaguer: 6
+leak: 10
+leaking: 1
+lean: 3
+leaning: 9
+leanness: 1
+leanto: 1
+leap: 39
+leaping: 2
+learning: 3
+leasgue: 1 league
+leash: 364
+leashing: 1
+least: 1
+leather: 340
+leathers: 1
+leave: 3
+leavened: 1
+leaving: 4
+leavs: 1
+lecacheur: 1
+lectern: 1
+lecture: 15
+led: 3
+ledge: 452
+lee: 1
+leek: 9
+leer: 1
+leesburg: 1
+left: 112
+leftover: 15
+leg: 765
+legend: 2
+legging: 5
+lego: 56
+legoman: 1
+legos: 19
+legs: 1
+legume: 1
+lei: 9
+leipzig: 1
+leis: 2
+leisure: 1
+leith: 1
+lelo: 1
+lemon: 261
+lemonade: 16
+lemons: 2
+len: 5
+lending: 1
+length: 38
+lengthwise: 1
+lennam: 1
+lenovo: 1
+lenox: 1
+lens: 37
+lense: 1
+lentil: 4
+leona: 1
+leonka: 1
+leopard: 31
+leotard: 4
+leprechaun: 1
+leroy: 5
+lesbian: 2
+lessey: 2
+lesson: 17
+let: 3
+letter: 101
+lettering: 46
+letting: 1
+lettting: 1
+lettuce: 312
+letuce: 1 lettuce
+level: 140
+lever: 7
+levi: 2
+levitation: 1
+levy: 1
+lewis: 1
+lf: 1
+lfoor: 1 floor
+lfowers: 1 flowers
+lft: 1
+lg: 3
+lglass: 1
+li: 1
+lib: 1
+liberation: 1
+liberty: 18
+library: 164
+lice: 1
+licence: 3 license
+license: 22
+lichen: 2
+lick: 3
+lid: 313
+liddle: 3 laddle
+lie: 28
+lien: 2
+life: 219
+lifeboat: 1
+lifeguard: 22
+lifejacket: 6
+lifeline: 1
+lifesaver: 1
+lifevest: 2
+lift: 288
+lifting: 2
+liftoff: 1
+lighlty: 1 lightly
+light: 4862
+lightening: 2
+lighter: 1
+lighthouse: 138
+lighting: 129
+lightness: 1
+lightning: 4
+lightpost: 2
+lights: 17
+lightyear: 2
+ligther: 1
+liing: 1 lying
+like: 3
+likelihood: 1
+likeness: 1
+liking: 1
+lilac: 8
+lilacs: 1
+lillie: 3
+lilo: 1
+lily: 20
+lilypad: 1
+lima: 2
+limb: 100
+limbo: 2
+lime: 108
+limes: 1
+limit: 59
+limited: 1
+limo: 15
+limousine: 6
+limp: 2
+lincecum: 1
+lincoln: 15
+linda: 1
+linden: 4
+lindley: 1
+line: 1683
+lined: 2
+lineman: 1
+linen: 83
+linens: 1
+liner: 47
+lines: 1
+linesman: 1
+lineup: 2
+ling: 1
+lingerie: 18
+linguine: 1
+linguini: 1
+lingus: 2
+lining: 7
+link: 110
+linksys: 1
+linne: 1
+linoleum: 8
+lint: 1
+linux: 2
+lion: 64
+lioness: 1
+lions: 2
+lip: 57
+lipstick: 18
+liquid: 187
+liquor: 52
+lire: 1
+lis: 1
+list: 5
+listenenig: 1 listening
+listening: 2
+listerine: 1 
+lit: 39
+litany: 2
+lite: 22
+liter: 4
+literature: 4
+litlte: 1 little
+litte: 3 little
+littel: 4 little
+litter: 24
+litterbox: 1
+littie: 1 little
+little: 28
+littler: 1
+litttle: 1 little
+liuid: 1 liquid
+live: 3
+livering: 1
+liverpool: 2
+livery: 4
+lives: 1
+livestock: 41
+livgin: 1 living
+liviing: 1 living
+livin: 1 living
+living: 5235
+livingr: 1 livingroom
+livingroom: 25
+livng: 1 living
+lizard: 21
+lizzard: 1 lizard
+llama: 14
+llamas: 3
+llie: 1
+llittle: 2 little
+llok: 1 look
+lloyd: 2
+llttle: 1 little
+ln: 2
+lo: 8
+load: 86
+loaded: 4
+loader: 8
+loading: 127
+loaf: 89
+loafer: 3
+loafs: 4
+loan: 3
+lob: 4
+lobby: 78
+lobster: 23
+local: 2
+locale: 3
+locamotive: 3 locomotive
+location: 85
+lock: 23
+locke: 1 locker
+locker: 18
+loco: 1
+locomotive: 224
+locust: 3
+lodge: 72
+lodging: 1
+loft: 32
+log: 404
+logging: 4
+logitech: 1
+logo: 88
+logs: 4
+loin: 1
+lois: 1
+loking: 1
+lol: 2
+loll: 3
+lollipop: 14
+lolly: 1
+lolypop: 1 lollipoop
+london: 206
+lone: 49
+lonely: 1
+long: 9
+longboard: 17
+longboarder: 3
+longhair: 1
+longhorn: 6
+longing: 2
+longsleeve: 2 long sleeve
+longue: 1 lounge
+longview: 1
+looiersdwars: 1
+look: 341
+looker: 11
+lookign: 4 looking
+lookin: 2 looking
+looking: 84
+lookkng: 1 looking
+lookng: 2 looking
+lookout: 9
+looks: 1
+loom: 1
+loon: 1
+loop: 14
+loops: 1
+lop: 2
+lope: 1
+lor: 1
+lorax: 1
+lord: 2
+lorikeet: 2
+lorna: 1
+lorry: 6
+los: 15
+loss: 1
+lost: 2
+lot: 5055
+lotion: 15
+lots: 19
+louis: 9
+loungchair: 1
+lounge: 174
+lounger: 5
+lounging: 4
+louver: 1
+love: 73
+lovebird: 1
+lover: 5
+loveseat: 22
+loving: 1
+low: 23
+lower: 2
+lowland: 2
+lox: 2
+ls: 2
+lsu: 3
+ltd: 2
+luau: 1
+lucerne: 1
+lucey: 1
+luchroom: 1 lunchroom
+lucia: 1
+luck: 4
+lucky: 11
+ludlow: 1
+lufthansa: 10
+lugagge: 1 luggage
+luge: 1
+luggae: 2 luggage
+luggaes: 1 luggage
+luggage: 2475
+luging: 1
+luke: 3
+luldlow: 1
+lumber: 12
+lumberjack: 1
+lumia: 1
+lump: 2
+luna: 1
+lunch: 414
+lunchbox: 13
+luncheon: 9
+lunchroom: 1
+lunchtime: 2
+lung: 1
+lunge: 4
+lungin: 1 lounging
+lunging: 1
+lupine: 1
+lure: 1
+lush: 1
+lust: 3
+luther: 1
+luxury: 30
+lvery: 1 
+lving: 3 living
+lye: 1
+lyin: 2 lying
+lying: 16
+lynns: 1
+lynx: 1
+m: 52
+m&m: 2
+m&ms: 1
+m110: 1
+ma: 15
+mab: 2
+mabuhay: 1
+mac: 56
+macaron: 1
+macaroni: 85
+macaroon: 3
+macau: 1
+macaw: 3
+macbook: 32
+maccoroni: 1 macaroni
+mache: 7
+machet: 1 machete
+machete: 2
+machine: 434
+machinery: 33
+machines: 2
+maching: 1 machine
+macintosh: 3
+mack: 4
+macy: 1
+madagascar: 1
+madam: 2
+made: 2
+madison: 7
+madonna: 1
+madr: 1
+madrid: 3
+mae: 1
+magaretia: 1 margarita
+magazine: 164
+magazines: 1
+magenta: 2
+magic: 1
+magnet: 178
+magnificent: 1
+magnifier: 1
+magnifiying: 1
+magnifying: 10
+magpie: 2
+mahout: 3
+maid: 9
+maiden: 1
+mail: 49
+mailbox: 24
+mailing: 2
+mailslot: 1
+main: 24
+maine: 2
+mainliner: 1
+maintainence: 1 maintenance
+maintenance: 26
+mais: 1
+maison: 1
+maize: 1
+major: 9
+majority: 3
+make: 31
+maker: 73
+makeshift: 21
+maket: 2
+makeup: 56
+making: 13
+makng: 1 making
+makshift: 1 makeshift
+malaysia: 6
+malcolm: 1
+male: 1078
+malfunction: 1
+mall: 119
+mallard: 6
+mallet: 4
+malnutrition: 1
+mam: 1
+mama: 42
+mamma: 10 mammal
+mammal: 3
+man: 59054
+management: 2
+manager: 6
+manatee: 3
+manb: 1 man
+manchester: 4
+mand: 3 man
+mandarin: 8
+mandarins: 1 mandarin
+mandeville: 1
+mandolin: 2
+mane: 26
+manequin: 3 mannequin
+manequinn: 1 mannequin
+maneuver: 32
+maneuvering: 1
+manger: 8
+mango: 30
+mangoes: 1
+mangos: 2 mango
+mangrove: 1
+manhattan: 5
+manhole: 2
+manican: 1 mannequin
+manicure: 5
+manikin: 7
+manin: 1
+maniquin: 1 mannequin
+manmade: 7
+mann: 2
+mannekin: 1 mannequin
+mannequin: 67
+manner: 16
+manning: 3
+manor: 1
+mans: 4
+mansion: 11
+manta: 1
+mantal: 1 mantle
+mantel: 22 mantle
+mantelpiece: 1 
+mantle: 49
+mantlepiece: 2 mantelpiece
+manual: 20
+manuel: 1 manual
+manuever: 2 maneuver
+manueverin: 1 maneuver in
+manufacture: 1
+manufacturer: 5
+manufacturing: 4
+manuscript: 1
+manuvering: 1 maneuvering
+many: 2
+mao: 2
+map: 60
+maple: 24
+mar: 1
+marabou: 1
+marathon: 5
+marbe: 1 marble
+marbel: 1 marble
+marble: 171
+marc: 2
+march: 11
+marching: 6
+marco: 2
+mardi: 3
+mare: 12
+margarita: 5
+margharita: 1 margarita
+margherita: 6 margarita
+marijuana: 8
+marilyn: 2
+marina: 154
+marinara: 10
+marine: 15
+mariner: 3
+mariners: 5
+mario: 9
+marionette: 2
+mark: 35
+marker: 83
+market: 982
+marketeer: 1
+marketer: 1
+marketing: 1
+marketplace: 39
+marking: 33
+markit: 1 market
+marks: 1
+marky: 1
+marlboro: 2
+marley: 1
+marlins: 2
+marmalade: 6
+marnia: 1
+maroon: 39
+marquee: 10
+marques: 1
+marriage: 5
+married: 1
+marriot: 1
+marron: 1 maroon
+marroon: 1 maroon
+marsalavej: 1
+marsh: 17
+marshal: 1
+marshall: 1
+marshland: 1
+marshmallow: 28
+marshmallows: 1
+marshmellow: 1 marshmallow
+marshmillow: 1 marshmallow
+marta: 3
+martin: 2
+martini: 8
+martinis: 1
+marx: 1
+mary: 8
+marys: 1
+mas: 1
+masai: 2
+masair: 2
+mascot: 40
+masendogade: 1
+mash: 6
+mashine: 1 machine
+mask: 179
+maske: 1 mask
+masking: 1
+masnedogade: 3
+mason: 24
+masonic: 2
+masonry: 2
+masque: 1
+masquerade: 2
+mass: 32
+massachusetts: 2 massachusetts
+massage: 2
+mast: 9
+master: 30
+mastercard: 1
+masterpiece: 2
+mat: 168
+matador: 2
+match: 614
+matching: 42
+matchstick: 1
+mate: 15
+mater: 2
+material: 123
+math: 1
+mathieu: 1
+matiera: 1
+matilda: 1
+mating: 5
+matree: 1
+matress: 6 mattress
+matt: 5
+matte: 3
+matter: 8
+matteress: 1 mattress
+matterhorn: 1
+matting: 1
+mattress: 149
+mature: 2
+mauve: 5
+max: 1
+maximus: 1
+maxwell: 4
+may: 1
+may16: 1
+maybe: 1
+maybelline: 2
+mayo: 14
+mayonaise: 3 mayonnaise
+mayonnaise: 16
+mayor: 2
+mayors: 3
+mazda: 2
+maze: 6
+mc: 1
+mcalister: 1
+mcandrew: 1
+mccaw: 2
+mcclellan: 1
+mcdonald: 24
+mcdonalds: 10
+mcdonnal: 1
+mcgill: 1
+mcintosh: 3
+mckee: 1
+mclean: 1
+mcmuffin: 1
+me: 3
+mea: 1
+meadow: 187
+meadowland: 1
+meadows: 1
+meal: 1274
+mean: 29
+meander: 1
+meaning: 2
+means: 1
+meant: 1
+meantime: 1
+measure: 9
+measurement: 6
+measuring: 18
+meat: 1769
+meatball: 49
+meatloaf: 13
+mechanic: 9
+mechanism: 5
+mechine: 1 machine
+medal: 26
+medallion: 4
+media: 1
+median: 21
+medic: 2
+medical: 2
+medication: 1
+medicine: 43
+meditate: 2
+meditation: 3
+mediterranean: 2
+medium: 30
+medley: 8
+medow: 1 meadow
+medway: 1
+meen: 1
+meerkat: 2 
+meet: 13
+meeter: 2
+meeting: 102
+megabus: 1
+megaphone: 2
+mein: 10
+mel: 2
+melbourne: 4
+mellon: 1 
+mellow: 3
+melody: 1
+melon: 43
+melrose: 1
+melting: 4
+member: 76
+members: 1
+membrane: 1
+meme: 3
+memento: 5
+memo: 4
+memorabilia: 17
+memorial: 15
+memorializ: 1 memorial
+memory: 8
+men: 195
+men';s: 1 men's
+menage: 1
+mend: 1
+mens: 2
+menu: 81
+meny: 1 many
+meow: 3
+meowing: 1
+mercede: 1 mercedes
+mercedes: 17
+merchandise: 13
+merchant: 12
+merdia: 1 
+merida: 2
+meringue: 2
+merky: 1
+merle: 1
+merley: 1
+mermaid: 2
+merry: 15
+merton: 1
+mesa: 1
+mesh: 40
+meshing: 1
+mesmorized: 1 memorized
+mess: 57
+message: 118
+messaging: 1
+messe: 1
+messed: 1
+messenger: 6
+messezentrum: 1
+messiah: 1
+messily: 2
+messing: 1
+messy: 14
+met: 2
+metal: 1614
+metallic: 10
+meter: 1265
+metet: 1
+method: 1
+metro: 79
+metroliner: 1
+metropolis: 3
+mets: 4
+metter: 3
+mewn: 1
+mews: 1
+mexicana: 1 mexican
+mexicans: 1 mexican
+mexico: 8
+miami: 2
+mibs: 1
+mic: 7
+michael: 4
+michelin: 1
+michigan: 7
+michrowave: 1 microwave
+mickey: 21
+micro: 1
+microphone: 225
+microscope: 4
+microsoft: 6
+microwav: 1 microwave
+microwave: 1318
+microwve: 1 microwave
+mid: 2
+midair: 69
+middair: 1 midair
+midday: 5
+midde: 1 middle
+middel: 1 middle
+middle: 2777
+midfield: 1
+midget: 1
+midground: 1
+midi: 2
+midnight: 3
+midriff: 1
+midsection: 2
+midst: 56
+midsummer: 1
+midtown: 2
+midway: 1
+midwife: 1
+mien: 3
+might: 1
+mii: 1
+mike: 5
+mildew: 1
+mile: 11
+mileage: 1
+miles: 1
+military: 27
+milk: 252
+milking: 1
+milkshake: 13
+mill: 45
+millbrae: 2
+millennium: 2
+miller: 3
+milling: 6
+milly: 2
+mime: 5
+mimic: 1
+mimosa: 1
+min: 3
+minature: 2 miniature
+mind: 4
+mine: 2
+minestrone: 1
+mingling: 1
+mini: 72
+miniature: 53
+minibike: 1
+minibus: 1
+minicar: 1
+minifig: 1
+minion: 4
+miniskirt: 3
+minister: 1
+miniture: 3 miniature
+minivan: 15
+mink: 2
+minneapolis: 1
+minnesota: 5
+minnie: 6
+minor: 1
+minster: 1
+mint: 21
+minty: 2
+minute: 31
+miotorcycle: 1 motorcycle
+mirage: 1
+mirange: 1
+miroor: 1 mirror
+miror: 1 mirror
+mirorror: 1 mirror
+mirri: 1
+mirrior: 2 mirror
+mirrir: 2 mirror
+mirroe: 1 mirror
+mirror: 3783
+mirrorl: 1 mirror
+mirrors: 2
+mirros: 1 mirror
+mirrow: 2 mirror
+mirrpr: 1 mirror
+mis: 1
+misc: 2
+miscellany: 1
+miss: 6
+missile: 6
+missing: 4
+mission: 2
+mississippi: 3
+missle: 2
+mist: 13
+mister: 2
+mistletoe: 1
+misty: 1
+misuse: 1
+mit: 13
+mitchell: 1
+mitt: 275
+mitten: 13
+mittin: 1 mitten
+mitton: 2 mitten
+mitts: 4
+mix: 44
+mixer: 62
+mixing: 5
+mixture: 81
+mlb: 9
+mlk: 1
+mm: 14
+mmember: 1
+mmm: 8
+mmmm: 1
+mmmmmm: 1
+mn: 1
+mna: 4
+mo: 2
+moan: 1
+moat: 2
+mob: 2
+mobile: 25
+mobster: 1
+mocha: 2
+mochi: 1
+mock: 2
+mockup: 1
+mode: 7
+model: 330
+modeling: 2
+modello: 1
+modelo: 1
+models: 1
+modem: 7
+moden: 1
+moderator: 3
+modern: 9
+modernity: 1
+module: 3
+mogul: 4
+moguls: 1
+mohair: 1
+mohawk: 14
+mohawks: 1 mohawk
+mohonk: 1 mohawk
+moire: 1
+moisture: 1
+moka: 1
+mold: 6
+molding: 3
+mom: 98
+moment: 36
+momma: 10
+mommy: 6
+monaco: 1
+monarch: 2
+monastery: 2
+monday: 2
+monde: 1
+money: 81
+monie: 1
+moniker: 2
+monition: 1
+monitor: 1433
+monitoring: 2
+monk: 34
+monkee: 1 monkey
+monkey: 144
+monkeys: 2
+mono: 1
+monochrome: 7
+monogrammed: 2
+monona: 1
+monoplane: 1
+monopoly: 7
+monorail: 11
+monroe: 2
+monster: 46
+monstrosity: 5
+montage: 15
+montague: 1
+montana: 1
+monte: 4
+montezuma: 2
+montgomery: 3
+month: 3
+montior: 2 monitor
+montrose: 4
+montview: 1
+monument: 119
+moobs: 1
+mood: 1
+mooing: 1
+moon: 33
+moonlight: 3
+moorage: 1
+mooring: 8
+moorish: 1
+moose: 4
+moouth: 1
+mop: 12
+mopad: 1
+moped: 97
+mopped: 1
+morgan: 1
+mormons: 1
+morning: 44
+moron: 1
+morror: 1 mirror
+morsel: 3
+mortar: 5
+mortorcycle: 1 motorcycle
+mortorcyclist: 1 motorcyclist
+mosaic: 14
+mosiac: 1 mosaic
+mosqito: 1 mosquito
+mosque: 2
+mosquito: 9
+moss: 27
+mossy: 13
+mostly: 2
+mot: 1
+mote: 85
+motel: 83
+motem: 1
+moterbike: 1 motorbike
+motercycle: 5 motorcycle
+moth: 3
+mother: 560
+motif: 19
+motion: 227
+motionless: 1
+motircycle: 2 motorcycle
+motive: 1
+moto: 4
+motocycle: 5 motorcycle
+motocylce: 1 motorcycle
+motocyle: 1 motorcycle
+moton: 1 motor
+motor: 802
+motorbike: 199
+motorboat: 31
+motorcade: 4
+motorcar: 1
+motorcoach: 1
+motorcross: 1
+motorcyce: 2 motorcycle
+motorcycle: 6704
+motorcycler: 3 motorcycle
+motorcycles: 6
+motorcyclist: 249
+motorcyclists: 1
+motorcylce: 8 motorcycle
+motorcyle: 19 motorcycle
+motorcyler: 1 motorcycler
+motorcysle: 1 motorcycle
+motorhome: 5
+motoring: 1
+motorist: 22
+motorized: 1
+motorocycle: 2 motorcycle
+motorola: 13
+motors: 2
+motorscooter: 1
+motorsports: 1
+mototcyclist: 1 motorcyclist
+motto: 1
+mouh: 1
+mound: 277
+mounds: 2
+mount: 15
+mountai: 1 mountain
+mountain: 3196
+mountain.is: 1
+mountainlake: 1
+mountains: 2
+mountainside: 56
+mountaint: 1 mountain
+mountaintop: 10
+mounted: 1
+mounth: 1 mouth
+mountian: 1 mountain
+mountie: 1 mountain
+mountin: 1 mountain
+mouse: 1221
+mouseless: 1
+mousepad: 12
+mousse: 2
+moustache: 4 mustache
+moutain: 6 mountain
+mouth: 1481
+mouthe: 1 mouth
+mouthful: 4
+mouthwash: 9
+movable: 3
+move: 99
+moved: 1
+movement: 13
+mover: 7
+movie: 107
+moving: 11
+movingand: 1 moving and
+mow: 1
+mower: 9
+mozilla: 1
+mozzarella: 36
+mp: 1
+mp3: 28
+mph: 6
+mr: 1
+mr.: 2
+mrs.: 1
+ms: 1
+ms.: 1
+msall: 1
+mt: 3
+mtr: 1
+mturk: 1
+mu: 1
+muck: 1
+mud: 143
+muddle: 1
+muddy: 5
+mue: 1
+mueller: 1
+mueseum: 1 museum
+muf: 1
+muff: 3
+muffaletta: 2
+muffin: 171
+muffing: 1
+mufti: 1
+mug: 337
+muggy: 2
+mugshot: 1
+muke: 1
+mulberry: 1
+mulch: 11
+mule: 20
+muli: 2
+muliken: 1
+muliti: 1
+mull: 1
+mullet: 1
+mulliken: 1
+mulltiple: 1 multiple
+multe: 1
+multi: 220
+multicolor: 6
+multimeter: 1
+multiple: 14
+multipurpose: 1
+multistory: 2
+multitasking: 1
+multitool: 1
+multitude: 20
+multple: 1 multiple
+mum: 2
+mumbai: 2
+munch: 1
+munchie: 3
+munchin: 1
+munching: 3
+mundoora: 1
+muni: 1
+municipality: 1
+muntain: 1 mountain
+muppet: 1
+mural: 77
+muscle: 16
+musee: 1
+museen: 1
+museum: 252
+mush: 1
+mushroom: 324
+music: 103
+musically: 1
+musician: 17
+musicians: 1
+musium: 1 museum
+mussel: 4
+must: 1
+mustache: 49
+mustand: 1 mustang
+mustang: 5
+mustard: 267
+mustash: 1 mustache
+muti: 1 multi
+mutli: 1 multi
+mutt: 1
+mutton: 2
+muziek: 1
+muzzle: 14
+myanmar: 1
+myriad: 1
+myspace: 6
+myst: 1
+mystery: 4
+mythology: 1
+n: 21
+n.: 2
+n.c.r.r.: 1
+n3638: 1
+naan: 3
+nab: 1
+nac: 1
+nachos: 6
+nack: 3 neck
+nad: 4 and
+nagin: 1
+nail: 41
+nam: 2
+nambia: 1
+name: 282
+nametag: 2
+namibia: 1
+nanchuk: 1
+nand: 1 and
+nap: 108
+napkin: 229
+napping: 2
+narrow: 1
+nasa: 9
+nashville: 1
+nasty: 1
+natalie: 1
+natas: 1
+nathan: 6
+nathans: 2
+nation: 4
+national: 14
+nationality: 2
+nationals: 2
+nations: 1
+native: 2
+nativity: 6
+natural: 3
+nature: 31
+nave: 1
+navel: 8
+navigation: 4
+navy: 74
+naye: 1
+nazi: 2
+nazis: 1 nazi
+nbc: 1
+nclosure: 1
+nd: 1
+ne: 3
+neaby: 1 nearby
+neapolitan: 1
+near: 43
+nearby: 4
+nearing: 1
+neat: 5
+neath: 17
+necessity: 9
+neck: 679
+necked: 1
+neckerchief: 1
+necking: 1
+necklace: 40
+necktie: 79
+nectar: 6
+nectarine: 8
+need: 35
+needing: 1
+needle: 60
+needlepoint: 1
+needless: 1
+needs: 2
+nefyn: 1
+negative: 4
+negra: 1
+neighboorhood: 1 neighborhood 
+neighbor: 5
+neighborhood: 147
+neighboring: 4
+neighbourhood: 2 neighborhood
+neighing: 1
+neil: 1
+neld: 1
+nemo: 3
+neon: 123
+nepal: 1
+ner: 1
+nerd: 7
+nerf: 6
+neri: 1
+ness: 1
+nest: 65
+nesting: 1
+nestle: 1
+net: 344
+netbook: 9
+netflix: 1
+netting: 7
+network: 6
+networking: 1
+neumark: 1
+neutral: 2
+new: 70
+newark: 1
+newborn: 1
+newbury: 2
+newcastle: 1
+newer: 1
+newlywed: 1
+newpaper: 1 newspaper
+news: 68
+newscast: 3
+newscaster: 1
+newspaper: 200
+newspapers: 3
+newsprint: 2
+newstand: 1
+newswoman: 2
+newton: 2
+nexst: 1
+next: 28
+nfl: 2
+ng: 1
+niagara: 1
+nibble: 8
+nibbling: 2
+nice: 9
+nicely: 3
+niche: 5
+nicholas: 1
+nick: 11
+nicknack: 1
+nicley: 1
+nicnac: 1
+nicnacs: 1
+niece: 1
+nighlight: 1 nightlight
+nighstand: 1 nightstand
+night: 1709
+nightclub: 2
+nightfall: 1
+nightlife: 2
+nightlight: 1
+nightmares: 1
+nights: 1
+nightscape: 1
+nightshirt: 1
+nightstand: 107
+nighttime: 29
+nike: 12
+niki: 1
+nikola: 1
+nile: 1
+nill: 1
+nineteen: 1
+ninja: 1
+nintendo: 743
+ninteno: 1 nintendo
+nintindo: 1 nintendo
+nip: 1
+nipple: 4
+nippon: 1
+nissan: 1
+nite: 1
+nitendo: 1 nintendo
+nivea: 1
+nman: 1
+nn: 1
+no: 19
+noah: 3
+nobody: 6
+nod: 1
+noddle: 2
+nodle: 1 noodle
+noir: 3
+noise: 3
+nokia: 27
+nomad: 1
+non: 8
+none: 4
+nonpareil: 2
+nonpariel: 1 nonpareil
+nonsense: 1
+noodle: 331
+nook: 27
+noon: 9
+nordic: 1
+norge: 1
+nori: 1
+norm: 1
+norman: 2
+north: 23
+northpark: 1
+northwest: 1
+nose: 331
+nosey: 1
+nostril: 1
+notation: 1
+note: 157
+notebook: 116
+notebooks: 1
+notepad: 19
+notes: 1
+nothing: 55
+notice: 8
+notification: 1
+nourish: 1
+nourishment: 7
+nouveau: 1
+novel: 16
+novelty: 13
+november: 1
+novice: 1
+now: 1
+nozzel: 1
+nozzle: 9
+nthe: 1
+nub: 1
+nude: 1
+nugget: 4
+nui: 1
+nuisance: 1
+number: 1430
+numberpad: 1 numpad
+numeral: 49
+numerals: 2
+numjuck: 2 nunchuck
+nun: 11
+nunchuck: 15
+nunchucks: 1 nunchuck
+nunchuk: 1 nunchuck
+nunchuks: 1 nunchuck
+nurse: 35
+nursery: 15
+nursing: 34
+nursury: 1 nursery
+nut: 138
+nutcracker: 3
+nutella: 10
+nutribullet: 2
+nutrition: 1
+nuts: 2
+nuzzle: 4
+nuzzling: 3
+nw: 7
+ny: 3
+nyc: 4
+nylon: 2
+nypd: 2
+o: 19
+o'clock: 18
+o'connor: 2
+oak: 43
+oakland: 9
+oar: 32
+oasis: 4
+oat: 3
+oath: 1
+oatmeal: 24
+oats: 10
+obama: 49
+obelisk: 10
+oberon: 2
+objazd: 1
+object: 555
+objective: 1
+oblong: 7
+observation: 10
+observatory: 1
+observer: 8
+observing: 1
+obstacle: 145
+obstruction: 1
+ocan: 1 ocean
+occasion: 18
+occupancy: 1
+occupant: 6
+occupy: 1
+ocean: 3726
+oceanside: 1
+oceanview: 1
+ocena: 1 ocean
+oclock: 1
+ocmputer: 1 computer
+octagon: 4
+octave: 1
+october: 1
+octopi: 2 octopus
+octopus: 39
+od: 1
+odd: 12
+oddity: 1
+odor: 1
+oerch: 1
+oerson: 1 person
+of: 1
+ofa: 10 of a
+ofblack: 1 of black
+off: 23
+offds: 1
+offender: 1
+offer: 4
+offering: 4
+office: 1006
+officer: 528
+officers: 1
+official: 32
+offramp: 1
+offroad: 2 
+offspring: 18
+ofthe: 1 of the
+ofunique: 1 of unique
+og: 1
+oher: 2
+ohone: 2
+oif: 1
+oil: 75
+oilers: 1
+oin: 3
+oinion: 1 onion
+ointment: 4
+oit: 1
+oj: 5
+ok: 1
+okapi: 2
+okra: 1
+olane: 1
+olate: 1
+old: 93
+olde: 1
+ole: 1
+olive: 221
+olives: 1
+ollie: 11 olive
+olvie: 1 olive
+olympian: 1
+olympians: 1 olympian
+olympic: 9
+olympics: 12 olympic
+oman: 3
+omelet: 29
+omelette: 11 omelet
+omlet: 1 omelet
+ommelette: 1 omelet
+on: 376
+ona: 3 on a
+onanism: 1
+onboard: 1 
+onclave: 1
+oncoming: 33
+one: 548
+ones: 2
+onesie: 4
+onine: 1 onion
+onion: 622
+onion.s: 1 onion
+onit: 3 on it
+onlooker: 167
+onm: 1
+onoin: 1 onion
+onramp: 2 on ramp
+onsie: 1 
+ont: 3
+ontario: 1
+onthe: 1 on the
+ontop: 7 on top
+onward: 10
+oo: 1
+ookign: 1 looking
+ooking: 1 looking
+oom: 3
+oone: 2 one
+ooze: 2
+op: 5
+ope: 1
+open: 65
+open-: 1
+opener: 10
+openfield: 2 open field
+opening: 66
+opera: 3
+operating: 10
+operation: 5
+operator: 6
+opinion: 1
+ople: 1
+opp: 1
+oppenent: 2 opponent
+opponent: 99
+opponet: 1 opponent
+opportunity: 5
+opposie: 1 opposite
+opposing: 1
+opposite: 4
+opt: 1
+optician: 1
+option: 17
+optus: 1
+or: 9
+oracle: 2
+orad: 2
+oragami: 1 origami
+orage: 1 orange
+oragen: 1 orange
+oral: 1
+oralb: 1
+oranfe: 1 orange
+orange: 2353
+orangee: 1 orange
+oranges: 4
+orb: 1
+orbit: 2
+orca: 1
+orchard: 26
+orchestra: 4
+orchid: 23
+order: 99
+ordeurf: 1
+ordinance: 1
+ore: 2
+orecchiette: 1
+oregano: 2
+oregon: 4
+oreo: 5
+organ: 18
+organic: 1
+organisation: 1 organization
+organization: 10
+organizer: 5
+orgy: 1
+orient: 1
+oriental: 4
+origami: 10
+origin: 3
+original: 1
+oriole: 4
+orioles: 14
+orleans: 2
+ornament: 72
+ornamental: 1
+orocess: 1 process
+orpahanage: 1 orphanage
+orphanage: 6
+orpheum: 1
+orphus: 1
+orschatra: 1 orchestra
+ortiz: 1
+oryx: 1
+os: 4
+oscar: 1
+osprey: 1
+oster: 1
+osterizer: 2
+ostrich: 103
+ot: 1
+otc: 1
+othe: 1 other
+other: 739
+othman: 5
+otp: 1
+ottawa: 2
+otten: 1
+otter: 1
+ottoman: 75
+ouch: 2
+ouf: 1
+oup: 1
+ouple: 1
+ouse: 1
+ouside: 1 outside
+oustside: 1 outside
+out: 48
+outback: 2
+outbuilding: 2
+outcrop: 6
+outcropping: 10
+outdooor: 1 outdoor
+outdoor: 200
+outdoors: 51
+outdoorsman: 1
+outerwear: 3
+outfield: 59
+outfielder: 8
+outfight: 1
+outfit: 392
+outfits: 1
+outflung: 1
+outh: 1
+outhose: 1 outhouse
+outhouse: 24
+outing: 2
+outlet: 24
+outline: 6
+outlook: 2
+outpost: 2
+output: 3
+outrigger: 1
+outs: 1
+outsid: 1 outside
+outside: 283
+outskirt: 15
+outstretched: 1
+outward: 5
+oval: 16
+oven: 1895
+ovens: 1
+over: 29
+overall: 23
+overalls: 1
+overcoat: 9
+overdone: 1
+overflowing: 2
+overfull: 1
+overgrown: 2
+overgrowth: 4
+overhand: 7
+overhang: 12
+overhead: 72
+overhear: 1
+overkill: 1
+overlook: 9
+overlooking: 3
+overpass: 95
+overripe: 8
+overside: 1 oversize
+oversize: 2
+oversized: 1 oversize
+overstock: 1
+overtop: 5
+overview: 21
+overweight: 1
+ovlif: 1
+owes: 1
+owl: 134
+owls: 1
+owman: 1
+owner: 190
+owners: 1
+ox: 31
+oxan: 1
+oxen: 36
+oxford: 1
+oxygen: 4
+oyster: 5
+p: 9
+p-51: 1
+p.m.: 1
+p.o.v.: 2
+p;enty: 1
+pa: 1
+pac: 4
+pace: 18
+pacers: 1
+pachyderm: 1
+pacific: 12
+pacifier: 9
+pack: 206
+package: 139
+packaging: 25
+packed: 2
+packer: 1
+packet: 27
+packing: 11
+pacman: 4
+pact: 1
+pad: 177
+padacre: 1
+padding: 5
+paddington: 4
+paddle: 211
+paddleboard: 3
+paddleboarder: 1
+paddleboat: 1
+paddler: 3
+paddlewheel: 1
+paddling: 11
+paddock: 27
+paddockhurst: 1
+paddy: 1
+padlock: 1
+padres: 1
+padstow: 1
+page: 69
+pageant: 2
+pager: 3
+pagoda: 6
+pagodas: 1
+paid: 1
+pail: 16
+pain: 6
+paine: 2 paint
+paint: 229
+paintbrush: 8
+painter: 8
+paintigs: 1 painting
+painting: 509
+painting/: 1 painting
+paintshop: 1 
+pair: 2275
+pairing: 1
+paisley: 1
+paiting: 2 painting
+pajama: 40
+pajamas: 18
+pakastan: 1
+pakistan: 5
+pakrd: 1
+pal: 1
+palace: 28
+palapa: 1
+palate: 1
+palce: 1 palace
+pale: 9
+palet: 1 palette
+palette: 4
+pall: 1
+pallet: 26
+pallette: 1 palette
+palm: 328
+palmer: 1
+palmolive: 1
+palne: 1
+palnes: 1
+palte: 4
+palyer: 2
+palying: 1
+pamphlet: 11
+pamphlets: 1 pamphlet
+pamplet: 1 pamphlet
+pan: 1221
+panache: 1
+panamerican: 1
+panarama: 1 panorama
+pancacke: 1 pancake
+pancake: 185
+pancakes: 2
+panchetta: 1
+panda: 99
+pandas: 2
+pane: 32
+panel: 84
+paneling: 33
+panelling: 1
+panera: 1
+panini: 7
+paninis: 1
+panneld: 1
+panorama: 16
+pans: 2
+pansies: 1
+pansy: 4
+pant: 364
+panther: 1
+pantie: 10
+panting: 2
+pantry: 31
+pants: 2
+pantyhose: 1
+papa: 2
+papaer: 1
+papasan: 1
+papaya: 3
+paper: 2076
+paperback: 14
+papermache: 1
+paperweight: 2
+paperwork: 45
+papier: 1
+papper: 1 
+paprika: 1
+papular: 1
+par: 3
+para: 79
+parachite: 1 parachute
+parachute: 115
+parachuter: 3
+parachuting: 1
+parachutist: 1
+parade: 274
+paradee: 1
+paradfe: 1
+paradise: 2
+paraglide: 2
+paraglider: 5
+paragliding: 2
+parakeet: 14
+paraket: 1
+parallel: 17
+paramedic: 1
+paraolympic: 1
+paraphanalia: 1 paraphernalia
+paraphernalia: 9
+parasail: 32
+parasailer: 24
+parasailing: 8
+parasailor: 5
+parasale: 1 parasail
+parasial: 1 parasail
+paraskier: 1
+parasol: 79
+parasurfer: 3
+paratrooper: 1
+parcel: 5
+parchment: 13
+pare: 1
+paremsan: 1 parmesan
+parent: 81
+parenthesis: 1
+paribas: 1
+paris: 18
+parisol: 1 parasol
+park: 4825
+parka: 15
+parkay: 1
+parkbench: 2
+parkd: 1
+parkdale: 1
+parked: 11
+parker: 1
+parking: 3146
+parkinglot: 1
+parkl: 1
+parkland: 2
+parkng: 1
+parkour: 1
+parks: 2
+parkway: 4
+parl: 1
+parliament: 10
+parlor: 30
+parm: 1
+parmesan: 12
+parody: 1
+parotts: 1
+parralel: 1 parallel
+parrot: 183
+parrott: 1
+parsley: 20
+parsnip: 2
+part: 379
+partaking: 1
+parter: 1
+parti: 1 party
+participant: 7
+participate: 1
+partier: 1
+partition: 24
+partly: 1
+partner: 16
+partridge: 1
+parts: 1
+party: 417
+partygoer: 1
+partying: 1
+pas: 1
+pasadena: 4
+pasenger: 3 passenger
+pass: 84
+passage: 8
+passageway: 5
+passanger: 15 passenger
+passby: 1
+passe: 1
+passegner: 1 passenger
+passenageer: 1 passenger
+passenger: 2251
+passer: 2
+passerby: 2
+passersby: 2
+passing: 63
+passinga: 1
+passion: 3
+passport: 10
+passsanger: 1 passenger
+passthrough: 1
+passway: 1
+past: 58
+pasta: 367
+paste: 43
+pastel: 8
+pasterie: 1 pastry
+pasteries: 1 pastry
+pasteris: 1 pastry
+pastery: 1 pastry
+pasteur: 2
+pastil: 1
+pastor: 9
+pastour: 1 pastor
+pastrami: 10
+pastry: 713
+pasturage: 1
+pasture: 675
+pasty: 7
+pat: 5
+patagonia: 1
+patch: 217
+patchwork: 12
+pate: 9
+patern: 1 pattern
+path: 811
+pathway: 93
+patient: 22
+patiently: 1
+pating: 1
+patio: 282
+patrick: 9
+patricks: 2
+patriotic: 1
+patrol: 29
+patrolman: 2
+patron: 44
+patrons: 1
+patten: 1
+patter: 2
+patterend: 1 patterned
+pattern: 129
+patterned: 1
+pattie: 1
+patty: 32
+paul: 4
+pause: 12
+pave: 1
+paved: 1
+pavement: 294
+paver: 5
+pavilion: 18 
+pavillion: 1 pavilion
+paw: 316
+pawn: 7
+pay: 31
+payer: 7
+payment: 3
+paymets: 1 payment
+paymnt: 1 payment
+payphone: 10
+pb: 1
+pbiole: 1
+pc: 37
+pckle: 1 pickle
+pcture: 1 picture
+pda: 6
+pde: 2
+pdx: 1
+pea: 63
+peace: 58
+peach: 73
+peacoat: 1
+peacock: 37
+peafowl: 1
+peak: 46
+peal: 8
+peanut: 121
+peanutbutter: 1
+pear: 100
+pearl: 13
+peas: 1
+peasant: 1
+peavy: 2
+pebble: 8
+pecan: 5
+peck: 5
+pecking: 6
+pedal: 18
+peddle: 3
+peddler: 3
+pedestal: 111
+pedestrian: 495
+pedestrians: 23
+pedi: 1
+pediatrician: 1
+pedicab: 1
+pedigree: 1
+pedistal: 2 pedestal
+pedistool: 1 pedestal
+pedley: 1
+pedo: 1
+pedro: 1
+pee: 5
+peed: 1
+peeing: 2
+peek: 17
+peeks: 1
+peel: 112
+peeler: 3
+peelier: 1
+peeling: 10
+peene: 1
+peep: 5
+peepee: 3
+peephole: 3
+peer: 64
+peering: 1
+peg: 5
+pegboard: 2
+pei: 1
+peice: 4 piece
+peices: 1 piece
+peleton: 1
+pelican: 42
+pelicans: 2
+pellet: 2
+pen: 791
+penalty: 5
+pench: 1
+pencil: 80
+pendant: 5
+pendleton: 1
+pendulum: 9
+pengin: 1 penguin
+penguin: 81
+penguins: 1
+peninsula: 1
+penis: 1
+penn: 11
+pennant: 1
+penne: 2
+penney: 1
+penns: 1
+pennsylvania: 5
+penny: 24
+pens: 5
+penske: 1
+pensky: 1 penske
+pentagon: 1
+penwith: 1
+penyata: 1
+peole: 2 people
+peolpe: 1 people
+peony: 1
+peoole: 1 people
+peoople: 1 people
+peope: 5 people
+peopel: 8 people
+peopelw: 1 people
+peopl: 4 people
+peoplare: 1 people are
+people: 29687
+peopleare: 1 people are
+peopler: 1 people
+peopme: 1 people
+peopornie: 1 pepperoni
+pep: 1
+peperoni: 7 pepperoni
+peple: 4 people
+pepleplaying: 1 people playing
+pepole: 2 people
+peporoina: 1 pepperoni
+pepper: 424
+peppermill: 1
+pepperon: 1 pepperoni
+pepperoncini: 1 pepperoni
+pepperoni: 356
+pepperonis: 12 pepperoni
+peppers: 4
+pepporoni: 1 pepperoni
+pepsi: 27
+per: 2
+percentage: 1
+perch: 78
+perched: 1
+perching: 2
+perform: 6
+performance: 24
+performer: 17
+performing: 2
+perfume: 3
+pergola: 3
+perimeter: 11
+period: 11
+peripheral: 10
+perk: 1
+permit: 1
+permits: 1
+peron: 2
+peroni: 1
+perosn: 2
+perparation: 1 preparation
+perpetrator: 1
+persia: 2
+persimmon: 1
+perso: 2
+person: 17717
+persona: 4
+personable: 1
+personal: 5
+personelle: 1 personnel
+persong: 1 person
+personis: 1 person is
+personnel: 33
+persons: 2
+perspective: 25
+peru: 1
+peruma: 1
+peson: 8 person
+pesticide: 1
+pestle: 2
+pesto: 17
+pet: 90
+petal: 24
+peter: 6
+peterbuilt: 1 peterbilt
+petersburg: 4
+petit: 1
+petits: 1
+petrol: 2
+petroleum: 1
+pets: 2
+petting: 2
+petunia: 3
+pew: 8
+pews: 11
+pewter: 1
+pf: 1
+pg: 1
+ph: 1
+pharmacy: 3
+pharos: 1
+phase: 7
+phat: 1
+pheasant: 4
+philadelphia: 5
+philharmonie: 1
+philippenes: 1 philippine
+philippines: 3 philippine
+philips: 1
+philipsburg: 1
+phillie: 2
+phillies: 4
+phillips: 3
+philly: 2
+phione: 1 phone
+phito: 1
+phne: 1 phone
+pho: 1 
+phoen: 2 phone
+phon: 1 phone
+phone: 6367
+phonebooth: 1
+phones: 5
+phonograph: 1
+phonton: 1
+photgraph: 1 photograph
+photo: 4313
+photoed: 2
+photoframe: 1
+photograph: 1226
+photographer: 99
+photographic: 1
+photography: 21
+photon: 1
+photos: 1
+photoshoot: 2
+photoshop: 8
+photoshopped: 2
+photot: 1 photo
+phrase: 9
+phto: 1 photo
+phtoto: 1 photo
+phune: 1 phone
+physics: 1
+pia: 1
+piano: 156
+piazza: 1
+pic: 45
+picachu: 1 pikachu
+piccadilly: 1
+pice: 2
+pick: 67
+pickel: 5
+picker: 11
+picket: 17
+pickle: 301
+pickup: 241
+picnic: 352
+pico: 1
+pictogram: 1
+pictue: 1
+picture: 7060
+pictures: 8
+pictyre: 1 picture
+picure: 1 picture
+picute: 1 picture
+picutre: 3 picture
+pidgeon: 3 pigeon
+pie: 457
+piece: 3356
+pieces: 4
+pier: 330
+pierce: 1
+piercing: 3
+pies: 1
+pig: 62
+pigeon: 194
+pigeons: 2
+piggie: 1
+piggy: 7
+piggyback: 1
+piglet: 2
+pigs: 2
+pigtail: 6
+piicture: 1 picture
+pikachu: 4
+pike: 7
+pikes: 1
+pil: 1
+pilaf: 4
+pile: 1329
+pileed: 1
+piles: 1
+pill: 16
+pillar: 107
+pillbox: 1
+pilled: 1
+piller: 1 pillow
+pillor: 2 pillow
+pillow: 1024
+pillowcase: 5
+pillows: 1
+pilot: 75
+pimp: 3
+pin: 116
+pina: 1
+pinata: 3
+pinatta: 1
+pinball: 1
+pincer: 1
+pincushion: 1
+pine: 130
+pineapple: 88
+pinehurst: 2
+ping: 33
+pingpong: 2
+pinj: 1
+pink: 422
+pinking: 3
+pinky: 1
+pinnacle: 2
+pinnacles: 1
+pinny: 1
+pinot: 2
+pinoy: 1
+pinstripe: 6
+pint: 9
+pinto: 2
+pinup: 1
+pinwheel: 5
+pioneer: 1
+pip: 1
+pipe: 356
+pipeline: 7
+piper: 2
+pipes: 1
+piping: 5
+pirate: 32
+pirates: 3
+pis: 1
+pisa: 1
+pistachio: 1
+pistil: 1
+pistoia: 1 pistol
+pistol: 2
+piston: 1
+pisture: 1 picture
+pit: 60
+pita: 39
+pitbull: 5
+pitch: 736
+pitcher: 788
+pitching: 25
+pitta: 1
+pitts: 2
+pittsburgh: 2
+pixel: 2
+piza: 2 pizza
+pizz: 2 pizza
+pizza: 9530
+pizzaria: 1
+pizzas: 7
+pizzaz: 1 pizza
+pizzazz: 1 pizza
+pizzeria: 17
+pizzia: 1 pizza
+pizzza: 1 pizza
+pjoominjasafn: 1
+pjs: 1
+pkwy: 3
+pl: 1
+pla: 1
+placard: 4
+place: 727
+placed: 3
+placemat: 26
+placement: 2
+plack: 1
+plad: 1
+plae: 3
+plaerys: 1
+plaform: 1 platform
+plaid: 48
+plain: 229
+plaine: 1 plane
+plan: 79
+plane: 4218
+planed: 1
+planes: 1
+planet: 6
+planetary: 1
+plank: 41
+planket: 1 planet
+planks: 1
+planner: 4
+planning: 1
+plant: 1430
+plantain: 39
+plantan: 1 plant
+plantation: 1
+planter: 100
+planting: 2
+plantlife: 1
+plaque: 43
+plasm: 1
+plasma: 2
+plaster: 7
+plastic: 479
+plasy: 1
+plat: 29
+platanos: 1
+plate: 14909
+plate/: 1
+plateau: 3
+plateaus: 1
+plateform: 1
+plateful: 1
+plater: 9
+platet: 1
+platform: 883
+platform.in: 1
+plating: 2
+platoon: 1
+platter: 318
+play: 271
+play"sign: 1
+playa: 1
+playboy: 1
+playbus: 1
+playe: 1
+played: 2
+player: 8645
+players: 5
+playes: 1
+playfield: 1
+playground: 70
+playhouse: 1
+playin: 3
+playing: 860
+playinga: 1 playing a
+playinmg: 1
+playiong: 1 playing
+playmate: 1
+playng: 1 playing
+playroom: 9
+playrt: 1 player
+plays: 1
+playset: 2
+playson: 1
+playstation: 8
+playyard: 1
+plaza: 121
+plaze: 1
+pld: 1
+plder: 1
+plea: 2
+pleasant: 1
+pleasure: 8
+pleather: 1 leather
+pleiss: 1
+plenty: 62
+pleope: 1 people
+plethera: 1 plethora
+plethora: 19
+plexiglass: 2
+plican: 1 pelican
+plice: 1
+plier: 12
+plinth: 1
+pllate: 1 plate
+ploar: 1
+plot: 13
+plow: 33
+plubing: 1 plumbing
+plug: 20
+plugin: 1
+plum: 28
+plumage: 2
+plumb: 1
+plumber: 4
+plumbing: 10
+plume: 10
+plums: 1
+plunge: 3
+plunger: 24
+plus: 2
+plush: 6
+plushie: 1
+pluto: 2
+ply: 1
+plyer: 1
+plymouth: 2
+plymstock: 2
+plywood: 11
+pm: 11
+pncbank: 1
+pnk: 1
+po: 1
+poatoe: 1 potato
+pocket: 85
+pocketbook: 2
+pocketknife: 1
+pocketwatch: 1
+pod: 15
+podge: 1
+podium: 82
+poem: 7
+poeple: 4 people
+poetry: 3
+pof: 1
+poinsettia: 2
+point: 158
+pointed: 1
+pointer: 4
+pointing: 67
+pointy: 2
+poitty: 1 pointy
+poka: 1
+pokadot: 1 polkadot
+pokemon: 2
+poker: 2
+poket: 1 pocket
+pol: 1
+polar: 299
+polaroid: 11
+pole: 2810
+polel: 1
+poles: 1
+police: 890
+policeman: 140
+policewoman: 1
+policy: 1
+polish: 9
+politic: 2
+politican: 1 politician
+politician: 12
+polka: 92
+poll: 16
+pollen: 2
+pollution: 3
+polo: 55
+polocrosse: 1
+polor: 1
+polson: 1
+polyester: 1
+polymer: 2
+polynesian: 1
+pom: 12
+pomegranate: 20
+pomegranite: 1 pomegranate
+pomeranian: 8
+pompom: 2
+poncho: 1
+ponchos: 1
+pond: 375
+pone: 2
+pong: 28
+pontiac: 1
+pontoon: 10
+pony: 170
+ponytail: 11
+poo: 2
+poodle: 23
+poofy: 1
+pooh: 9
+pool: 498
+poole: 1
+poolside: 1
+poop: 8
+poopdeck: 1
+poors: 1
+pop: 28
+popcicle: 1 popsicle
+popcorn: 13
+pope: 1
+poplar: 1
+poppy: 1
+poprock: 1
+pops: 2
+popsicle: 12
+popularity: 1
+population: 1
+porcelain: 71
+porcelan: 1 porcelain
+porcelian: 1 porcelain
+porcelin: 1 porcelain
+porceline: 1 porcelain
+porch: 140
+porcupine: 4
+pork: 71
+porn: 2
+porpeller: 1 propeller
+porridge: 3
+porsche: 2
+port: 110
+porta: 3
+portable: 1
+portapotty: 1
+porter: 5
+porthole: 2
+portico: 1
+portillo: 2
+portion: 82
+portland: 3
+portrait: 104
+portugal: 2
+pose: 134
+posession: 1 possession
+posey: 1
+posing: 27
+position: 235
+posng: 1 posing
+posse: 2
+possession: 8
+possibility: 1
+possum: 1
+post: 778
+postage: 5
+postal: 2
+postcard: 13
+posted: 1
+poster: 204
+posterboard: 1
+posting: 1
+postion: 1 position
+postman: 2
+posture: 5
+posturing: 1
+pot: 968
+potable: 2
+potaotes: 1 potato
+potato: 728
+potatoes: 2
+potatos: 1 potato
+potential: 2
+potholder: 5
+pothole: 1
+potluck: 2
+potoato: 1 potato
+potoatoe: 1 potato
+pototoe: 1 potato
+potpori: 1 
+pots: 1
+potsticker: 1
+potter: 19
+pottery: 62
+potties: 1
+potty: 18
+pouch: 14
+poultry: 4
+pound: 16
+pour: 1
+pourig: 1 pouring
+poutine: 1
+pov: 1
+poverty: 2
+powder: 56
+powderpuff: 1
+powdery: 1
+powell: 1
+power: 248
+powerboat: 1
+powerglider: 1
+powering: 1
+powerline: 2
+powerpoint: 1
+powhatan: 1
+ppicture: 1 picture
+ppk: 4
+practice: 101
+practicing: 2
+prague: 2
+prairie: 19
+prairy: 1
+prance: 2
+prarie: 4
+prater: 1
+prawn: 1
+pray: 1
+prayer: 2
+prcoess: 1 process
+pre: 14
+preacher: 2
+precipice: 1
+precision: 2
+predator: 8
+predators: 1
+preen: 2
+preference: 1
+prefontaine: 1
+preform: 1
+premacy: 1 pharmacy
+premade: 1
+prep: 7
+preparation: 51
+prepare: 25
+preparing: 2
+preperation: 2 preparation
+prescription: 1
+presence: 4
+present: 29
+presentation: 58
+preservative: 1
+preserve: 11
+preserver: 3
+president: 49
+presidio: 2
+presley: 2
+press: 16
+presser: 1
+pressure: 5
+prestige: 1
+preteen: 2
+pretend: 6
+pretty: 4
+pretzel: 24
+prey: 30
+price: 77
+pricing: 2
+pride: 10
+prier: 1
+priest: 17
+primafrio: 1
+primary: 1
+primate: 1
+prime: 1
+primping: 1
+prince: 6
+princess: 16
+principal: 1
+prine: 1 prime
+print: 118
+printer: 86
+printing: 5
+printout: 3
+priority: 2
+prison: 10
+prisoner: 1
+privacy: 14
+private: 1
+prize: 15
+prizes: 1
+pro: 16
+problem: 7
+procedure: 6
+proceed: 2
+process: 112
+processing: 5
+procession: 14
+processor: 44
+proclaim: 1
+proctor: 1
+produce: 292
+product: 119
+production: 6
+products: 2
+profession: 2
+professional: 17
+professor: 1
+profile: 22
+profit: 1
+progeny: 1
+program: 21
+programming: 5
+progress: 151
+progressing: 1
+progression: 3
+prohibition: 1
+project: 52
+projection: 19
+projector: 49
+prom: 6
+promenade: 4
+promotion: 1
+prone: 3
+prong: 2
+proof: 2
+prop: 59
+propaganda: 2
+propane: 7
+propel: 2
+propell: 1 propeller
+propellar: 2 propeller
+propeller: 335
+propellor: 35 propeller
+propensity: 2
+property: 10
+proponent: 1
+proportion: 1
+proposition: 2
+propped: 3
+proprietor: 1
+propulsion: 1
+prosciutto: 5
+proscuitto: 1 prosciutto
+prosperity: 1
+prostitute: 1
+protection: 15
+protector: 11
+protein: 10
+protest: 40
+protester: 26
+protestor: 10 protester
+proton: 1
+prototype: 2
+protractor: 3
+protrude: 3
+protrusion: 1
+protude: 1 protrude
+proud: 2
+provides: 1
+provision: 1
+prow: 2
+prowess: 2
+prowl: 2
+proximity: 10
+prson: 1 person
+prune: 1
+pruyn: 1
+ps3: 1
+psa: 1
+pslam: 1
+psp: 1
+pssanger: 1 passanger
+pst: 1
+pstudy: 1
+psychic: 1
+pt: 1
+ptich: 1 pitch
+pub: 25
+public: 48
+publication: 2
+publicity: 1
+publix: 1 public
+pudding: 23
+puddle: 89
+pueblo: 1
+puff: 14
+puffin: 1
+puffs: 1
+pug: 104
+puj: 1
+pujols: 2
+pull: 34
+pulled: 1
+puller: 1
+pulley: 1
+pulling: 2
+pullman: 1
+pullout: 1
+pullover: 2
+pulp: 4
+pulpit: 1
+puls: 1
+pumkin: 2 pumpkin
+pump: 58
+pumpernickel: 1
+pumpkin: 62
+pun: 1
+punch: 21
+puncher: 1
+punching: 2
+pune: 1
+punk: 9
+punnet: 1
+punt: 1
+pup: 6
+puppeh: 1 puppet
+puppet: 15
+pupping: 1
+puppy: 256
+purchase: 20
+purchasing: 1
+purdue: 1
+puree: 3
+purolator: 1
+purpe: 1 purple
+purple: 66
+purpose: 11
+purse: 295
+pursuer: 1
+pursuit: 6
+pus: 2
+push: 13
+pushbutton: 1
+pushchair: 1
+puss: 1
+pussy: 2
+pussycat: 1
+put: 4
+putter: 1
+putting: 5
+puzzle: 16
+pylon: 10
+pylons: 1
+pyramid: 19
+pzza: 1 pizza
+q: 5
+qantas: 7
+qatar: 1
+qinoa: 1
+quacamole: 1 guacamole
+quad: 3
+quadrant: 1
+quadraped: 1
+quail: 3
+quaint: 1
+quality: 10
+quantas: 3
+quantity: 10
+quarry: 4
+quart: 1
+quarter: 38
+quartet: 4
+quartz: 1
+queen: 51
+queenies: 1
+queens: 1
+queilen: 1
+quencher: 1
+quesadea: 1 quesadilla
+quesadilla: 8
+quesedilla: 1 quesadilla
+quesidilla: 1 quesadilla
+question: 11
+questioning: 1
+queue: 8
+quiche: 21
+quicktime: 1
+quilt: 97
+quincy: 3
+quinoa: 1
+quiz: 1
+quote: 9
+qwerty: 1
+r: 6
+r.v: 1
+r.v.: 1
+r2d2: 2
+raabe: 1
+rabbi: 2
+rabbit: 59
+rabe: 1
+race: 397
+racecourse: 3
+racehorse: 6
+racer: 61
+racetrack: 13
+raceway: 1
+rachael: 2
+rachel: 1
+racing: 41
+racism: 3
+rack: 631
+racke: 1 racket
+racker: 1
+racket: 3548
+rackets: 1 racket
+rackett: 16 racket
+racketts: 1 racket
+racks: 1
+rackt: 1 racket
+racktet: 1 racket
+rackts: 1 racket
+racoon: 2 raccoon
+racqet: 2 racket
+racquet: 1677 racket
+racquetball: 1
+racquete: 1 racket
+raddish: 1 radish
+radiation: 1
+radiator: 42
+radical: 2
+radicchio: 1
+radio: 78
+radish: 38
+raeding: 1 reading
+raf: 1
+raft: 96
+rafter: 8
+rag: 16
+rage: 1
+raggedy: 4
+raid: 1
+rail: 1024
+railcar: 3
+railing: 188
+railoroad: 1 railroad
+railroad: 658
+railway: 180
+railways: 4
+railyard: 2
+rain: 947
+rainboot: 1 
+rainbow: 174
+raincoat: 24
+raindrop: 3
+rainfall: 1
+rainforest: 3
+raingear: 1
+rainhat: 1
+raining: 2
+rainjacket: 1
+rainless: 1
+rainstorm: 2
+rainy: 3
+raise: 1
+raiser: 1
+raisin: 23
+raising: 1
+raison: 1
+rake: 1
+raket: 1
+rakett: 1
+rale: 1
+rall: 1
+rally: 31
+ram: 106
+ramada: 1
+raman: 3 ramen
+ramble: 1
+rambutan: 1
+ramekin: 4
+ramen: 3
+ramon: 1 ramen
+ramp: 1662
+rams: 1
+ramsay: 2
+ranch: 33
+rancher: 8
+range: 208
+ranger: 9
+rangetop: 1
+rank: 5
+raod: 3
+rap: 2
+rapid: 20
+rapido: 1
+rapper: 1
+raptor: 4
+raquet: 36 racket
+rare: 2
+rasberry: 1 raspberry
+rascal: 1
+raspberries: 1
+raspberry: 47
+rassy: 1
+rat: 24
+ratchet: 5
+rate: 4
+rating: 1
+rats: 1
+rattler: 1
+rattlesnake: 1
+raven: 3
+ravine: 2
+ravioli: 10
+raw: 1
+rawer: 1
+rawtenstall: 1
+ray: 16
+rays: 1
+razor: 24
+rbi: 1
+rc: 2
+rct: 1
+rd: 17
+rdiidng: 1 riding
+re: 3
+reach: 7
+reache: 1
+reachign: 1 reaching
+reachiing: 1 reaching
+reaching: 1
+reaction: 1
+read: 14
+reader: 14
+readfy: 1
+readiness: 1
+reading: 44
+readout: 1
+reads: 2
+ready: 7
+reagan: 2
+reality: 1
+really: 6
+ream: 1
+rear: 52
+rearing: 1
+rearview: 28
+reason: 5
+reaux: 1
+rec: 1
+receipt: 18
+receiver: 6
+receptacle: 3
+reception: 27
+receptionist: 1
+recess: 6
+reciept: 1 receipt
+recipe: 22
+recipient: 1
+recline: 5
+recliner: 37
+reclining: 1
+recognition: 1
+reconstruction: 1
+record: 38
+recorder: 9
+recording: 11
+recovery: 4
+recreation: 10
+recruit: 1
+rectangle: 15
+recumbent: 3
+recycling: 7
+red: 341
+redand: 1
+redbook: 1
+redbull: 1
+redcandle: 1
+reddish: 1
+redhead: 1
+redmond: 2
+redone: 2
+redshirt: 1
+redsox: 1
+redtail: 1
+redundancy: 1
+redwood: 1
+reed: 12
+reeds: 1
+reef: 7
+reel: 3
+reelectio: 1 reflection
+reenactment: 2
+reenactor: 1
+ref: 6
+refection: 4
+refeigerator: 1 refrigerator
+refelection: 1 reflection
+referee: 52
+reference: 3
+referigator: 1 refrigerator
+referigerator: 1 refrigerator
+refferee: 1 referee
+refg: 3
+refidgerator: 1 refrigerator
+refidguator: 1 refrigerator
+refigerator: 4 refrigerator
+refinery: 1
+refirgerator: 3 refrigerator
+reflaction: 1 reflection
+reflation: 1 reflection
+reflection: 507
+reflector: 2
+reflextion: 3 reflection
+refreidgerator: 1 refrigerator
+refreigerator: 1 refrigerator
+refreshment: 12
+refridgerater: 1 refrigerator
+refridgerator: 30 refrigerator
+refridgerators: 1 refrigerator
+refrigator: 1 refrigerator
+refrigerater: 1 refrigerator
+refrigeration: 5
+refrigerator: 2470
+refrlection: 1 reflection
+refueling: 6
+refuge: 2
+refugee: 1
+refuse: 2
+reg: 1
+regalia: 1
+regenerator: 1
+regent: 1
+reggae: 1
+regio: 2
+region: 30
+regional: 1
+register: 15
+registration: 2
+regrigerator: 1 refrigerator
+regua: 2
+regulation: 2
+reichenberger: 1
+reign: 23
+rein: 39
+reindeer: 6
+reisen: 1
+rekela: 1
+relative: 1
+relax: 9
+relaxation: 3
+relaxing: 4
+relay: 1
+release: 2
+relection: 3 reflection
+relflection: 1 reflection
+reliance: 1
+relief: 8
+religion: 1
+relish: 60
+remain: 24
+remainder: 2
+remembrance: 3
+reminder: 2
+remnant: 7
+remodel: 14
+remodeld: 1 remodeled
+remodeling: 18
+remot: 2 remote
+remote: 911
+remoter: 1
+remotes: 1
+remotw: 1 remote
+removal: 2
+renaissance: 7
+renassance: 1 renaissance
+rend: 1
+rendering: 15
+rendition: 2
+renovation: 33
+rent: 10
+rental: 4
+renting: 1
+repair: 87
+repairman: 1
+repeal: 2
+repeat: 1
+repellent: 2
+replica: 33
+replicas: 1
+report: 3
+reporter: 14
+reporting: 1
+representation: 5
+representative: 4
+reproduction: 2
+reptile: 4
+republican: 1
+rerigerator: 1 refrigerator
+resaraunt: 1 restaurant
+resaurant: 1 restaurant
+rescue: 29
+research: 2
+researcher: 1
+resembling: 1
+reservation: 3
+reserve: 3
+reservoir: 4
+residence: 37
+resident: 5
+residentail: 1 residential
+residential: 1
+residue: 2
+resin: 1
+resistance: 2
+resolution: 2
+resort: 136
+resource: 1
+respirator: 1
+responder: 1
+response: 5
+rest: 269
+restaraunt: 10 restaurant
+restaruant: 2 restaurant
+restauraint: 1 restaurant
+restaurant: 1705
+restaurants: 1
+restauraunt: 1 restaurant
+restaurnat: 2 restaurant
+restautant: 1 restaurant
+restin: 1 resting
+resting: 21
+restoom: 1
+restoration: 4
+restore: 1
+restraint: 2
+restraunt: 4 restaurant
+restriction: 1
+restroom: 437
+restuarant: 3 restaurant
+resturant: 7 restaurant
+resturaunt: 1 restaurant
+result: 5
+retail: 2
+retailer: 1
+retainer: 1
+retardant: 3
+retirement: 1
+retrieval: 1
+retriever: 32
+retrievers: 1
+retro: 15
+returant: 1 restaurant
+return: 26
+returning: 2
+reuben: 2
+reunion: 1
+reveal: 1
+reveler: 1
+reverse: 1
+review: 4
+revolver: 1
+revolving: 1
+reward: 3
+rfrigerator: 1 refrigerator
+rhein: 1
+rheinbrucken: 1
+rhino: 36
+rhinoceros: 10
+rhinos: 8
+rhode: 4
+rhubarb: 1
+riasing: 1 raising
+rib: 15
+ribbion: 1 ribbon
+ribbon: 144
+ribcage: 1
+rica: 3
+rice: 719
+richard: 1
+richmond: 4
+rick: 3
+rickshaw: 7
+ricotta: 4
+rid: 1
+ride: 331
+rider: 641
+riderless: 2
+ridge: 19
+ridgewood: 1
+ridi9ng: 1 riding
+riding: 92
+rie: 1
+riffle: 1
+rifle: 18
+rig: 33
+rigatoni: 2
+rigger: 1
+rigging: 1
+right: 147
+rileys: 1
+rim: 71
+rime: 1
+rin: 1
+rind: 7
+ring: 185
+ringer: 1
+ringleader: 1
+ringling: 1
+rings: 1
+rink: 32
+rino: 1
+rio: 2
+rioad: 1
+rioter: 1
+rip: 3
+ripe: 1
+ripeness: 5
+ripening: 4
+ripple: 2
+ripply: 1
+rise: 49
+riser: 1
+risht: 1 right
+rising: 3
+ristorante: 2 restaurant
+rite: 2
+rive: 3
+river: 1727
+riverbank: 16
+riverbed: 4
+riverboat: 5
+riverdale: 1
+riverfront: 3
+riverside: 4
+riverwalk: 1
+riverway: 1
+rivet: 1
+rivier: 1 river
+riviera: 1
+riving: 1
+rizzardi: 1
+rm: 1
+ro: 1
+roach: 1
+road: 7156
+road.with: 1
+roade: 1 road
+roadrunner: 1
+roads: 1
+roadside: 86
+roadsign: 2
+roadway: 249
+roadway.l: 1
+roadwork: 3
+roaming: 1
+roan: 1
+roap: 1
+roast: 56
+roaster: 2
+roasting: 5
+roastown: 1
+rob: 1
+robber: 1
+robe: 80
+robin: 8
+robinson: 2
+robo: 1
+robot: 37
+robotic: 1
+robotics: 1
+rochers: 1
+rock: 1893
+rockabilly: 1
+rockaway: 3
+rockband: 1
+rockefeller: 5
+rocker: 6
+rocket: 20
+rockies: 1
+rocking: 21
+rocks: 4
+rockstar: 3
+rockwell: 2
+rocky: 1
+roczek: 1
+rod: 45
+rode: 8
+rodent: 8
+rodeo: 49
+roger: 2
+role: 14
+rolex: 5
+roll: 431
+rollaway: 1
+roller: 76
+rollerblade: 2
+rollerblader: 1
+rollerskate: 1
+rolling: 15
+rollover: 1
+rolls: 5
+rolodex: 1
+rom: 6
+roma: 1
+romaine: 3
+roman: 5
+romney: 1
+romp: 2
+ronald: 6
+ront: 1
+rood: 2
+roof: 381
+roofa: 1
+roofed: 5
+roofing: 3
+rooftop: 28
+room: 12953
+room/: 2
+roomful: 5
+roommate: 2
+roomw: 1
+roomy: 1
+rooom: 3
+roosevelt: 1
+roost: 3
+rooster: 35
+root: 42
+rope: 287
+roped: 1
+roping: 2
+rosary: 3
+rose: 322
+rosemary: 2
+roses: 1
+roslyn: 1
+rossendalebus: 1
+roster: 2
+rotating: 2
+rote: 1
+roti: 1
+rotini: 2
+rotisserie: 1
+rotonda: 1
+rotor: 3
+rottweiler: 1
+rotunda: 5
+rough: 2
+round: 176
+roundabout: 12
+roundhouse: 1
+roup: 1
+route: 60
+router: 3
+routine: 2
+routing: 1
+rover: 5
+rovers: 1
+row: 1504
+rowan: 4
+rowboat: 45
+rower: 6
+rowhous: 1
+rowin: 1
+rowing: 10
+rowling: 1
+roxy: 1
+royal: 17
+royals: 1
+royalty: 2
+rquipment: 1 equipment
+rracket: 1 racket
+rrboard: 1
+rrj: 1
+rtbf: 1
+rtv: 1
+rub: 12
+rubbage: 1
+rubber: 70
+rubbermaid: 1
+rubbing: 1
+rubbish: 6
+rubble: 20
+rube: 2
+ruben: 1
+rubic: 1
+rubiks: 1
+ruble: 1
+ruby: 4
+ruck: 7
+rude: 1
+rue: 6
+ruff: 1
+ruffle: 2
+rug: 492
+rugby: 29
+ruin: 17
+rule: 8
+ruler: 26
+rum: 1
+rumble: 3
+rummage: 2
+rump: 5
+run: 286
+rundown: 25
+rung: 2
+runner: 96
+runnig: 1 rimmomg
+running: 42
+runway: 1781
+runway.and: 1
+rupert: 2
+rush: 3
+rushing: 2
+russell: 3
+russian: 4
+rust: 37
+rusted: 3
+rusty: 9
+rut: 1
+rutabagas: 1
+ruth: 1
+ruwnay: 1
+rv: 36
+rvs: 1
+rx58: 1
+ryan: 1
+ryanair: 2
+ryder: 1
+rye: 8
+s: 34
+s.: 11
+s.u.v: 1
+saab: 3
+saber: 4
+sac: 5
+sachel: 1
+sack: 15
+sacks: 1
+sacramento: 2
+sad: 1
+saddle: 65
+saddlebag: 5
+sadie: 1 saddle
+sadle: 1 saddle
+sadness: 2
+sadnwich: 1 sandwich
+safarga: 1
+safari: 51
+safe: 1
+safeco: 1
+safety: 127
+safeway: 6
+saffron: 1
+sage: 3
+sagebrush: 1
+sahara: 1
+saigon: 1
+sail: 327
+sailboard: 5
+sailboarder: 3
+sailboat: 251
+sailer: 6
+sailing: 102
+sailor: 53
+sailors: 1
+sailsurfing: 1
+saint: 12
+sais: 1
+sake: 4
+sakeboard: 1
+sakte: 1
+sakter: 1
+sala: 1
+salad: 1057
+salade: 1
+salamander: 1
+salami: 9
+salas: 1
+sale: 390
+salem: 4
+sales: 2
+salesman: 5
+saliboat: 1 sailboat
+salida: 1
+salisbury: 1
+sall: 1 sail
+salmon: 38
+salon: 30
+salonist: 1
+saloon: 6
+salsa: 32
+salt: 40
+salute: 1
+saluting: 1
+salvador: 2
+salvage: 1
+salvation: 9
+sam: 2
+same: 1
+sample: 27
+sampler: 1
+sampling: 5
+samsonite: 2
+samsung: 23
+samuel: 1
+samurai: 1
+san: 27
+sanctuary: 18
+sand: 1273
+sandal: 49
+sandbag: 2
+sandbar: 1
+sandcastle: 2
+sanders: 2
+sandhwich: 1 sandwich
+sandich: 2 sandwich
+sandisk: 1
+sandiwch: 3 sandwich
+sandiwhc: 1 sandwich
+sandle: 1 saddle
+sandpiper: 3
+sandpit: 1
+sandridge: 1
+sandwhich: 44 sandwich
+sandwich: 4119
+sandwiche: 1 sandwich
+sandwiches: 3 sandwich
+sandwichs: 1 sandwich
+sandwitch: 3 sandwich
+sandy: 14
+sane: 1
+sanitation: 2
+sanitizer: 8
+sanitzer: 1 sanitizer
+sanndwich: 1 sandwich
+santa: 153
+santiago: 3
+sanwdich: 1 sandwich
+sanwhich: 1 sandwich
+sanwich: 4 sandwich
+saop: 1 soap
+sap: 1
+sapling: 3
+sapphire: 1
+saran: 2
+sardine: 4
+sari: 2
+sarong: 3
+sarria: 1
+sas: 5
+sash: 5
+sashimi: 3
+sat: 1
+satandng: 1
+satay: 1
+satchel: 8
+satellite: 13
+satin: 1
+sation: 1
+satisfaction: 1
+satsuma: 1
+saturday: 2
+saturn: 4
+satute: 1
+sauce: 854
+saucepan: 4
+saucer: 79
+sauerkrat: 1
+sauerkraut: 31
+sauerktaut: 1
+sauna: 2
+sauntering: 1
+saurkraut: 1
+sausage: 348
+sause: 1
+saute: 1
+sauteed: 4
+sav: 1
+savana: 1 savanna
+savanah: 2 savanna
+savanaha: 1 savanna
+savanna: 45
+savannah: 87 savanna
+save: 2
+saver: 3
+savings: 3
+saw: 9
+sawdust: 2
+sawn: 1
+saxon: 1
+saxophone: 4
+say: 1
+sayd: 1
+sayign: 1
+saying: 11
+sc: 1
+scaffold: 4
+scaffolding: 12
+scale: 56
+scallion: 6
+scallop: 9
+scalloped: 1
+scalpel: 3
+scanner: 5
+scanning: 1
+scape: 9
+scar: 2
+scarecrow: 12
+scarf: 153
+scarfs: 8
+scark: 1
+scarp: 1
+scateboarder: 1 skateboarder
+scatter: 3
+scavenger: 1
+scear: 1
+scene: 1053
+scenery: 40
+scent: 2
+schedule: 5
+scheme: 15
+schlafly: 1
+schnauzer: 2
+schnitzel: 1
+school: 624
+schoolboy: 1
+schoolbus: 5
+schoolchildren: 1
+schoolgirl: 5
+schoolhouse: 3
+schoolroom: 1
+schooner: 1
+sciccor: 1 scissor
+scicor: 1 scissor
+science: 10
+scientist: 1
+sciorrs: 1 scissor
+scissor: 1379
+scissorce: 1 scissor
+scissors: 18
+scissorss: 1 scissor
+scissos: 1 scissor
+scizzor: 1 scissor
+scocer: 1 soccer
+sconce: 2
+scone: 11
+scooby: 3
+scoop: 17
+scooping: 1
+scooter: 463
+scope: 4
+score: 7
+scoreboard: 5
+scorpion: 3
+scotch: 1
+scotland: 1
+scotsman: 1
+scott: 5
+scotter: 1
+scottish: 2
+scottsdale: 1
+scout: 13
+scowl: 1
+scrambling: 1
+scrap: 14
+scrapbook: 2
+scrapbooking: 1
+scrape: 1
+scraper: 4
+scrapper: 2
+scratch: 8
+scratcher: 1
+scratching: 4
+scream: 3
+screen: 1474
+screenplay: 1
+screensaver: 4
+screenshot: 4
+screw: 3
+screwdriver: 8
+script: 2
+scroll: 5
+scrolling: 1
+scrollwork: 1
+scrub: 20
+scrubber: 5
+scrubland: 2
+scrubs: 3
+scrunch: 1
+scrunchy: 1
+scuba: 7
+scull: 1
+sculptor: 1
+sculpture: 282
+sculpute: 1 sculpture
+sculture: 2 sculpture
+scuplture: 2 sculpture
+scupture: 1 sculpture
+scure: 1
+sd: 1
+se1: 2
+sea: 370
+seabird: 2
+seaboard: 1
+seafoam: 1
+seafood: 34
+seagel: 1 seagull
+seagul: 2 seagull
+seagull: 285
+seagulls: 2 seagull
+seaguls: 1 seagull
+seal: 27
+sealing: 1
+sealyham: 1
+seam: 1
+seaman: 1
+seaplane: 14
+sear: 3
+search: 9
+searching: 1
+sears: 1
+seascape: 1
+seashell: 5
+seashore: 15
+seaside: 8
+season: 13
+seasoning: 40
+seat: 1300
+seatback: 2
+seatbelt: 2
+seater: 2
+seati: 1
+seating: 76
+seattle: 8
+seawall: 1
+seawater: 1
+seaweed: 24
+seaweeed: 1
+seaworld: 1
+sebastiani: 1
+seclection: 1 selection
+second: 8
+secret: 2
+secretary: 2
+section: 165
+sectional: 1
+sector: 2
+security: 44
+sedan: 10
+sedroc: 1
+see: 2
+seed: 66
+seedling: 1
+seedoos: 1
+seedpod: 1
+seeds: 1
+seeing: 2
+seeley: 1
+seen: 2
+seep: 2
+seer: 2
+segment: 9
+segway: 3
+seine: 1
+sekonda: 1
+selection: 81
+selector: 4
+self: 77
+selfie: 207
+selfs: 1
+sell: 4
+seller: 3
+selling: 22
+seltzer: 2
+selwyn: 1
+semi: 211
+semicircle: 3
+seminar: 6
+semis: 2
+semitrailer: 4
+semitruck: 1
+senior: 5
+sense: 1
+sensor: 1
+sentence: 1
+sentiment: 1
+seoul: 1
+separation: 1
+seperate: 4 separate
+seperated: 1 separated
+sephia: 2
+sepia: 27
+sequence: 14
+sequin: 1
+ser: 1
+seravel: 1
+serena: 1
+serengeti: 1
+serf: 2
+serface: 1 surface
+sergeant: 1
+series: 175
+serta: 1
+serv: 1
+servant: 1
+serve: 167
+server: 35
+service: 122
+serviceman: 3
+servicemember: 1
+servicemen: 2
+services: 1
+servicing: 3
+serving: 77
+sesame: 28
+sesk: 1 desk
+session: 13
+set: 909
+sets: 1
+setson: 1
+settee: 7
+setter: 2
+setting: 398
+settler: 4
+setup: 62
+seuss: 5
+seuvignon: 1
+seventh: 1
+seventy: 2
+sever: 4
+severa: 1
+several: 3
+sewer: 4
+sewing: 51
+sex: 11
+sexily: 1
+sexy: 2
+seymour: 2
+sgin: 1 sign
+sh: 1
+shack: 33
+shad: 2
+shadd: 1
+shade: 426
+shaded: 1
+shades: 5
+shading: 1
+shadow: 233
+shadowy: 1
+shady: 1
+shadyside: 4
+shaft: 2
+shag: 1
+shaggy: 2
+shaka: 1
+shake: 19
+shaker: 33
+shakespeare: 6
+shallot: 1
+shallow: 7
+sham: 1
+shamble: 1
+shame: 1
+shampaaine: 1 champagne
+shampoo: 9
+shampooer: 1
+shampoos: 1
+shamrock: 5
+shanks: 3
+shanty: 1
+shape: 268
+shaped: 1
+shapped: 4 shaped
+shar: 1
+shard: 4
+share: 23
+sharicmar: 1
+sharing: 6
+shark: 20
+shark-: 1
+sharp: 1
+sharpei: 1
+sharpener: 7
+sharpie: 7
+shart: 1
+shashimi: 1 sashimi
+shave: 1
+shaver: 1
+shaving: 18
+shawl: 8
+sheap: 1
+shear: 22
+shearer: 3
+shearing: 4
+sheath: 2
+shed: 49
+shee: 2
+sheeep: 1 sheep
+sheelp: 1 sheep
+sheep: 3864
+sheepdog: 11
+sheepherder: 1
+sheepling: 1 
+sheeps: 7 sheep
+sheepskin: 3
+sheer: 5
+shees: 1 sheep
+sheet: 602
+sheeting: 4
+sheets: 3
+sheffield: 2
+shehan: 1
+sheila: 2
+shelf: 1472
+shelfing: 1
+shelfs: 7
+shelfsish: 1
+shell: 64
+shellfish: 4
+shelter: 42
+shelve: 6
+shelves: 1
+shelving: 26
+shep: 2 sheep
+shepard: 10 shepherd
+shephard: 4 shepherd
+shepherd: 33
+shepherds: 1
+sheppard: 1 shepherd
+sherbrooke: 1
+sheriff: 6
+sherman: 3
+sherpa: 1
+shetland: 4
+shield: 6
+shift: 16
+shih: 1
+shill: 1
+shimmering: 1
+shin: 1
+shine: 6
+shiney: 1
+shingle: 2
+shingobee: 1
+shinning: 1
+shiny: 2
+ship: 399
+shipping: 15
+ships: 1
+shipyard: 2
+shire: 2
+shirk: 1
+shirmp: 1 shrimp
+shirt: 3826
+shirtless: 7
+shirts: 2
+shish: 2
+shishkabob: 2
+shit: 10
+shivering: 1
+shlef: 1
+shock: 4
+shocker: 1
+shoe: 873
+shoebox: 2
+shoelace: 6
+shoeless: 2
+shoes: 5
+shoestring: 2
+sholder: 2 shoulder
+shone: 1
+shooping: 1 shopping
+shoot: 18
+shooter: 3
+shootfirsteatlater.com: 1
+shooting: 5
+shop: 796
+shopkeeper: 1
+shopowner: 1
+shoppe: 4
+shopper: 21
+shoppign: 1
+shopping: 219
+shops: 1
+shore: 784
+shorebird: 1
+shoreline: 123
+shoreside: 1
+short: 518
+shortboard: 1
+shortcake: 5
+shorthand: 1
+shortland: 2
+shorts: 4
+shortstop: 1
+shortwave: 1
+shot: 894
+shotgun: 4
+shots: 1
+shoulder: 311
+shoulderless: 1
+shovel: 13
+show: 374
+showbaord: 1
+showboat: 4
+showcase: 9
+showe: 1
+shower: 1584
+showerhead: 6
+showering: 1
+showes: 1
+showgirl: 1
+showing: 24
+showpiece: 1
+showr: 1 shower
+showroom: 34
+showtime: 2
+shred: 2
+shredded: 1
+shrimp: 116
+shrimpa: 1 shrimp
+shrine: 12
+shriner: 2 shrine
+shrink: 3
+shripm: 1 shrimp
+shrub: 87
+shrubb: 1
+shrubbery: 62
+shrubby: 3
+shuffle: 2
+shuffling: 1
+shush: 1
+shut: 7
+shutter: 29
+shuttle: 101
+shwon: 1 shown
+sibling: 13
+sic: 1
+siccor: 1
+sick: 1
+sickle: 1
+sickness: 1
+sicorss: 1
+side: 8923
+sidearm: 2
+sideboard: 5
+sideburn: 3
+sidecar: 41
+sideline: 26
+sides: 1
+sideshow: 1
+sidetable: 1
+sideview: 2
+sidewalk: 3373
+sidewalk.and: 1
+sidewalk.with: 1
+sidewall: 2
+sideway: 8
+sideways: 2
+sidewlak: 1 sidewalk
+siding: 8
+sidwalk: 5 sidewalk
+sidwealk: 1 sidewalk
+sie: 1 side
+siegel: 1
+sierra: 1
+sifter: 3
+sig: 1
+sigh: 21
+sighn: 3 sign
+sight: 31
+sighting: 2
+sightseeing: 13
+sightseer: 2
+sign: 12265
+sign.e: 1
+signage: 75
+signal: 440
+signature: 2
+significance: 1
+signing: 5
+signpost: 18
+signs: 7
+sigs: 1
+sik: 1
+sikn: 1
+sil: 5
+silhouette: 99
+silk: 11
+sill: 265
+silly: 1
+silo: 15
+siloette: 1 silhouette
+silohuette: 1 silhouette
+silver: 922
+silverward: 1 silverware
+silverware: 130
+silverwear: 4 silverware
+silvester: 1
+sim: 1
+similarity: 1
+simmer: 1
+simmons: 1
+simple: 1
+simplemotif: 1
+simpson: 4
+simpsons: 2
+simulation: 1
+simulator: 5
+sin: 6
+since: 1
+sincerity: 1
+sing: 21
+singapore: 4
+singer: 5
+singing: 15
+single: 10
+single-: 1
+singles: 2
+singleton: 1
+sings: 1
+sink: 4923
+sinkhole: 1
+sinking: 2
+sinks: 4
+sip: 9
+sir: 1
+siren: 3
+sirf: 1
+sirius: 1
+sirty: 1
+sis: 2
+sisscor: 1 scissor
+sissor: 4 scissor
+sister: 18
+sit: 138
+site: 96
+siting: 76
+sititng: 3 sitting
+sitka: 1
+sits.under: 1
+sittig: 2 sitting
+sittign: 6 sitting
+sittin: 7 sitting
+sitting: 205
+sittingon: 1 sitting on
+sittng: 1 sitting
+situation: 6
+sixteen: 1
+sixty: 2
+size: 315
+sized: 1
+sizew: 1
+sizzle: 1
+sizzor: 1 scissor
+sk: 2
+skaeboard: 3 skateboard
+skaetboard: 1 skateboard
+skat: 1
+skatboard: 5 skateboard
+skatboarder: 1 skateboard
+skate: 2338
+skateb: 1 skateboard
+skatebaord: 7 skateboard
+skatebaorder: 1 skateboarder
+skateboad: 2 skateboard
+skateboader: 1 skateboarder
+skateboard: 7254
+skateboarded: 1
+skateboarder: 1956
+skateboarding: 43
+skateboarer: 1 skateboarder
+skatebord: 5 skateboard
+skateborder: 2 skateboarder
+skatepark: 56
+skater: 133
+skateramp: 1
+skaterboarder: 2 skateboarder
+skating: 154
+skatingboard: 1
+skatpark: 1 skatepark
+skeat: 1 skate
+skeateboard: 1 skateboard
+skein: 1
+skeleton: 23
+skelton: 1 skeleton
+sketch: 3
+skewer: 13
+ski: 5315
+skiboard: 4
+skid: 1
+skie: 2
+skieer: 1
+skier: 2780
+skiers: 13
+skies: 2
+skiff: 6
+skii: 9 ski
+skiie: 16 skier
+skiier: 107 skier
+skiiers: 1 skier
+skiies: 1 skier
+skiing: 1225
+skiingo: 1
+skiis: 119 ski
+skiliner: 1
+skill: 51
+skillet: 78
+skim: 4
+skimboard: 1 skiboard
+skimming: 1
+skin: 35
+sking: 3 skiing
+skinig: 1 skiing
+skinny: 3
+skip: 1
+skirt: 198
+skis: 376
+skit: 1
+skitter: 1
+skiver: 1
+skort: 1
+skraper: 1
+sksteboard: 1 skateboard
+sku: 2
+skull: 52
+sky: 4811
+skydiver: 4
+skye: 2
+skyfall: 1
+skyh: 1
+skying: 1
+skylight: 18
+skyline: 121
+skyliner: 1
+skype: 2
+skyraider: 1 skyrider
+skyrise: 1
+skyscraper: 84
+skyscrapper: 2 skyscraper
+skyteam: 5
+skyview: 2
+skyway: 1
+slab: 67
+slack: 15
+slae: 1
+slallom: 1
+slalom: 20
+slam: 3
+slant: 1
+slap: 1
+slat: 27
+slate: 10
+slateboard: 1 skateboard
+slaughter: 1
+slaughterhouse: 2
+slavemaster: 1
+slaw: 26
+slay: 1
+slayer: 3
+slcie: 1 slice
+slection: 1 selection
+sled: 57
+sledder: 1
+sledding: 1
+sledge: 1
+sleding: 1 sledging
+sleek: 1
+sleep: 48
+sleeper: 4
+sleeping: 35
+sleeply: 1
+sleepy: 3
+sleet: 1
+sleeve: 31
+sleeveless: 3
+sleigh: 37
+slender: 12
+slept: 1
+slew: 4
+sli: 1 ski
+slice: 2277
+slicer: 5
+slicing: 4
+slick: 1
+slicker: 2
+slide: 73
+slider: 13
+slideshow: 2
+sliding: 3
+slightly: 1
+sling: 11
+slinky: 1
+slip: 13
+slipper: 29
+slippers: 3
+slippery: 1
+slit: 2
+slittle: 1
+sliver: 20
+slo: 1
+sloan: 1
+sloap: 1 soap
+slobber: 1
+slobbery: 1
+sloe: 1
+slogan: 5
+slop: 23
+slope: 2914
+sloped: 1
+slopes: 14
+slople: 2
+slot: 12
+sloth: 1
+slouch: 1
+slow: 3
+slsh: 1
+sludge: 1
+slue: 1
+slug: 7
+slum: 2
+slurpee: 1
+slurry: 1
+slush: 3
+slushie: 1
+slushy: 1
+sly: 1
+smack: 1
+small: 34
+smaller: 1
+smalll: 2 small
+smart: 9
+smartphone: 60
+smear: 1
+smell: 1
+smelly: 1
+smile: 270
+smiley: 12
+smiling: 27
+smilng: 1 smiling
+smirk: 8
+smirnoff: 1
+smith: 2
+smock: 2
+smog: 2
+smoke: 345
+smoked: 1
+smoker: 4
+smokes: 1
+smokestack: 6
+smokey: 6
+smoking: 36
+smoothi: 1 smoothie
+smoothie: 50
+sms: 1
+smudge: 1
+smurf: 2
+sn: 1
+snack: 239
+snadwich: 1
+snail: 10
+snake: 25
+snall: 1
+snap: 6
+snapple: 2
+snapshot: 14
+snarling: 1
+sncf: 1
+sneak: 1
+sneaker: 107
+sneeze: 1
+snickers: 1
+sniff: 3
+sniffing: 2
+snip: 2
+snippet: 1
+sno: 1
+snoopy: 1
+snoot: 1
+snoozes: 1
+snoozing: 2
+snot: 2
+snout: 13
+snow: 8383
+snow-: 1
+snowball: 3
+snowbank: 5
+snowbaord: 2 snowboard
+snowbard: 1 snowboard
+snowbarder: 1 snowboarder
+snowbird: 1
+snowboad: 1 snowboard
+snowboar: 1 snowboard
+snowboard: 1907
+snowboarder: 1130
+snowboarders: 2
+snowboarding: 70
+snowborder: 1 snowboarder
+snowdrift: 1
+snowey: 1 snowy
+snowfall: 6
+snowfield: 1
+snowflake: 4
+snowing: 17
+snowless: 1
+snowman: 31
+snowmen: 3
+snowmobile: 14
+snowpant: 1
+snowplow: 2
+snowshoe: 6
+snowshoes: 1
+snowskier: 1
+snowstorm: 15
+snowsuit: 41
+snowwoman: 1
+snowy: 30
+snuggie: 1
+snuggle: 4
+snyone: 1 anyone
+soak: 1
+soaker: 2
+soaking: 2
+soap: 110
+soar: 2
+socail: 1
+soccer: 1963
+soccerball: 6
+soccor: 5 soccer
+soceer: 1 soccer
+socializing: 1
+society: 1
+sock: 80
+socket: 3
+soda: 327
+soerson: 1
+sof: 1
+sofa: 617
+sofabed: 1
+sofas: 79
+sofe: 1 sofa
+soft: 1
+softball: 124
+softcover: 1
+software: 4
+softwood: 1
+sogn: 1 sign
+soil: 20
+sok: 1
+sol: 1
+solar: 2
+sold: 1
+solder: 6
+soldering: 1
+soldier: 196
+soldiers: 1
+solid: 2
+solider: 2
+solit: 1 split
+solo: 13
+solomon: 1
+solution: 3
+sombe: 1
+sombody: 1 somebody
+sombrero: 10
+some: 14
+somebody: 55
+someon: 1 someone
+someone: 1903
+someones: 5
+someplace: 2
+somersault: 3
+somerset: 4
+something: 1709
+son: 156
+song: 12
+songbird: 2
+songbook: 1
+sonic: 1
+sonnan: 1
+sonnet: 2
+sonoma: 1
+sonow: 1
+sons: 2
+sontrol: 1 cibtrik
+sony: 15
+soot: 3
+sop: 3
+sor: 1
+sorbet: 1
+sore: 2
+sort: 291
+sos: 1
+sosages: 1 sausages
+sotre: 1
+souch: 1
+souffle: 6
+soul: 7
+sound: 19
+soundboard: 3
+soup: 491
+soupy: 1
+sour: 1
+source: 23
+sourdough: 1
+sourkraut: 1
+south: 14
+southern: 5
+southwark: 3
+southwest: 17
+southwestern: 2
+soutwest: 1
+souvenir: 7
+sovereign: 1
+sow: 2
+sox: 23
+soy: 3
+spa: 14
+space: 582
+space.next: 1
+spacecraft: 1
+spaceman: 1
+spaceship: 3
+spade: 1
+spadina: 1
+spaghetti: 47
+spaghettit: 1 spaghetti
+spain: 2
+span: 1
+spandex: 4
+spaniel: 5
+spanish: 10
+spar: 1
+sparce: 1 sparse
+spareribs: 1
+spark: 2
+sparker: 1
+sparkle: 1
+sparkler: 13
+sparkling: 1
+sparkly: 2
+sparrow: 14
+spart: 1
+spatula: 76
+spatulas: 1
+spaulding: 1
+speach: 1 speech
+speak: 1
+speaker: 160
+spear: 14
+special: 6
+specialty: 12
+specie: 10
+specific: 1
+speciman: 1 specimen
+specimen: 1
+speck: 3
+speckle: 1
+spectacle: 2
+spectator: 253
+spectators: 2
+speculator: 1
+speech: 29
+speed: 220
+speedboat: 17
+speeding: 28
+speedo: 1
+speedometer: 3
+speedway: 1
+speedy: 1
+spending: 6
+spero: 1
+spew: 1
+spewing: 1
+sphere: 5
+sphinx: 1
+spice: 67
+spicket: 4
+spickett: 1
+spider: 19
+spiderman: 3
+spigot: 7
+spike: 7
+spikey: 1 spiky
+spill: 5
+spilt: 1
+spin: 3
+spinach: 148
+spindle: 1
+spine: 1
+spinner: 1
+spinning: 6
+spiral: 10
+spire: 46
+spirit: 8
+spit: 1
+splash: 48
+splashing: 1
+splatter: 1
+splayed: 1
+split: 45
+splits: 1
+splitting: 1
+splotch: 3
+spokane: 1
+spoke: 4
+sponge: 9
+spongebob: 3
+sponsor: 4
+spool: 18
+spools: 2
+spoon: 618
+spoonful: 11
+spork: 3
+sport: 333
+sporting: 41
+sports: 8
+sportscar: 2
+sportsman: 2
+sportster: 1
+sportswear: 1
+spot: 198
+spotlessy: 1
+spotlight: 14
+spout: 15
+spray: 115
+sprayer: 10
+spraying: 6
+spread: 62
+spreadsheet: 1
+sprig: 7
+spring: 44
+springbok: 1
+springdale: 1
+springle: 1
+springs: 1
+springtime: 3
+sprinkel: 1 sprinkle
+sprinkle: 179
+sprinkler: 6
+sprinkles: 2
+sprinkling: 1
+sprint: 6
+sprite: 2
+spritzer: 1
+spritztour: 1
+sprout: 45
+spruce: 1
+spurt: 1
+spurts: 1
+spyder: 1 spider
+squad: 4
+squadron: 13
+square: 345
+squash: 59
+squat: 7
+squatting: 3
+squeeze: 2
+squeezer: 2
+squid: 12
+squirrel: 41
+squirrl: 1 squirrel
+squirt: 2
+squirting: 6
+srawn: 1
+sreet: 1
+srfer: 1 surfer
+srinkler: 1 sprinkler
+srone: 1 drone
+sround: 1 around
+sst: 3
+st: 84
+st.: 71
+sta: 1
+stabilizer: 2
+stable: 18
+stack: 378
+stacked: 1
+stacker: 2
+stadium: 235
+staff: 22
+stag: 1
+stage: 197
+stagecoach: 6
+staging: 3
+stahl: 2
+stain: 26
+stainless: 9
+stair: 536
+staircase: 95
+stairs: 10
+stairway: 41
+stairwell: 19
+stake: 8
+stalin: 1
+stalk: 66
+stall: 498
+stallion: 4
+stalls: 1
+staman: 1
+stamp: 11
+stan: 1
+stancce: 1 stance
+stance: 100
+stand: 1437
+standalone: 2
+standard: 4
+standards: 1
+standby: 2
+stander: 1
+standgn: 1 standing
+standig: 1 standing
+standign: 2 standing
+standin: 1 standing
+standind: 2 standing
+standing: 456
+standng: 5 standing
+standong: 3 standing
+standpoint: 1
+stands: 4
+standstill: 7
+standup: 1
+stanford: 1
+stanley: 3
+staple: 3
+stapler: 4
+staples: 4
+star: 122
+starbuck: 3 starbucks
+starbucks: 28
+starburst: 1
+starch: 2
+stardust: 1
+stare: 45
+starfish: 1
+starfuit: 1
+staricase: 1 staircase
+staring: 12
+starkist: 1
+starring: 1
+stars: 1
+start: 31
+starter: 1
+starting: 10
+stash: 1
+state: 60
+statement: 8
+states: 28
+stating: 1
+station: 2729
+station.next: 1
+stationary: 17
+stationed: 1
+stationery: 3
+stationwagon: 1
+statistic: 1
+statnue: 1
+statoin: 1
+statosphere: 1 stratosphere
+statue: 992
+statues: 1
+statuette: 3
+stature: 6
+status: 3
+statute: 17
+stay: 3
+stead: 1
+steak: 138
+steaks: 1
+steal: 12
+stealth: 1
+steam: 333
+steamboat: 8
+steamed: 1
+steamer: 4
+steaming: 5
+steamship: 1
+steel: 607
+steele: 4 steel
+steem: 1 steam
+steeple: 167
+steeplecase: 1
+steer: 57
+steering: 48
+steet: 8
+stein: 1
+steiner: 2
+stellar: 1
+stem: 92
+stemware: 2
+stencil: 6
+stenciling: 1
+step: 492
+stephanie: 1
+stephen: 3
+stepladder: 2
+steppe: 1
+stepping: 5
+steps: 1
+stepstool: 1
+stereo: 17
+stereotype: 1
+sterling.eu: 2
+stern: 3
+stethascope: 1 stethoscope
+stethoscope: 6
+steve: 7
+stevens: 5
+stew: 55
+stewardess: 1
+stianless: 1 stainless
+stick: 363
+sticker: 320
+stickers: 1
+stickey: 1
+stickie: 1
+stickig: 1
+sticks: 1
+stiletto: 2
+stilettos: 1
+still: 7
+stillness: 8
+stilt: 8
+stine: 1
+sting: 1
+stink: 2
+stip: 1
+stir: 55
+stirchley: 1
+stirfry: 3
+stirrer: 1
+stirring: 1
+stirrup: 2
+stitch: 5
+stittng: 1
+stn: 1
+stnad: 2
+stoage: 1
+stock: 18
+stocking: 38
+stockpot: 1
+stockton: 2
+stockyard: 1
+stoe: 1
+stole: 2
+stoll: 2
+stomach: 93
+stone: 1033
+stonehenge: 3
+stoner: 2
+stonewall: 2
+stonework: 3
+stoney: 1 stony
+stony: 1
+stood: 1
+stooge: 5
+stool: 244
+stoop: 9
+stop: 3025
+stop/: 1
+stoplight: 192
+stoplights: 1
+stoppe: 1
+stopper: 2
+stopping: 5
+stopsign: 2
+stopwalk: 1
+stopwatch: 2
+stor: 1
+storage: 142
+store: 1433
+storefront: 65
+stores: 2
+storey: 3
+stork: 18
+storm: 65
+stormcloud: 1
+stormtroopers: 1
+storrm: 1
+story: 186
+storybook: 1
+stout: 2
+stov: 1
+stove: 2067
+stovetop: 21
+stow: 1
+straat: 1
+straight: 1
+straightener: 1
+straightner: 1 straightener
+strain: 9
+strainer: 12
+strait: 1
+strand: 12
+strange: 1
+stranger: 1
+strap: 41
+strapless: 3
+strase: 1
+strategy: 3
+straw: 212
+strawberie: 1 strawberry
+strawberrie: 1 strawberry
+strawberry: 296
+strawberrys: 2 strawberry
+strawboard: 1
+straws: 8
+strawsberrie: 1 strawberry
+stray: 3
+streak: 13
+streaks: 3
+stream: 224
+streamer: 32
+streaming: 1
+streamliner: 1
+stree: 4 street
+streed: 1 street
+streeet: 3 street
+streen: 1 street
+streer: 3 street
+street: 21442
+streetcar: 19
+streeth: 1 street
+streetlamp: 4
+streetlight: 82
+streets: 4
+streetscape: 1
+streetside: 1
+streetsign: 3
+strength: 4
+stress: 1
+stret: 6 street
+stretch: 45
+stretcher: 1
+stretching: 3
+strett: 1 street
+strewn: 4
+stride: 7
+strike: 15
+strikeout: 1
+striking: 2
+string: 277
+stringer: 1
+strings: 1
+strip: 187
+stripe: 144
+striped: 7
+striping: 1
+stripper: 1
+strofoam: 1 styrofoam
+stroke: 5
+strokk: 1
+stroll: 13
+stroller: 98
+strolling: 1
+stromboli: 2
+strret: 1 street
+structure: 357
+strudel: 1
+struggle: 1
+strut: 4
+sts: 1
+stubble: 1
+stubbly: 1
+stucco: 12
+stuccoed: 1
+stuck: 7
+stud: 5
+studebaker: 1
+student: 160
+studf: 1
+studio: 61
+study: 18
+stuff: 278
+stuffed: 139
+stuffing: 7
+stump: 84
+stun: 2
+stunt: 319
+stuntman: 2
+stur: 1
+style: 588
+styles: 1
+styling: 4
+stylist: 4
+stylus: 6
+styrofoam: 31
+suace: 1 sauce
+suasuage: 1 sausage
+sub: 159
+subcompact: 1
+subject: 9
+submarine: 27
+subset: 1
+substance: 32
+substation: 1
+subtitle: 3
+subtrain: 1
+suburb: 5
+suburbia: 2
+suburbs: 2
+subway: 527
+subwoofer: 1
+success: 1
+succession: 2
+succulent: 4
+sucker: 5
+suckle: 3
+suckling: 1
+sudoku: 1
+suds: 1
+sudsy: 3
+suede: 2
+suess: 1
+suf: 1
+suface: 1 surface
+sufboard: 2 surfboard
+sufer: 3 surfer
+suffed: 1 stuffed
+suffer: 1
+sufferage: 1 suffrage
+suffolk: 2
+suftboard: 2 surfboard
+sugar: 157
+sugarcane: 2
+sugared: 2
+suggestion: 3
+sugn: 1 sign
+suicide: 1
+suit: 2664
+suitcase: 1972
+suitcase/: 1
+suite: 91
+suitecase: 2 suitcase
+suites: 1
+suits: 1
+sulky: 1
+sulphur: 1
+sum: 6
+sumbraro: 1 sombrero
+summer: 59
+summertime: 4
+summit: 13
+sun: 908
+sunbathe: 2
+sunbather: 13
+sunbeam: 4
+sunburnt: 1
+sunburst: 1
+sundae: 5
+sundaes: 3
+sunday: 7
+sundial: 1
+sundown: 8
+sundress: 2
+sundrie: 1
+sunet: 1 sunset
+sunexpress: 2
+sunflower: 63
+sunflowers: 1
+sunglass: 485
+sunglasse: 1
+sunhat: 2
+sunlight: 148
+sunlit: 3
+sunllight: 1 sunlight
+sunning: 1
+sunny: 2
+sunrise: 23
+sunroof: 3
+sunroom: 1
+sunscreen: 3
+sunset: 394
+sunshade: 5
+sunshine: 38
+sup: 1
+super: 4
+superfortress: 1
+superhero: 1
+superman: 4
+supermarket: 32
+superstar: 1
+supertrain: 1
+supervisor: 2
+supine: 2
+supplication: 1
+supplies: 3
+supply: 244
+support: 31
+supreme: 2
+sur: 2
+surboard: 14 surfboard
+surer: 2
+surf: 1841
+surface: 799
+surfacing: 1
+surfbaord: 1 surfboard
+surfboad: 2 surfboard
+surfboader: 1 surfboarder
+surfboar: 1 surfboard
+surfboard: 4880
+surfboarder: 20 surfboarder
+surfboarding: 4
+surfboards: 6
+surfer: 2046
+surfers: 6
+surfing: 392
+surfobard: 1 surfboard
+surfs: 45
+surgare: 1
+surge: 3
+surgeon: 4
+surger: 1
+surgery: 8
+surprise: 13
+surprize: 1 surprise
+surrey: 1
+surround: 4
+surrounded: 6
+surrounding: 27
+surveillance: 1
+surveillence: 1 surveillance
+survey: 4
+survivor: 3
+susage: 1 sausage
+susan: 6
+sushi: 87
+suspect: 1
+suspender: 13
+suspension: 13
+sust: 1
+sustenance: 8
+sutcase: 1 suitcase
+suti: 2 suit
+suticase: 2 suitcase
+suurfing: 1 surfing
+suute: 1
+suv: 92
+suvs: 2
+suzuki: 3
+suzuran: 1
+svu: 2
+sw: 3
+swab: 4
+swaddle: 1
+swam: 1
+swamp: 14
+swan: 121
+swans: 1
+swap: 2
+swarm: 5
+swatch: 3
+swathe: 1
+sweat: 20
+sweater: 271
+sweating: 1
+sweatpant: 5 sweatpants
+sweatshirt: 66
+sweatsuit: 1
+sweaty: 2
+sweeper: 7
+sweeping: 1
+sweet: 38
+sweetcorn: 1
+sweetend: 1 sweetened
+sweetheart: 1
+swell: 4
+swiflty: 1 swiftly
+swift: 2
+swig: 1
+swim: 39
+swimmer: 33
+swimming: 206
+swimsuit: 24
+swimtrunk: 1
+swimwear: 5
+swine: 1
+swing: 786
+swinging: 39
+swingset: 1
+swining: 1
+swirl: 12
+swirling: 1
+swishing: 2
+swiss: 5
+switch: 19
+switching: 7
+switchyard: 1
+switzerland: 1
+swivel: 3
+sword: 53
+swung: 2
+sycamore: 1
+sydney: 5
+symbol: 56
+sympathy: 1
+symposium: 1
+sync: 5
+synergy: 1
+synthesizer: 1
+syringe: 2
+syrup: 77
+system: 173
+t: 243
+t.: 2
+t.v: 41
+t.v.: 19
+t.v.on: 1
+t.v.s: 1
+t.v.v: 4
+tab: 10
+tab.e: 1
+tabacco: 1 tobacco
+tabasco: 2 tobacco
+tabby: 173
+tabe: 6 table
+tabel: 1 table
+tabke: 1 table
+tabl: 3 table
+table: 22184
+table.with: 1
+tableau: 1
+tablebb: 1
+tablecloth: 104
+tablel: 1 table
+tables: 3
+tablet: 165
+tabletop: 43
+tableware: 2
+tablle: 1 table
+tablr: 1 table
+tac: 1
+tack: 14
+tackle: 2
+taco: 40
+tacos: 7
+tacquet: 1 racket
+tacs: 1
+tad: 2
+tag: 216
+taggged: 1 tagged
+tagging: 5
+tags: 1
+tahiti: 1
+taht: 5 that
+tail: 251
+tailgate: 5
+taillight: 3
+tailpipe: 1
+tain: 1
+take: 16
+takeaway: 1
+takeoff: 65
+takeout: 20
+takeovr: 3 takeover
+taker: 4
+taking: 29
+takings: 1
+tal: 1
+talbe: 8 table
+talble: 1 table
+talbot: 7
+tale: 20
+talent: 1
+tali: 1
+talk: 95
+talkie: 6
+talking: 18
+tall: 20
+talon: 3
+tam: 2
+tamagochi: 1
+tamale: 1
+tame: 1
+tampa: 2
+tan: 357
+tandem: 7
+tanding: 1
+tandoor: 1
+tang: 1
+tangelo: 2
+tangerine: 56
+tangerines: 1
+tangle: 7
+tank: 263
+tankard: 1
+tanker: 43
+tankless: 5
+tanktop: 3
+tanning: 2
+tansit: 1 transit
+taoilet: 1 toilet
+tap: 5
+tapa: 1
+tape: 105
+taped: 2
+tapestry: 9
+tapton: 3
+taquito: 1
+tar: 13
+tarana: 2
+tarck: 1
+tard: 1
+target: 10
+tarmac: 763
+tarmack: 4
+tarmacs: 2
+tarot: 1
+tarp: 50
+tarps: 5
+tart: 12
+tartan: 1
+tartar: 7
+tarter: 1
+task: 19
+tasking: 1
+tassel: 4
+tassels: 1
+taste: 25
+taster: 1
+tasting: 58
+tasty: 5
+tat: 1
+tatami: 2
+tater: 17
+tatoo: 2 tattoo
+tatoos: 1 tattoo
+tats: 1
+tattoe: 1 tattoo
+tattoo: 54
+tattooed: 5
+tattoos: 3
+taupe: 3
+tavern: 6
+tax: 5
+taxi: 162
+taxicab: 1
+taxicabs: 1
+taxidermist: 1
+taxidermy: 12
+taxiing: 9
+taxing: 1
+taxining: 1 taxiing
+taxis: 6
+taxiway: 4
+tay: 2
+taylor: 1 tailor
+tbale: 2
+tball: 3
+tbe: 1
+tbeir: 1
+tbrown: 1
+te: 3
+tea: 290
+teach: 1
+teacher: 22
+teachers: 1
+teaching: 5
+teacup: 10
+teady: 1
+teak: 1
+teakettle: 1
+teal: 3
+tealight: 2
+team: 634
+teamate: 1 teammate
+teammate: 27
+teammates: 2 teammate
+teams: 1
+teapot: 32
+tear: 9
+teaspoon: 2
+teat: 3
+tech: 19
+techie: 1
+technician: 6
+technicolor: 1
+technique: 5
+technology: 18
+tecwith: 1
+ted: 5
+tedd: 1
+teddie: 1
+teddy: 422
+teddybear: 10
+tee: 81
+teeball: 1
+teedy: 1
+teen: 72
+teenage: 1
+teenager: 189
+teepee: 3
+teeshirt: 5
+teeter: 2
+teeth: 27
+teethrbushes: 1 toothbrush
+teetotal: 1
+teh: 19 the
+teir: 1 their
+teleconferencing: 1
+teledu: 1
+telegraph: 4
+telephone: 261
+telephoto: 1
+telescope: 8
+television: 2108
+televisison: 1 television
+televison: 3 television
+televsion: 2 television
+telivision: 2 television
+tell: 2
+telling: 2
+tellow: 1 yellow
+temp: 2
+temperature: 11
+templar: 1
+temple: 18 
+tempreture: 1 temperature
+tempura: 1
+ten: 3
+tenant: 2
+tend: 1
+tendency: 1
+tender: 4
+tending: 1
+tendril: 1
+tenis: 1 tennis
+tennessee: 1
+tenni: 10 tennis
+tennie: 1 tennis
+tennin: 1 tennis
+tennis: 13635
+tennisball: 1
+tent: 379
+tentacle: 2
+tenth: 1
+tenting: 1
+teo: 1
+tepee: 1
+tequila: 2
+terain: 1 terrain
+teresa: 5
+teri: 1
+teriyaki: 1
+term: 2
+terminal: 249
+terminl: 1 terminal
+terra: 3
+terrace: 10
+terracotta: 3
+terrain: 104
+terrainw: 1 terrain
+terrarium: 1
+terrier: 25
+territory: 12
+tesla: 1
+test: 7
+testicle: 1
+testing: 5
+tether: 9
+tetris: 1
+teverton: 1
+texaco: 2
+texas: 14
+text: 62
+textbook: 8
+texter: 1
+textile: 2
+texting: 12
+texts: 2
+texture: 3 
+tgat: 1 that
+tge: 1 the
+th: 6
+thai: 7
+thailand: 3
+thames: 7
+than: 1
+thank: 2
+thanksgiving: 4
+thar: 1 that
+that: 115
+thatch: 6
+thatched: 7
+the: 51
+theater: 40
+theatre: 22 theater
+thebed: 1 the bed
+thecstreet: 1
+thedoor: 1
+thee: 8
+thei: 1 
+their: 14
+thelonius: 1
+them: 5
+theme: 66
+themself: 6 themselves
+themselve: 1 themselves
+theodore: 1
+ther: 7 
+therapy: 2
+there: 20
+therer: 1
+theresa: 1
+thermometer: 15
+thermos: 6
+thermostat: 1
+theself: 1 themselves
+thete: 1
+thevstreet: 1
+thew: 1
+thi: 1
+thick: 1
+thicket: 16
+thie: 1 thief
+thief: 3
+thier: 2 thief
+thigh: 8
+thimble: 4
+thin: 1
+thing: 527
+thingd: 1 thing
+think: 1
+thinking: 1
+thinkpad: 1
+thinness: 2
+third: 12
+thirst: 2
+thirteen: 1
+thirty: 1
+this: 5
+thistle: 2
+tho: 2
+thoma: 1 thomas
+thomas: 29
+thong: 4
+thorn: 1
+thoroughfare: 1
+thought: 12
+thousand: 9
+thousands: 1
+thr: 2 the
+thrash: 1
+thre: 19
+thread: 38
+threat: 1
+three: 23
+threes: 1
+threesome: 2
+threshold: 1
+thrift: 4
+thrill: 1
+throat: 4
+throne: 1
+throng: 4
+through: 17
+throught: 1 throughout
+throughthe: 1 throughout the
+throw: 68
+throwback: 1
+thrower: 2
+throwing: 19
+thrre: 1 there
+thru: 10 through
+thrust: 2
+thruway: 1
+tht: 2
+thte: 2
+thumb: 63
+thumbnail: 1
+thumbprint: 2
+thumbs: 9
+thump: 1
+thunder: 2
+thunderbird: 3
+thw: 1
+thwere: 1 there
+tiara: 11
+tibet: 2
+tic: 2
+tick: 3
+ticker: 1
+ticket: 40
+ticketing: 1
+tidbit: 1
+tiddly: 1
+tide: 42
+tie: 2957
+tied: 3
+tied-: 1
+tiel: 1
+tier: 46
+tiffany: 1
+tiful: 1
+tigar: 1
+tiger: 78
+tigers: 7
+tigger: 1 tiger
+tight: 26
+tightie: 1
+tightrope: 4
+tighty: 1
+tijuana: 2
+tike: 1
+tiki: 6
+tikis: 1
+tile: 832
+tiled: 1
+tiles: 2
+tiling: 18
+tiller: 1
+tim: 6
+timber: 3
+timbers: 1
+time: 896
+timelapse: 1
+timepiece: 1
+timer: 17
+times: 11
+timestamp: 1
+timey: 6
+timpson: 1
+timy: 1
+tin: 116
+tine: 2
+tinfoil: 13
+ting: 2
+tinker: 1
+tinkerbell: 2
+tinsel: 5
+tint: 8
+tintin: 2
+tiny: 2
+tinyl: 1
+tiolet: 2
+tip: 48
+tiptoe: 1
+tire: 187
+tires: 1
+tissue: 88
+tissur: 1 tissue
+tit: 2
+titan: 1
+titans: 1
+titian: 1
+title: 7
+tivvy: 1
+to: 34
+toa: 5 toad
+toad: 1
+toast: 236
+toaster: 231
+toasting: 2
+tobacco: 2
+tobaggan: 1 toboggan
+toboggan: 3
+today: 44
+toddle: 2
+toddler: 446
+todller: 1 toddler
+toe: 21
+toed: 1
+toegher: 1 together
+toenail: 4
+tofu: 37
+tog: 4
+toga: 8
+togas: 2
+togehter: 1 together
+togethe: 1 together
+together: 46
+togheter: 1 together
+toghether: 1 together
+togther: 2 together
+toielt: 2 toilet
+toile: 2 toilet
+toiler: 8
+toilet: 7621
+toilet.next: 1
+toiletry: 71
+toilets: 1
+toilett: 1 toilet
+toilette: 25
+toilit: 1 toilet
+toilitrie: 1 toiletry
+toitet: 1 toilet
+token: 1
+tokyo: 14
+tole: 1
+toledo: 1
+toleit: 2 toilet
+tolet: 3 toilet
+toliet: 19 toilet
+tolit: 3 toilet
+tolitrie: 1 toiletry
+toll: 15
+tollbooth: 1
+tolworth: 1 
+tom: 5
+tomale: 1
+tomasino: 2
+tomatillo: 1
+tomato: 903
+tomatoe: 4 tomato
+tomatoes: 1
+tomatos: 4 tomato
+tombstone: 3
+tommatoe: 1 tomato
+tommy: 4
+ton: 43
+tone: 49
+tong: 29
+tongue: 216
+tonight: 5
+tonnele: 1
+tonuge: 1
+tony: 4
+tooh: 1
+tool: 246
+toolbox: 6
+toolholder: 1
+tools: 1
+toom: 1
+toon: 1
+tooping: 1
+tootbrush: 1 toothbrush
+tootgbrush: 1 toothbrush
+tooth: 1190
+toothbrush: 870
+toothbrushes: 1
+toothbush: 1 toothbrush
+toothpaste: 107
+toothpic: 1 toothpick
+toothpick: 19
+toothpste: 1 toothpaste
+tootpaste: 1 toothpaste
+top: 15254
+topcoat: 1
+tophat: 2
+topiary: 3
+topic: 2
+toping: 1
+topl: 1
+topless: 2
+topography: 1
+topped: 1
+topper: 10
+topping: 771
+tops: 2
+topsand: 1
+toque: 1
+tor: 1
+torbie: 1
+torch: 8
+torme: 2
+tornado: 1
+toronto: 5
+torrent: 1
+torso: 10
+tort: 2
+torte: 1
+tortellini: 3
+tortia: 1 tortilla
+tortilla: 66
+tortoise: 2
+tortoiseshell: 6
+tortoseshell: 1 tortoiseshell
+torture: 1
+toshiba: 3
+toss: 5
+tossing: 1
+tostada: 2
+tostadas: 1
+toster: 1 toaster
+tot: 27
+total: 1
+tote: 5
+tothe: 1
+totoro: 1
+totter: 1
+touch: 34
+touching: 1
+tough: 1
+toule: 1
+tounge: 2 tongue
+tounges: 1 tongue
+tour: 356
+touratech: 1
+tourbus: 1
+touring: 3
+tourism: 2
+tourist: 207
+tournament: 36
+tours: 3
+tow: 289
+toward: 4
+towel: 929
+towell: 2 towel
+towels: 1
+tower: 3038
+towering: 1
+towers: 1
+towing: 13
+towl: 2 towel
+towls: 1 towel
+town: 785
+towne: 1
+townhous: 2 townhouse
+townhouse: 1
+township: 1
+townspeople: 1
+towtruck: 3
+tox: 1
+toy: 1556
+toyota: 14
+toys: 4
+toystory: 1
+tp: 8
+tr: 2
+tra: 1
+tracck: 1 track
+trace: 2
+trach: 1
+track: 5224
+track.car: 1
+trackball: 1
+tracke: 1 tracker
+tracker: 2
+tracking: 1
+trackor: 2 tracker
+trackpad: 1
+tracks: 9
+tracksl: 1
+trackway: 1
+trackwith: 1
+tract: 1
+tractor: 184
+trade: 14
+trader: 4
+tradeshow: 1
+trading: 1
+trafffic: 1 traffic
+traffic: 3661
+traffice: 3 traffic
+traffiic: 1 traffic
+trafic: 1 traffic
+trail: 543
+traile: 1 trailer
+trailer: 425
+trailing: 2
+trailor: 3 trailer
+trails: 1
+train: 13417
+trainer: 61
+training: 51
+trainl: 1
+traintrack: 4
+trainyard: 4
+traior: 1
+traisn: 1
+trajectory: 1
+traler: 1 trailer
+tram: 67
+tramac: 1 tarmac
+tramp: 1
+trampoline: 4
+tramway: 3
+tran: 2 train
+trance: 1
+trane: 1 train
+tranit: 1 train
+tranport: 1 transport
+trans: 1
+transaction: 1
+transat: 2
+transavia: 1
+transfer: 2
+transformer: 2
+transi: 1 transit
+transit: 363
+translation: 1
+transp: 1
+transport: 69
+transportation: 105
+transporter: 2
+transvestite: 1
+trap: 4
+trapdoor: 1
+trapeze: 1
+trash: 434
+trashbag: 2
+trashcan: 34
+travcks: 1
+travel: 152
+traveler: 78
+traveling: 61
+travelingm: 1 traveling
+traveller: 3 traveler
+travelling: 14 traveling
+travis: 2
+trawler: 2
+tray: 1696
+tray/: 1
+trays: 4
+trck: 2
+trcok: 1
+trdelnik: 1
+tre: 2
+tread: 1
+treadmill: 3
+treasure: 1
+treat: 120
+treatment: 5
+tree: 9884
+tree'd: 1
+treed: 9
+treee: 2 tree
+treeline: 4
+trees: 21
+treet: 2
+treetop: 8
+trek: 14
+trellis: 6
+trench: 15
+trenchcoat: 3
+trespasser: 1
+trespassing: 2
+tress: 8
+trestle: 9
+treth: 1
+trey: 39
+tri: 5
+trial: 7
+trian: 1
+triangle: 36
+triathlon: 1
+tribe: 1
+tribute: 2
+trick: 2825
+tricks: 3
+tricycle: 30
+trifold: 1
+trig: 1
+trike: 3
+trim: 57
+trimming: 10
+trinity: 1
+trinket: 10
+trio: 99
+trip: 61
+tripe: 1
+triplane: 1
+triple: 1
+triplet: 1
+tripmaster: 1
+tripod: 18
+tripos: 1
+tripple: 1 triple
+triptych: 3
+tris: 1
+triumph: 6
+triverfront: 1
+trivet: 2
+trivia: 1
+troll: 6
+trolley: 175
+trolleys: 1 trolley
+trolly: 12 trolley
+trollys: 1 trolley
+trombone: 5
+troop: 6
+trooper: 6
+trophy: 39
+trophys: 1 trophy
+tropic: 2
+tropical: 1
+tropicle: 1 tropical
+trot: 6
+trots: 1
+trotter: 1
+trotting: 1
+trouble: 9
+trough: 98
+trouser: 3
+trp: 1
+tru: 2
+truch: 2
+truck: 6043
+truckbed: 2
+trucker: 4
+trucking: 6
+truckload: 2
+trucks: 7
+true: 1
+truffle: 2
+truk: 1
+truman: 1
+trump: 1
+trumpet: 6
+trunck: 1
+trundle: 3
+trunk: 735
+truss: 1
+trust: 4
+truth: 4
+try: 13
+trycycle: 1 tricycle
+tryin: 1 trying
+trying: 2
+tryng: 2
+tshirt: 22
+tub: 1258
+tubberware: 1 tupperware
+tube: 89
+tuber: 1
+tubing: 2
+tuck: 15
+tucka: 1
+tuckaway: 1
+tucker: 1
+tue: 1
+tuesday: 1
+tuff: 1
+tuffed: 1
+tuft: 5
+tug: 35
+tugboat: 8
+tuk: 1
+tuks: 1
+tulip: 50
+tulips: 1
+tulle: 2
+tumble: 3
+tumbler: 3
+tummy: 7
+tun: 5
+tuna: 18
+tunafish: 1
+tundra: 11
+tune: 2
+tunic: 2
+tunisair: 1
+tunnel: 136
+tupperware: 14
+turban: 19
+turbine: 11
+turbo: 2
+turd: 2
+turf: 13
+turing: 1
+turk: 1
+turkey: 127
+turkie: 1
+turkish: 1
+turmac: 2
+turn: 357
+turnabout: 1
+turnaround: 1
+turned: 1
+turning: 6
+turnip: 14
+turnover: 1
+turns: 4
+turnstile: 1
+turnstyle: 1 turnstile
+turntable: 6
+turnup: 1
+turquoise: 15
+turret: 5
+turtle: 33
+turtles: 1
+turvy: 1
+tusk: 153
+tusks: 1
+tussle: 1
+tutus: 1
+tux: 12
+tuxedo: 75
+tv: 1956
+tvs: 8
+tw: 2
+tweed: 3
+tweede: 1
+tween: 1
+tweet: 1
+tweezer: 5
+twenty: 2
+twentys: 1
+twho: 1
+twig: 42
+twiggy: 1
+twigs: 7
+twiight: 1 twilight
+twilight: 38
+twin: 37
+twine: 5
+twinkie: 6
+twins: 2
+twirl: 1
+twist: 10
+twisting: 4
+twitter: 3
+two: 52
+twoer: 1
+twp: 4
+tx: 1
+ty: 1
+tye: 6
+tyhis: 1
+tying: 1
+tykes: 1
+type: 1137
+typer: 1
+types: 1
+typewrite: 1
+typewriter: 13
+typing: 21
+typist: 1
+typle: 1
+tyre: 1
+tyumen: 1
+tyvek: 1
+tzu: 1
+u: 17
+u.: 1
+u.s: 3
+u.s.: 42
+u.s.a: 1
+u.s.a.: 1
+u2: 1
+uasc: 1
+ubuntu: 2
+ucciani: 1
+udder: 7
+ugliness: 1
+uhaul: 4
+uhuru: 1
+uk: 14
+ukelele: 1
+ukraine: 3
+ukulele: 2
+ultimate: 8
+ultralight: 1
+ulundu: 1
+umbella: 5 umbrella
+umberall: 1 umbrella
+umberalla: 1 umbrella
+umberella: 3 umbrella
+umberlla: 1 umbrella
+umbreall: 1 umbrella
+umbrealla: 6 umbrella
+umbreallas: 1 umbrella
+umbrela: 1 umbrella
+umbrell: 2 umbrella
+umbrella: 7042
+umbrellas: 5 umbrella
+umbrellla: 1 umbrella
+umbrila: 1 umbrella
+ump: 11
+umpire: 483
+un: 9
+unbrella: 5 umbrella
+unbutton: 1
+uncle: 3
+undeneath: 1 underneath
+under: 9
+underbelly: 3
+underbrush: 9
+undercarriage: 2
+underclothe: 2 underclothes
+undercover: 1
+underfoot: 1
+undergarment: 2
+underground: 1
+underhand: 1
+underneat: 1 underneath
+underneath: 30
+underpass: 14
+undershirt: 1
+underside: 25
+undertone: 1
+underwater: 6
+underwear: 51
+undie: 2
+undone: 4
+uneaten: 4
+unfiorm: 1 uniform
+uni: 2
+unicorn: 5
+unicycle: 4
+uniform: 1125
+uniforms: 1
+unimento: 1
+union: 21
+unique: 2
+unisex: 2
+unison: 11
+unit: 93
+united: 72
+universal: 1
+university: 20
+unke: 1
+unloading: 5
+unmade: 3
+unmake: 1
+unmanned: 1
+unprepossessing: 1
+unripe: 6
+unsure: 1
+untensil: 1 utensil
+until: 1
+unused: 1
+unwrapped: 1
+up: 408
+update: 2
+updating: 2
+upgrade: 2
+upheld: 1
+uphill: 7
+upholstery: 2
+upkeep: 1
+uplands: 2
+upon: 1
+upper: 1
+upright: 31
+upron: 1 apron
+ups: 5
+upscale: 1
+upshot: 1
+upside: 88
+upsidedown: 1
+upstair: 1
+upstairs: 1
+upward: 8
+urban: 1
+urbano: 1 urban
+urial: 1 urinal
+uriinal: 1 urinal
+urinal: 373
+urinals: 1
+urination: 1
+urine: 6
+urinel: 1 urinal
+urn: 33
+urnals: 1 urinal
+urnial: 1 urinal
+urns: 1
+ursan: 1
+us: 60
+usa: 19
+usaf: 2
+usage: 6
+usb: 13
+use: 68
+used: 1
+usefulness: 1
+user: 18
+usn: 2
+usq: 1
+ut: 1
+utah: 1
+utensil: 309
+utility: 107
+utincel: 1 utensil
+utinsil: 1 utensil
+utmost: 1
+utopia: 1
+utter: 1
+uxbridge: 1
+uzbekistan: 1
+v: 10
+v-22: 1
+v.: 1
+v8: 2
+vac: 2
+vacancy: 1
+vacant: 1
+vacation: 17
+vacationer: 1
+vaccum: 1 vacuum
+vace: 3
+vacumn: 1 vacuum
+vacuum: 13
+vade: 1
+vader: 8
+vagina: 4
+vagrant: 1
+vail: 1
+vain: 1
+valance: 5
+valentine: 11
+valentines: 1
+valey: 1
+valise: 1
+valley: 116
+valor: 1
+value: 3
+valve: 10
+vampire: 1
+van: 492
+vancouver: 11
+vandalism: 2
+vane: 37
+vanilla: 38
+vanity: 327
+vans: 1
+vantage: 3
+vapor: 4
+var: 1
+variant: 1
+variation: 9
+variety: 764
+various: 1
+variousppeople: 1 various people
+varity: 1 varsity
+varsity: 2
+vary: 1
+vas: 799
+vase: 3224
+vases: 1
+vass: 1
+vat: 4
+vaudeville: 1
+vault: 1
+vcr: 8
+vdu: 1
+vechicle: 1 vehicle
+vedgie: 1 vegetable
+vee: 2
+veffie: 2
+veg: 1
+vegan: 7
+vegas: 4
+vegatable: 2 vegetable
+vege: 1 vegetable
+vegeatable: 1 vegetable
+vegegable: 1 vegetable
+vegemite: 1
+vegetabe: 1 vegetable
+vegetable: 3402
+vegetable.s: 1 vegetable
+vegetables: 4
+vegetale: 1 vegetable
+vegetation: 116
+veggie: 416
+veggies: 1
+veggiesm: 1
+vegie: 1 vegetable
+vegitable: 6 vegetable
+vegtable: 13 vegetable
+vehcile: 1 vehicle
+vehetable: 1 vegetable
+vehicle: 1334
+vehicles: 8
+vehycle: 1 vehicle
+veil: 11
+vein: 10
+velcro: 1
+veldt: 3
+velvet: 25
+vender: 4
+vendetta: 1
+vending: 23
+vendor: 151
+venezuela: 1
+venice: 9
+vent: 30
+ventilation: 5
+ventilator: 2
+venting: 1
+ventura: 1
+venue: 18
+venus: 2
+vera: 1
+veranda: 2
+verandah: 2 veranda
+verant: 1
+verbiage: 1
+veriety: 1 variety
+verity: 1
+verizon: 2
+vermillion: 1
+vermont: 3
+vernon: 2
+verse: 1
+version: 21
+vert: 3
+verve: 1
+very: 14
+vesey: 2
+vesicle: 1
+vespa: 11
+vespas: 5 vespa
+vessel: 27
+vest: 328
+vestibule: 1
+vet: 4
+vetegable: 1 vegetable
+veteran: 7
+veterinarian: 1
+veterinary: 3
+vey: 2
+vhs: 2
+vi: 1
+via: 1
+viaduct: 2
+vial: 1
+vic: 2
+vice: 7
+vicinity: 8
+victim: 2
+victims: 1
+victoria: 5
+victory: 21
+video: 1934
+videogame: 13
+vie: 2
+vienna: 1
+vierw: 1
+viet: 2
+vietnam: 4
+view: 3759
+viewd: 1
+viewer: 33
+viewfinder: 1
+viewing: 13
+viewm: 1
+viewpoint: 8
+vigan: 1
+vignette: 4
+vigor: 1
+viking: 2
+villa: 5
+village: 114
+villager: 5
+villanueva: 1
+villaraigosa: 1
+vinaigrette: 1
+vine: 49
+vinegar: 3
+vines: 1
+viney: 1
+vineyard: 8
+vintage: 140
+vinyl: 5
+violation: 2
+violator: 1
+violence: 1
+violet: 8
+violin: 12
+violinist: 1
+virgin: 19
+virgina: 1 virginia
+virginia: 4
+visa: 2
+visable: 1 visible
+visage: 1
+vise: 1
+visibility: 2
+visible: 1
+vision: 6
+visit: 1
+visitor: 51
+visor: 23
+vista: 9
+visual: 1
+vita: 2
+vitamin: 13
+vittel: 1
+vivew: 1
+vlue: 1
+vocalizing: 1
+voddo: 1
+vodka: 10
+voice: 1
+void: 3
+volcano: 3
+volcom: 1
+volition: 1
+volks: 2
+volkswagen: 7 volkswagen
+volkswagon: 12 volkswagen
+volley: 71
+volleyball: 59
+volt: 2
+voltage: 2
+voltaire: 1
+voltswagon: 1 volkswagen
+volume: 3
+volunteer: 11
+volvo: 4
+voodoo: 4
+vortex: 2
+vote: 5
+voting: 2
+vow: 3
+voy: 1
+voyage: 1
+vr: 1
+vrey: 1
+vueling: 1
+vui.tton: 1 vuitton
+vuitton: 2 vuitton
+vulture: 17
+vw: 19
+w: 17
+w.: 4
+w38th: 1
+wa: 1
+wad: 1
+wadding: 1
+wade: 2
+wader: 1
+wading: 4
+waer: 3 wear
+waering: 1 wearing
+wafer: 6
+waffle: 72
+waffles: 1
+wagen: 1
+wagging: 1
+waggon: 3 wagon
+wagon: 255
+wahlberg: 2
+waikiki: 1
+wainscoting: 1
+waist: 33
+wait: 51
+waiter: 23
+waiting: 59
+waitress: 13
+waits: 1
+wake: 70
+wakeboard: 9
+wakeboarder: 7
+wal: 1 wall
+waling: 6
+walk: 703
+walker: 35
+walkie: 7
+walkign: 3 walking
+walkin: 1 walking
+walkind: 1 walking
+walking: 263
+walkiong: 1 walking
+walkk: 1 walk
+walkman: 1
+walkong: 1 walking
+walkout: 2
+walkway: 368
+walkway;.: 1
+wall: 5800
+wall.s: 1
+wallace: 2
+waller: 1
+wallet: 65
+wallow: 1
+wallpaper: 58
+walls: 5
+walmart: 1
+walnut: 23
+walsk: 2
+walska: 1
+walter: 2
+walworth: 2
+wand: 9
+wander: 3
+wanna: 1
+wanton: 1
+war: 126
+warbler: 1
+ward: 6
+wardrobe: 10
+ware: 45
+warehouse: 75
+warm: 3
+warmer: 1
+warming: 3
+warmth: 3
+warn: 5
+warning: 72
+warp: 1
+warplane: 4
+warranty: 2
+warrior: 3
+wars: 8
+warthog: 3
+wartime: 1
+wash: 66
+washbasin: 8
+washcloth: 1
+washclothe: 1 washcloth
+washer: 75
+washing: 54
+washington: 57
+washline: 1
+washrag: 1
+washroom: 40
+washtub: 2
+waste: 39
+wastebasket: 6
+wastecan: 1
+wasteland: 2
+watch: 232
+watchdog: 2
+watcher: 2
+watches: 1
+watching: 20
+wate: 1 water
+water: 11752
+waterbed: 1
+waterbird: 2
+waterboard: 3
+waterbottle: 1
+watercolor: 2
+watercraft: 8
+waterfall: 69
+waterfowl: 3
+waterfront: 40
+waterhole: 5
+watering: 146
+waterline: 1
+waterloo: 1
+watermark: 3
+watermellon: 1 watermelon
+watermelon: 62
+waterpik: 1
+waters: 6
+waterscape: 1
+waterside: 12
+waterskier: 1
+waterskis: 3
+watersport: 2
+waterview: 1
+waterway: 114
+wathcing: 1
+watr: 1
+wave: 4357
+waveland: 4
+waverunner: 1
+waves: 13
+wavie: 1
+waving: 1
+wavy: 2
+wax: 54
+way: 1237
+waydown: 1
+wayland: 5
+wayne: 1
+weapon: 8
+wear: 56
+wearign: 1
+wearing: 15
+wears: 1
+weasel: 1
+weather: 144
+weathercock: 2
+weathered: 2
+weathervane: 6
+weave: 2
+weaving: 1
+weavy: 1
+web: 23
+webb: 2
+webbing: 1
+webcam: 2
+webpage: 5
+website: 5
+webster: 1
+wed: 1
+wedding: 449
+wedge: 62
+wedges: 1
+wediing: 1 wedding
+wee: 1
+weed: 79
+weeds: 1
+week: 2
+weekend: 3
+weenie: 5
+weeping: 1
+weight: 18
+weightplate: 1
+weimaraner: 1
+weiner: 3
+weirmarana: 1
+welcome: 5
+well: 74
+wellington: 2
+wells: 1
+wendy: 2
+werewolf: 1
+werid: 1
+wering: 1
+west: 30
+western: 1
+westerville: 1
+westie: 1
+westjet: 1
+westmark: 4
+westminster: 4
+westwood: 1
+wet: 67
+wetland: 5
+wetsuid: 2
+wetsuit: 275
+whale: 17
+wharf: 8
+what: 5
+whater: 1
+wheat: 23
+wheel: 472
+wheel.s: 1
+wheelbarrow: 4
+wheelbase: 1
+wheelchair: 80
+wheelchairs: 1
+wheeler: 55
+wheelers: 1
+wheelie: 31
+wheeling: 2
+wheels: 2
+where: 2
+wherein: 1
+whicker: 1
+whie: 1
+whiel: 2 while
+whiffle: 1
+whiile: 2 while
+whild: 1 while
+while: 98
+whimsy: 1
+whine: 26
+whip: 23
+whippet: 2
+whipping: 1
+whir: 1
+whire: 1
+whirl: 1
+whirlpool: 9
+whirlybird: 1
+whisk: 11
+whisker: 6
+whiskey: 8
+whisky: 2
+whisper: 1
+whispy: 1
+whistle: 2
+whit: 42
+white: 418
+whiteboard: 9
+whitecap: 3
+whitehat: 1
+whitehorse: 1
+whitere: 1
+whitewall: 1
+whitewater: 2
+whitie: 2
+whle: 2
+whoa: 3
+whole: 7
+whoolly: 1
+whoopi: 1
+whore: 1
+whte: 1
+whtie: 4
+wi: 13
+wick: 2
+wicker: 78
+wicket: 1
+wide: 8
+widescreen: 6
+widewalk: 3
+widow: 8
+widst: 1
+width: 12
+widthwise: 1
+wiener: 13
+wieters: 1
+wife: 19
+wiffle: 1
+wifi: 1
+wifit: 1
+wig: 45
+wih: 1
+wiht: 6
+wii: 2419
+wiik: 1
+wiil: 1
+wiimote: 14
+wiimoted: 1
+wiimotes: 1
+wiisports: 1
+wiith: 2
+wikileaks: 1
+wil: 1
+wild: 212
+wildcats: 1
+wilde: 1
+wildebeast: 4
+wildebeasts: 1
+wildebeest: 25
+wilderness: 139
+wildflower: 26
+wildlife: 76
+wildly: 1
+wildnerness: 2 wilderness
+wildwood: 3
+wildy: 1
+wile: 6
+will: 1
+willdabeast: 1
+willesden: 1
+willet: 1
+william: 3
+williams: 4
+willie: 1
+willis: 1
+willow: 4
+wilson: 3
+wilting: 2
+wiman: 1
+wimbeldon: 1
+wimbledon: 2
+wimborne: 1
+win: 14
+winchester: 4
+wind: 232
+windboard: 2
+windbreaker: 2
+winddow: 1 window
+winder: 1
+windex: 1
+winding: 17
+windmill: 35
+windo: 2 window
+windoe: 1 window
+window: 6081
+windowed: 2
+windown: 2 window
+windows: 18
+windowsill: 85
+windsail: 3
+windscreen: 1
+windsheild: 1
+windshield: 69
+windsock: 3
+windsor: 2
+windsurf: 2
+windsurfer: 25
+windsurfing: 2
+windsurfs: 4
+windup: 5
+windurfer: 1
+windwo: 1 window
+windy: 1
+wine: 2601
+winecoff: 1
+wineglass: 25
+winery: 19
+wing: 328
+wingspan: 2
+wining: 1
+wink: 4
+winked: 1
+winking: 2
+winne: 1
+winner: 14
+winnie: 11
+winter: 333
+wintertime: 1
+wintery: 11
+wintry: 3
+wioman: 1
+wipe: 8
+wipeout: 2
+wiper: 5
+wire: 751
+wired: 1
+wiree: 1
+wireless: 12
+wires: 3
+wirh: 1
+wiring: 9
+wisconsin: 2
+wish: 5
+wisk: 2
+wisps: 1
+wit: 110
+witch: 8
+wite: 1
+witg: 1
+with: 298
+witha: 13
+withe: 2
+withwater: 1
+wiyh: 1
+wizard: 7
+wizardry: 1
+wky: 1
+wll: 1
+wm167: 1
+wmakret: 1
+wman: 2 woman
+wndow: 3 window
+woamn: 1
+wodden: 1
+woden: 1
+woen: 1
+wok: 43
+woke: 1
+wokly: 1
+wolf: 13
+wolverine: 3
+woma: 4 woman
+womab: 1 woman
+woman: 27751
+womanish: 1
+womans: 1 woman
+womean: 1 woman
+women: 9
+womens: 1
+wonder: 4
+wonderbread: 1
+wondering: 1
+wonderland: 6
+wondow: 2 window
+wone: 1 wine
+wonton: 1
+woo: 4
+wood: 2543
+woodburning: 1
+woodchip: 1
+wooden: 59
+woodgrain: 2
+woodie: 1
+woodkington: 1
+woodland: 7
+woodpecker: 6
+woodpile: 1
+woods: 9
+woodwork: 3
+woodworking: 1
+woody: 8
+woof: 1
+woofer: 1
+wool: 48
+woolen: 2
+wooler: 1
+wooly: 11
+woooden: 1 wooden
+woopie: 1
+word: 298
+wording: 6
+work: 454
+workbench: 5
+workbook: 4
+workcenter: 1
+workday: 1
+workdesk: 1
+worker: 372
+workers: 2
+working: 21
+workman: 4
+workout: 4
+workplace: 3
+workroom: 2
+works: 1
+workshop: 20
+workspace: 26
+workstation: 35
+worktable: 2
+worktop: 1
+world: 89
+worldcraft: 1
+worm: 3
+worship: 2
+worth: 2
+wound: 1
+wrack: 1
+wrangle: 1
+wrap: 65
+wraparound: 1
+wrapper: 109
+wrapping: 19
+wraps: 4
+wreath: 17
+wreck: 11
+wreckage: 4
+wrecked: 1
+wrecker: 2
+wrecking: 1
+wreford: 1
+wrench: 21
+wrestle: 1
+wrestler: 8
+wrestling: 1
+wright: 1
+wrigley: 2
+wrinkle: 4
+wrinkley: 1 wrinkle
+wrist: 32
+wristband: 3
+wristlet: 1
+wristwatch: 2
+write: 1
+writeen: 1 written
+writer: 3
+writing: 140
+writtien: 1 written
+writting: 2 writing
+wrking: 1 working
+wrong: 3
+wsher: 1
+wsith: 1 with
+wth: 9 with
+wtha: 1
+wtih: 4
+wuffle: 1 waffle
+wves: 1
+wwi: 1
+wwii: 4
+wy: 1
+wycombe: 1
+wyoming: 2
+x: 12
+x.: 1
+x3: 1
+xbox: 8
+xing: 1
+xing'an: 1
+xml: 1
+xp: 2
+xxx: 1
+y: 6
+yacht: 42
+yack: 1
+yahoo: 4
+yak: 30
+yam: 4
+yamaha: 15
+yang: 1
+yankee: 5
+yankees: 6
+yard: 851
+yarn: 65
+yatd: 1
+yawn: 7
+yawning: 2
+year: 48
+yeard: 1
+years: 1
+yeast: 2
+yeild: 1 yield
+yell: 1
+yelling: 1
+yelllow: 1
+yello: 1 yellow
+yellow: 284
+yellowed: 1
+yellowl: 1 yellow
+yellowstone: 2 yellowstone
+yelow: 1
+yelp: 1
+yelping: 1
+yesler: 1
+yet: 1
+yield: 30
+yin: 1
+ylthe: 1
+yoctangee: 2
+yoenis: 1
+yoga: 16
+yogurt: 65
+yoilet: 1 toilet
+yoing: 1
+yoke: 1
+yolk: 3
+yonder: 2
+yong: 1 young
+yonng: 1 young
+york: 58
+yorkie: 4
+yorkshire: 2
+yosemite: 1
+yoshi: 1
+youg: 1 young
+yound: 1 young
+younf: 1 young
+young: 117
+youngster: 24
+youth: 94
+youtube: 1
+yrd: 1 yard
+yrllow: 1 yellow
+yspace: 1
+yummy: 5
+z: 3
+z4: 1
+zac: 1
+zag: 1
+zagat: 1
+zeal: 2
+zealand: 3
+zeba: 1 zebra
+zebas: 1 zebra
+zebera: 3 zebra
+zebra: 5428
+zebras: 173 zebra
+zebre: 1 zebra
+zebu: 1
+zedong: 1
+zeebra: 5 zebra
+zerba: 2 zebra
+zerbra: 2 zebra
+zest: 1
+zester: 1
+zibra: 2 zebra
+zigzag: 2
+zinc: 1
+zine: 2
+zip: 5
+zipline: 1
+ziploc: 1
+zipper: 8
+zipping: 1
+zit: 1
+ziti: 2
+zodiac: 2
+zombie: 23
+zone: 71
+zoo: 1320
+zoobrucke: 1
+zookeeper: 7
+zoologist: 1
+zoom: 1
+zooming: 1
+zucchini: 33
+zucchinni: 1 zucchini
