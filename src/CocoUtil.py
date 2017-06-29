@@ -130,3 +130,36 @@ class CocoUtil:
           fix_dict[match.group(1).lower()] = match.group(2).lower()
     
     return fix_dict
+
+  def get_coco_objects(self, path, out=None):
+    categories = {}
+    data = {}
+
+    with open(path) as jf:
+      json_file = json.load(jf)
+
+
+      for c in json_file['categories']:
+        categories[int(c['id'])] = c['name']
+
+      for a in json_file['annotations']:
+        #pp.pprint(categories)
+        image_id = int(a['image_id'])
+        category_id = int(a['category_id'])
+        category = categories[category_id]
+
+        #print('{} {} {}').format(image_id, category_id, category)
+
+        if image_id not in data:
+          data[image_id] = set()
+
+        data[image_id].add(category)
+
+    for image_id in data.keys():
+      data[image_id] = list(data[image_id])
+    #pp.pprint(categories)
+    #pp.pprint(data)
+
+    if out is not None:
+      with open(out, 'w') as outfile:
+        json.dump(data, outfile, indent=2, sort_keys=True)
